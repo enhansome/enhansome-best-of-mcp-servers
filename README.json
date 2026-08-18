@@ -11,10 +11,10 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-03T03:09:55Z",
+            "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92461
+            "stars": 92506
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6547
+            "stars": 6549
           }
         }
       ],
@@ -48,7 +48,7 @@
             "last_commit": "2026-08-12T09:13:07Z",
             "owner": "tolkonepiu",
             "repo": "best-of-mcp-servers",
-            "stars": 139
+            "stars": 141
           }
         },
         {
@@ -62,7 +62,7 @@
             "last_commit": "2026-08-12T09:13:07Z",
             "owner": "tolkonepiu",
             "repo": "best-of-mcp-servers",
-            "stars": 139
+            "stars": 141
           }
         }
       ],
@@ -75,7 +75,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:57:00.244Z",
+    "last_updated": "2026-08-18T08:50:50.070Z",
     "original_repository": "tolkonepiu/best-of-mcp-servers",
     "original_repository_sha": "941b300c287f7ce6a975cab57ded672ff3e60a72",
     "enhanced_repository": "enhansome/enhansome-best-of-mcp-servers",

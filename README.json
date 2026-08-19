@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 896335270,
             "language": null,
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92506
+            "stars": 92557
           }
         },
         {
@@ -24,18 +25,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 915233417,
             "language": null,
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6549
+            "stars": 6550
           }
         }
       ],
       "title": "Related Resources"
     },
     {
-      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:\nIf you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository. If you like to create your own best-of list, we recommend to follow this guide.\nFor more information on how to add or update projects, please read the contribution guidelines. By participating in this project, you agree to abide by its Code of Conduct.",
       "items": [
         {
           "node_type": "item",
@@ -44,8 +46,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1030543732,
             "language": null,
-            "last_commit": "2026-08-12T09:13:07Z",
+            "last_commit": "2026-08-19T04:41:18Z",
             "owner": "tolkonepiu",
             "repo": "best-of-mcp-servers",
             "stars": 141
@@ -58,8 +61,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 1030543732,
             "language": null,
-            "last_commit": "2026-08-12T09:13:07Z",
+            "last_commit": "2026-08-19T04:41:18Z",
             "owner": "tolkonepiu",
             "repo": "best-of-mcp-servers",
             "stars": 141
@@ -67,17 +71,12 @@
         }
       ],
       "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T08:50:50.070Z",
+    "last_updated": "2026-08-19T08:51:39.588Z",
     "original_repository": "tolkonepiu/best-of-mcp-servers",
-    "original_repository_sha": "941b300c287f7ce6a975cab57ded672ff3e60a72",
+    "original_repository_sha": "cb963ae1b12d493a817dd809f34794a385b3601e",
     "enhanced_repository": "enhansome/enhansome-best-of-mcp-servers",
     "enhanced_repository_description": null,
     "title": "Awesome best of mcp servers with stars"

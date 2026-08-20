@@ -15,7 +15,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92564
+            "stars": 92593
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6550
+            "stars": 6551
           }
         }
       ],
@@ -74,7 +74,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:17:45.007Z",
+    "last_updated": "2026-08-20T08:52:39.466Z",
     "original_repository": "tolkonepiu/best-of-mcp-servers",
     "original_repository_id": 1030543732,
     "original_repository_sha": "cb963ae1b12d493a817dd809f34794a385b3601e",

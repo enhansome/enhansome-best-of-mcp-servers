@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mindsdb/mindshub",
           "description": "(👨‍💻 910 · 🔀 6.2K · 📋 4.4K - 0% open · ⏱️ 10.07.2026)",
           "children": [],
           "repo_info": {
@@ -15,7 +15,7 @@
             "last_commit": "2026-08-21T23:50:38Z",
             "owner": "mindsdb",
             "repo": "mindshub",
-            "stars": 39640
+            "stars": 39639
           }
         }
       ],
@@ -26,17 +26,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PipedreamHQ/pipedream",
           "description": "(👨‍💻 330 · 🔀 5.7K · 📦 14 · 📋 13K - 30% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 235468657,
             "language": "JavaScript",
-            "last_commit": "2026-08-24T14:37:39Z",
+            "last_commit": "2026-08-25T06:26:39Z",
             "owner": "PipedreamHQ",
             "repo": "pipedream",
-            "stars": 11643
+            "stars": 11647
           }
         }
       ],
@@ -47,14 +47,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "juspay/neurolink",
           "description": "(👨‍💻 74 · 🔀 120 · 📦 19 · 📋 380 - 14% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 993805781,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:39:45Z",
+            "last_commit": "2026-08-25T06:28:59Z",
             "owner": "juspay",
             "repo": "neurolink",
             "stars": 123
@@ -68,7 +68,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "julien040/anyquery",
           "description": "(👨‍💻 15 · 🔀 130 · 📥 17K · 📦 49 · 📋 38 - 13% open · ⏱️ 06.08.2026)",
           "children": [],
           "repo_info": {
@@ -78,7 +78,7 @@
             "last_commit": "2026-08-16T07:37:47Z",
             "owner": "julien040",
             "repo": "anyquery",
-            "stars": 1763
+            "stars": 1765
           }
         }
       ],
@@ -89,7 +89,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "metatool-ai/metamcp",
           "description": "(👨‍💻 34 · 🔀 410 · 📋 200 - 46% open · ⏱️ 22.06.2026)",
           "children": [],
           "repo_info": {
@@ -99,7 +99,7 @@
             "last_commit": "2026-06-22T16:50:50Z",
             "owner": "metatool-ai",
             "repo": "metamcp",
-            "stars": 2620
+            "stars": 2623
           }
         }
       ],
@@ -110,7 +110,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mcpjungle/MCPJungle",
           "description": "(👨‍💻 22 · 🔀 150 · 📥 6.4K · 📋 130 - 48% open · ⏱️ 02.08.2026)",
           "children": [],
           "repo_info": {
@@ -120,7 +120,7 @@
             "last_commit": "2026-08-02T15:15:01Z",
             "owner": "mcpjungle",
             "repo": "MCPJungle",
-            "stars": 1223
+            "stars": 1224
           }
         }
       ],
@@ -131,7 +131,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "1mcp-app/agent",
           "description": "(👨‍💻 13 · 🔀 57 · 📥 3.2K · 📦 1 · 📋 70 - 12% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -141,7 +141,7 @@
             "last_commit": "2026-08-24T14:03:51Z",
             "owner": "1mcp-app",
             "repo": "agent",
-            "stars": 489
+            "stars": 490
           }
         }
       ],
@@ -152,14 +152,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "TheLunarCompany/lunar",
           "description": "(👨‍💻 36 · 🔀 43 · 📋 27 - 25% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 678765416,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:31:58Z",
+            "last_commit": "2026-08-24T15:36:38Z",
             "owner": "TheLunarCompany",
             "repo": "lunar",
             "stars": 484
@@ -173,7 +173,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "K-Dense-AI/claude-skills-mcp",
           "description": "(👨‍💻 3 · 🔀 68 · ⏱️ 20.07.2026)",
           "children": [],
           "repo_info": {
@@ -194,7 +194,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/mcp-gateway",
           "description": "(👨‍💻 8 · 🔀 87 · 📋 32 - 21% open · ⏱️ 12.08.2026)",
           "children": [],
           "repo_info": {
@@ -215,7 +215,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sxhxliang/mcp-access-point",
           "description": "(👨‍💻 5 · 🔀 29 · 📋 16 - 12% open · ⏱️ 11.03.2026)",
           "children": [],
           "repo_info": {
@@ -236,7 +236,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "boltmcp/boltmcp",
           "description": "(👨‍💻 2 · 🔀 51 · ⏱️ 10.08.2026)",
           "children": [],
           "repo_info": {
@@ -257,7 +257,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sitbon/magg",
           "description": "(👨‍💻 2 · 🔀 23 · 📥 110 · 📋 4 - 50% open · ⏱️ 02.08.2026)",
           "children": [],
           "repo_info": {
@@ -278,7 +278,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "VeriTeknik/pluggedin-mcp-proxy",
           "description": "(👨‍💻 7 · 🔀 29 · ⏱️ 06.04.2026)",
           "children": [],
           "repo_info": {
@@ -320,7 +320,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "samuelgursky/davinci-resolve-mcp",
           "description": "(👨‍💻 28 · 🔀 240 · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -330,7 +330,7 @@
             "last_commit": "2026-08-23T07:00:53Z",
             "owner": "samuelgursky",
             "repo": "davinci-resolve-mcp",
-            "stars": 2269
+            "stars": 2276
           }
         }
       ],
@@ -341,7 +341,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ahujasid/blender-mcp",
           "description": "(👨‍💻 32 · 🔀 2.4K · 📋 160 - 2% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -351,7 +351,7 @@
             "last_commit": "2026-08-24T11:12:00Z",
             "owner": "ahujasid",
             "repo": "blender-mcp",
-            "stars": 26238
+            "stars": 26267
           }
         }
       ],
@@ -362,7 +362,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jau123/MeiGen-AI-Design-MCP",
           "description": "(🔀 220 · 📋 8 - 37% open · ⏱️ 05.08.2026)",
           "children": [],
           "repo_info": {
@@ -383,7 +383,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cswkim/discogs-mcp-server",
           "description": "(👨‍💻 2 · 🔀 18 · 📦 3 · 📋 7 - 14% open · ⏱️ 06.07.2026)",
           "children": [],
           "repo_info": {
@@ -404,7 +404,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "yuna0x0/anilist-mcp",
           "description": "(👨‍💻 3 · 🔀 15 · 📥 9.4K · 📦 3 · 📋 7 - 14% open · ⏱️ 13.07.2026)",
           "children": [],
           "repo_info": {
@@ -425,7 +425,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "diivi/aseprite-mcp",
           "description": "(👨‍💻 9 · 🔀 40 · 📋 8 - 12% open · ⏱️ 29.07.2026)",
           "children": [],
           "repo_info": {
@@ -435,7 +435,7 @@
             "last_commit": "2026-07-29T21:22:29Z",
             "owner": "diivi",
             "repo": "aseprite-mcp",
-            "stars": 445
+            "stars": 448
           }
         }
       ],
@@ -446,7 +446,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cantian-ai/bazi-mcp",
           "description": "(👨‍💻 5 · 🔀 160 · 📋 4 - 50% open · ⏱️ 11.10.2025)",
           "children": [],
           "repo_info": {
@@ -456,7 +456,7 @@
             "last_commit": "2025-10-11T07:56:23Z",
             "owner": "cantian-ai",
             "repo": "bazi-mcp",
-            "stars": 422
+            "stars": 424
           }
         }
       ],
@@ -467,7 +467,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "burningion/video-editing-mcp",
           "description": "(👨‍💻 3 · 🔀 39 · 📋 6 - 66% open · ⏱️ 09.10.2025)",
           "children": [],
           "repo_info": {
@@ -524,7 +524,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bytedance/UI-TARS-desktop",
           "description": "(👨‍💻 49 · 🔀 3.9K · 📥 370K · 📦 69 · 📋 540 - 59% open · ⏱️ 01.07.2026)",
           "children": [],
           "repo_info": {
@@ -534,7 +534,7 @@
             "last_commit": "2026-08-05T02:48:59Z",
             "owner": "bytedance",
             "repo": "UI-TARS-desktop",
-            "stars": 38702
+            "stars": 38705
           }
         }
       ],
@@ -545,14 +545,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Skyvern-AI/skyvern",
           "description": "(👨‍💻 95 · 🔀 2.1K · 📦 49 · 📋 390 - 9% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 764723738,
             "language": "Python",
-            "last_commit": "2026-08-24T07:03:43Z",
+            "last_commit": "2026-08-25T00:19:54Z",
             "owner": "Skyvern-AI",
             "repo": "skyvern",
             "stars": 22842
@@ -566,7 +566,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/playwright-mcp",
           "description": "(👨‍💻 70 · 🔀 3K · 📥 81K · 📋 880 - 0% open · ⏱️ 07.08.2026)",
           "children": [],
           "repo_info": {
@@ -576,7 +576,7 @@
             "last_commit": "2026-08-21T22:46:04Z",
             "owner": "microsoft",
             "repo": "playwright-mcp",
-            "stars": 36423
+            "stars": 36440
           }
         }
       ],
@@ -587,7 +587,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "eat-pray-ai/yutu",
           "description": "(👨‍💻 5 · 🔀 69 · 📥 12K · 📋 17 - 17% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -608,7 +608,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "browserbase/mcp-server-browserbase",
           "description": "(👨‍💻 17 · 🔀 360 · 📦 16 · 📋 54 - 62% open · ⏱️ 20.07.2026)",
           "children": [],
           "repo_info": {
@@ -629,7 +629,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "FradSer/mcp-server-apple-events",
           "description": "(👨‍💻 18 · 🔀 44 · 📋 45 - 8% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -639,7 +639,7 @@
             "last_commit": "2026-08-24T06:30:12Z",
             "owner": "FradSer",
             "repo": "mcp-server-apple-events",
-            "stars": 186
+            "stars": 187
           }
         }
       ],
@@ -650,7 +650,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "executeautomation/mcp-playwright",
           "description": "(👨‍💻 34 · 🔀 530 · 📋 110 - 20% open · ⏱️ 13.12.2025)",
           "children": [],
           "repo_info": {
@@ -671,7 +671,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "eyalzh/browser-control-mcp",
           "description": "(👨‍💻 4 · 🔀 72 · 📥 7.5K · 📋 17 - 52% open · ⏱️ 24.07.2026)",
           "children": [],
           "repo_info": {
@@ -692,7 +692,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "refreshdotdev/web-eval-agent",
           "description": "(👨‍💻 7 · 🔀 110 · 📋 15 - 20% open · ⏱️ 22.11.2025)",
           "children": [],
           "repo_info": {
@@ -713,7 +713,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kimtaeyoon83/mcp-server-youtube-transcript",
           "description": "(👨‍💻 11 · 🔀 99 · 📋 12 - 66% open · ⏱️ 21.07.2026)",
           "children": [],
           "repo_info": {
@@ -734,7 +734,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "34892002/bilibili-mcp-js",
           "description": "(👨‍💻 5 · 🔀 30 · 📋 7 - 14% open · ⏱️ 30.03.2026)",
           "children": [],
           "repo_info": {
@@ -744,7 +744,7 @@
             "last_commit": "2026-03-30T01:18:26Z",
             "owner": "34892002",
             "repo": "bilibili-mcp-js",
-            "stars": 191
+            "stars": 192
           }
         }
       ],
@@ -765,7 +765,7 @@
             "last_commit": "2025-04-24T21:49:44Z",
             "owner": "BrowserMCP",
             "repo": "mcp",
-            "stars": 7012
+            "stars": 7014
           }
         },
         {
@@ -806,17 +806,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "genomoncology/biomcp",
           "description": "(👨‍💻 10 · 🔀 110 · 📥 11K · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 958852531,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:26:06Z",
+            "last_commit": "2026-08-25T01:34:30Z",
             "owner": "genomoncology",
             "repo": "biomcp",
-            "stars": 605
+            "stars": 607
           }
         }
       ],
@@ -827,7 +827,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wso2/fhir-mcp-server",
           "description": "(👨‍💻 10 · 🔀 49 · 📥 25 · ⏱️ 14.07.2026)",
           "children": [],
           "repo_info": {
@@ -848,7 +848,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "the-momentum/apple-health-mcp-server",
           "description": "(👨‍💻 5 · 🔀 22 · 📋 16 - 37% open · ⏱️ 09.07.2026)",
           "children": [],
           "repo_info": {
@@ -869,14 +869,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "awslabs/mcp",
           "description": "(👨‍💻 320 · 🔀 1.7K · 📦 4 · 📋 670 - 27% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 952238700,
             "language": "Python",
-            "last_commit": "2026-08-24T14:21:17Z",
+            "last_commit": "2026-08-25T02:36:33Z",
             "owner": "awslabs",
             "repo": "mcp",
             "stars": 9636
@@ -890,14 +890,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kubestellar/console",
           "description": "(👨‍💻 91 · 🔀 130 · 📥 2.7K · 📋 11K - 0% open · ⏱️ 19.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1135473716,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:30:32Z",
+            "last_commit": "2026-08-25T06:04:57Z",
             "owner": "kubestellar",
             "repo": "console",
             "stars": 127
@@ -911,7 +911,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "txn2/kubefwd",
           "description": "(👨‍💻 50 · 🔀 230 · 📥 390K · 📦 4 · ⏱️ 27.07.2026)",
           "children": [],
           "repo_info": {
@@ -932,7 +932,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "containers/kubernetes-mcp-server",
           "description": "(👨‍💻 71 · 🔀 360 · 📥 86K · 📦 2 · 📋 230 - 22% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -942,7 +942,7 @@
             "last_commit": "2026-08-24T10:55:33Z",
             "owner": "containers",
             "repo": "kubernetes-mcp-server",
-            "stars": 2014
+            "stars": 2018
           }
         }
       ],
@@ -953,7 +953,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Flux159/mcp-server-kubernetes",
           "description": "(👨‍💻 50 · 🔀 280 · 📥 1.7K · 📦 20 · 📋 110 - 5% open · ⏱️ 08.08.2026)",
           "children": [],
           "repo_info": {
@@ -963,7 +963,7 @@
             "last_commit": "2026-08-08T17:15:37Z",
             "owner": "Flux159",
             "repo": "mcp-server-kubernetes",
-            "stars": 1574
+            "stars": 1575
           }
         }
       ],
@@ -974,7 +974,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cloudflare/mcp-server-cloudflare",
           "description": "(👨‍💻 42 · 🔀 480 · 📦 14 · 📋 140 - 23% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -984,7 +984,7 @@
             "last_commit": "2026-08-24T09:19:59Z",
             "owner": "cloudflare",
             "repo": "mcp-server-cloudflare",
-            "stars": 4105
+            "stars": 4108
           }
         }
       ],
@@ -995,14 +995,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "TencentCloudBase/CloudBase-AI-Toolkit",
           "description": "(👨‍💻 19 · 🔀 130 · 📦 6 · 📋 210 - 0% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 988892963,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:04:10Z",
+            "last_commit": "2026-08-25T04:57:51Z",
             "owner": "TencentCloudBase",
             "repo": "CloudBase-AI-Toolkit",
             "stars": 1074
@@ -1016,17 +1016,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hashicorp/terraform-mcp-server",
           "description": "(👨‍💻 32 · 🔀 190 · 📦 1 · 📋 78 - 16% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 969282615,
             "language": "Go",
-            "last_commit": "2026-08-24T12:13:08Z",
+            "last_commit": "2026-08-24T14:43:55Z",
             "owner": "hashicorp",
             "repo": "terraform-mcp-server",
-            "stars": 1511
+            "stars": 1512
           }
         }
       ],
@@ -1037,7 +1037,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "weibaohui/k8m",
           "description": "(👨‍💻 18 · 🔀 150 · 📥 3.4K · 📋 98 - 23% open · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
@@ -1058,7 +1058,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "portainer/portainer-mcp",
           "description": "(👨‍💻 3 · 🔀 41 · 📥 58K · 📋 24 - 12% open · ⏱️ 13.08.2026)",
           "children": [],
           "repo_info": {
@@ -1079,7 +1079,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "reza-gholizade/k8s-mcp-server",
           "description": "(👨‍💻 13 · 🔀 41 · 📥 460 · 📋 10 - 10% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -1100,7 +1100,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "strowk/mcp-k8s-go",
           "description": "(👨‍💻 12 · 🔀 57 · 📥 1.7K · 📦 3 · 📋 18 - 44% open · ⏱️ 15.12.2025)",
           "children": [],
           "repo_info": {
@@ -1121,7 +1121,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nwiizo/tfmcp",
           "description": "(👨‍💻 3 · 🔀 30 · ⏱️ 13.08.2026)",
           "children": [],
           "repo_info": {
@@ -1142,7 +1142,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "weibaohui/kom",
           "description": "(👨‍💻 6 · 🔀 35 · 📦 11 · 📋 6 - 66% open · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
@@ -1163,7 +1163,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rohitg00/kubectl-mcp-server",
           "description": "(👨‍💻 7 · 🔀 180 · 📥 87 · 📋 34 - 11% open · ⏱️ 08.04.2026)",
           "children": [],
           "repo_info": {
@@ -1184,7 +1184,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "silenceper/mcp-k8s",
           "description": "(👨‍💻 7 · 🔀 28 · 📥 510 · ⏱️ 27.07.2026)",
           "children": [],
           "repo_info": {
@@ -1205,7 +1205,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "StacklokLabs/mkp",
           "description": "(👨‍💻 10 · 🔀 8 · 📋 22 - 18% open · ⏱️ 10.07.2026)",
           "children": [],
           "repo_info": {
@@ -1226,7 +1226,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "alexei-led/k8s-mcp-server",
           "description": "(🔀 38 · 📋 14 - 14% open · ⏱️ 27.02.2026)",
           "children": [],
           "repo_info": {
@@ -1247,7 +1247,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aliyun/alibaba-cloud-ops-mcp-server",
           "description": "(👨‍💻 4 · 🔀 38 · 📦 2 · ⏱️ 04.02.2026)",
           "children": [],
           "repo_info": {
@@ -1268,7 +1268,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "alexei-led/cloud-mcp-server",
           "description": "(👨‍💻 2 · 🔀 34 · 📦 1 · 📋 16 - 6% open · ⏱️ 27.02.2026)",
           "children": [],
           "repo_info": {
@@ -1289,17 +1289,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pydantic/pydantic-ai",
           "description": "(👨‍💻 560 · 🔀 2.5K · 📦 5.4K · 📋 2.9K - 17% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 818331198,
             "language": "Python",
-            "last_commit": "2026-08-24T14:16:09Z",
+            "last_commit": "2026-08-25T06:26:08Z",
             "owner": "pydantic",
             "repo": "pydantic-ai",
-            "stars": 19478
+            "stars": 19487
           }
         }
       ],
@@ -1310,7 +1310,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dagger/container-use",
           "description": "(👨‍💻 36 · 🔀 200 · 📥 31K · 📋 95 - 49% open · ⏱️ 12.08.2026)",
           "children": [],
           "repo_info": {
@@ -1320,7 +1320,7 @@
             "last_commit": "2026-08-17T14:04:50Z",
             "owner": "dagger",
             "repo": "container-use",
-            "stars": 4016
+            "stars": 4017
           }
         }
       ],
@@ -1331,7 +1331,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "capsulerun/capsule",
           "description": "(🔀 21 · 📦 1 · ⏱️ 19.06.2026)",
           "children": [],
           "repo_info": {
@@ -1352,7 +1352,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "alfonsograziano/node-code-sandbox-mcp",
           "description": "(👨‍💻 7 · 🔀 33 · 📋 46 - 19% open · ⏱️ 24.11.2025)",
           "children": [],
           "repo_info": {
@@ -1373,7 +1373,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ckanthony/openapi-mcp",
           "description": "(👨‍💻 5 · 🔀 38 · ⏱️ 21.03.2026)",
           "children": [],
           "repo_info": {
@@ -1394,7 +1394,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "oraios/serena",
           "description": "(👨‍💻 220 · 🔀 1.9K · 📥 1.6K · 📋 830 - 7% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -1404,7 +1404,7 @@
             "last_commit": "2026-08-20T06:51:15Z",
             "owner": "oraios",
             "repo": "serena",
-            "stars": 28441
+            "stars": 28468
           }
         }
       ],
@@ -1415,7 +1415,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CodeGraphContext/CodeGraphContext",
           "description": "(👨‍💻 220 · 🔀 820 · 📥 1.6K · 📦 8 · 📋 790 - 12% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -1425,7 +1425,7 @@
             "last_commit": "2026-08-19T21:16:21Z",
             "owner": "CodeGraphContext",
             "repo": "CodeGraphContext",
-            "stars": 4114
+            "stars": 4118
           }
         }
       ],
@@ -1436,17 +1436,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cocoindex-io/cocoindex-code",
           "description": "(👨‍💻 22 · 🔀 210 · 📥 330 · 📦 3 · 📋 78 - 26% open · ⏱️ 06.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1146989733,
             "language": "Python",
-            "last_commit": "2026-08-07T00:15:51Z",
+            "last_commit": "2026-08-24T17:23:38Z",
             "owner": "cocoindex-io",
             "repo": "cocoindex-code",
-            "stars": 2672
+            "stars": 2673
           }
         }
       ],
@@ -1457,7 +1457,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mediar-ai/terminator",
           "description": "(👨‍💻 15 · 🔀 220 · 📥 1.8K · 📋 150 - 1% open · ⏱️ 02.06.2026)",
           "children": [],
           "repo_info": {
@@ -1478,7 +1478,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stippi/code-assistant",
           "description": "(👨‍💻 14 · 🔀 32 · 📥 720 · 📋 13 - 7% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -1499,7 +1499,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nesquikm/mcp-rubber-duck",
           "description": "(👨‍💻 4 · 🔀 24 · 📦 3 · 📋 53 - 50% open · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
@@ -1520,7 +1520,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ezyang/codemcp",
           "description": "(👨‍💻 9 · 🔀 140 · 📋 65 - 60% open · ⏱️ 25.12.2025)",
           "children": [],
           "repo_info": {
@@ -1541,7 +1541,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rinadelph/Agent-MCP",
           "description": "(👨‍💻 7 · 🔀 170 · 📋 35 - 48% open · ⏱️ 09.10.2025)",
           "children": [],
           "repo_info": {
@@ -1551,7 +1551,7 @@
             "last_commit": "2026-03-28T13:25:52Z",
             "owner": "rinadelph",
             "repo": "Agent-MCP",
-            "stars": 1275
+            "stars": 1276
           }
         }
       ],
@@ -1562,7 +1562,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jinzcdev/leetcode-mcp-server",
           "description": "(👨‍💻 4 · 🔀 22 · 📦 4 · ⏱️ 12.07.2026)",
           "children": [],
           "repo_info": {
@@ -1572,7 +1572,7 @@
             "last_commit": "2026-07-12T12:05:31Z",
             "owner": "jinzcdev",
             "repo": "leetcode-mcp-server",
-            "stars": 139
+            "stars": 140
           }
         }
       ],
@@ -1583,7 +1583,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "juehang/vscode-mcp-server",
           "description": "(👨‍💻 4 · 🔀 79 · 📋 14 - 57% open · ⏱️ 07.01.2026)",
           "children": [],
           "repo_info": {
@@ -1593,7 +1593,7 @@
             "last_commit": "2026-01-07T15:40:49Z",
             "owner": "juehang",
             "repo": "vscode-mcp-server",
-            "stars": 389
+            "stars": 390
           }
         }
       ],
@@ -1604,7 +1604,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tiianhk/MaxMSP-MCP-Server",
           "description": "(👨‍💻 4 · 🔀 30 · 📋 8 - 87% open · ⏱️ 12.05.2026)",
           "children": [],
           "repo_info": {
@@ -1625,7 +1625,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pdavis68/RepoMapper",
           "description": "(👨‍💻 4 · 🔀 37 · 📋 4 - 50% open · ⏱️ 08.12.2025)",
           "children": [],
           "repo_info": {
@@ -1635,7 +1635,7 @@
             "last_commit": "2025-12-08T14:26:13Z",
             "owner": "pdavis68",
             "repo": "RepoMapper",
-            "stars": 197
+            "stars": 198
           }
         }
       ],
@@ -1646,7 +1646,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "micl2e2/code-to-tree",
           "description": "(👨‍💻 2 · 🔀 12 · 📥 180 · ⏱️ 14.03.2026)",
           "children": [],
           "repo_info": {
@@ -1667,17 +1667,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aymericzip/intlayer",
           "description": "(👨‍💻 55 · 🔀 120 · 📥 150 · 📦 98 · 📋 220 - 6% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 776924173,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T07:53:08Z",
+            "last_commit": "2026-08-25T03:12:54Z",
             "owner": "aymericzip",
             "repo": "intlayer",
-            "stars": 798
+            "stars": 799
           }
         }
       ],
@@ -1688,7 +1688,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wonderwhy-er/DesktopCommanderMCP",
           "description": "(👨‍💻 35 · 🔀 1.1K · 📋 250 - 55% open · ⏱️ 04.08.2026)",
           "children": [],
           "repo_info": {
@@ -1709,17 +1709,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tufantunc/ssh-mcp",
           "description": "(👨‍💻 6 · 🔀 99 · 📦 2 · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 973373852,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:32:03Z",
+            "last_commit": "2026-08-25T05:38:49Z",
             "owner": "tufantunc",
             "repo": "ssh-mcp",
-            "stars": 652
+            "stars": 655
           }
         }
       ],
@@ -1730,7 +1730,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tumf/mcp-shell-server",
           "description": "(👨‍💻 11 · 🔀 46 · 📥 8 · 📦 3 · ⏱️ 15.08.2026)",
           "children": [],
           "repo_info": {
@@ -1751,7 +1751,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "g0t4/mcp-server-commands",
           "description": "(👨‍💻 3 · 🔀 34 · 📋 9 - 33% open · ⏱️ 09.04.2026)",
           "children": [],
           "repo_info": {
@@ -1772,7 +1772,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ferrislucas/iterm-mcp",
           "description": "(👨‍💻 7 · 🔀 64 · 📦 3 · 📋 16 - 25% open · ⏱️ 20.09.2025)",
           "children": [],
           "repo_info": {
@@ -1814,17 +1814,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "elie222/inbox-zero",
           "description": "(👨‍💻 73 · 🔀 1.5K · 📥 480 · 📋 240 - 35% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 665613753,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:33:32Z",
+            "last_commit": "2026-08-24T22:21:45Z",
             "owner": "elie222",
             "repo": "inbox-zero",
-            "stars": 12072
+            "stars": 12079
           }
         }
       ],
@@ -1835,7 +1835,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "korotovsky/slack-mcp-server",
           "description": "(👨‍💻 56 · 🔀 350 · 📥 15K · 📦 39 · 📋 120 - 26% open · ⏱️ 14.05.2026)",
           "children": [],
           "repo_info": {
@@ -1845,7 +1845,7 @@
             "last_commit": "2026-07-16T17:14:22Z",
             "owner": "korotovsky",
             "repo": "slack-mcp-server",
-            "stars": 1793
+            "stars": 1794
           }
         }
       ],
@@ -1856,7 +1856,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chigwell/telegram-mcp",
           "description": "(👨‍💻 56 · 🔀 380 · 📋 43 - 37% open · ⏱️ 13.08.2026)",
           "children": [],
           "repo_info": {
@@ -1866,7 +1866,7 @@
             "last_commit": "2026-08-23T14:05:12Z",
             "owner": "chigwell",
             "repo": "telegram-mcp",
-            "stars": 1503
+            "stars": 1504
           }
         }
       ],
@@ -1877,7 +1877,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Softeria/ms-365-mcp-server",
           "description": "(👨‍💻 59 · 🔀 360 · 📋 170 - 1% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -1887,7 +1887,7 @@
             "last_commit": "2026-08-24T10:00:10Z",
             "owner": "Softeria",
             "repo": "ms-365-mcp-server",
-            "stars": 931
+            "stars": 932
           }
         }
       ],
@@ -1898,14 +1898,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "line/line-bot-mcp-server",
           "description": "(👨‍💻 15 · 🔀 150 · 📋 55 - 10% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 960342594,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T18:47:59Z",
+            "last_commit": "2026-08-25T01:07:55Z",
             "owner": "line",
             "repo": "line-bot-mcp-server",
             "stars": 770
@@ -1919,14 +1919,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "InditexTech/mcp-teams-server",
           "description": "(👨‍💻 5 · 🔀 37 · 📋 3 - 33% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 950628723,
             "language": "Python",
-            "last_commit": "2026-08-17T14:45:12Z",
+            "last_commit": "2026-08-24T16:13:13Z",
             "owner": "InditexTech",
             "repo": "mcp-teams-server",
             "stars": 394
@@ -1940,7 +1940,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chaindead/telegram-mcp",
           "description": "(👨‍💻 3 · 🔀 58 · 📥 3.2K · 📋 11 - 45% open · ⏱️ 28.05.2026)",
           "children": [],
           "repo_info": {
@@ -1950,7 +1950,7 @@
             "last_commit": "2026-05-28T17:44:53Z",
             "owner": "chaindead",
             "repo": "telegram-mcp",
-            "stars": 343
+            "stars": 344
           }
         }
       ],
@@ -1961,7 +1961,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "joinly-ai/joinly",
           "description": "(👨‍💻 5 · 🔀 92 · 📋 19 - 47% open · ⏱️ 19.03.2026)",
           "children": [],
           "repo_info": {
@@ -1982,7 +1982,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SaseQ/discord-mcp",
           "description": "(👨‍💻 10 · 🔀 94 · 📥 230 · 📋 12 - 50% open · ⏱️ 25.04.2026)",
           "children": [],
           "repo_info": {
@@ -1992,7 +1992,7 @@
             "last_commit": "2026-04-25T13:55:22Z",
             "owner": "SaseQ",
             "repo": "discord-mcp",
-            "stars": 458
+            "stars": 459
           }
         }
       ],
@@ -2003,7 +2003,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "carterlasalle/mac_messages_mcp",
           "description": "(👨‍💻 17 · 🔀 49 · ⏱️ 21.07.2026)",
           "children": [],
           "repo_info": {
@@ -2024,7 +2024,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zcaceres/gtasks-mcp",
           "description": "(👨‍💻 2 · 🔀 59 · 📋 12 - 83% open · ⏱️ 10.03.2026)",
           "children": [],
           "repo_info": {
@@ -2045,7 +2045,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ztxtxwd/open-feishu-mcp-server",
           "description": "(👨‍💻 3 · 🔀 13 · 📋 24 - 25% open · ⏱️ 27.01.2026)",
           "children": [],
           "repo_info": {
@@ -2066,7 +2066,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hannesrudolph/imessage-query-fastmcp-mcp-server",
           "description": "(🔀 18 · 📋 3 - 66% open · ⏱️ 03.02.2026)",
           "children": [],
           "repo_info": {
@@ -2097,7 +2097,7 @@
             "last_commit": "2025-07-13T17:22:00Z",
             "owner": "lharries",
             "repo": "whatsapp-mcp",
-            "stars": 6189
+            "stars": 6190
           }
         },
         {
@@ -2123,7 +2123,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "antvis/mcp-server-chart",
           "description": "(👨‍💻 23 · 🔀 420 · 📦 13 · 📋 180 - 4% open · ⏱️ 06.05.2026)",
           "children": [],
           "repo_info": {
@@ -2144,7 +2144,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hustcc/mcp-mermaid",
           "description": "(👨‍💻 12 · 🔀 56 · 📦 4 · 📋 19 - 26% open · ⏱️ 15.05.2026)",
           "children": [],
           "repo_info": {
@@ -2165,7 +2165,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hustcc/mcp-echarts",
           "description": "(👨‍💻 11 · 🔀 38 · 📋 19 - 15% open · ⏱️ 30.01.2026)",
           "children": [],
           "repo_info": {
@@ -2186,7 +2186,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tinybirdco/mcp-tinybird",
           "description": "(👨‍💻 8 · 🔀 18 · 📋 2 - 50% open · ⏱️ 01.09.2025)",
           "children": [],
           "repo_info": {
@@ -2207,17 +2207,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "googleapis/mcp-toolbox",
           "description": "(👨‍💻 150 · 🔀 1.7K · 📦 2 · 📋 700 - 18% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 812044182,
             "language": "Go",
-            "last_commit": "2026-08-24T13:19:06Z",
+            "last_commit": "2026-08-25T06:22:49Z",
             "owner": "googleapis",
             "repo": "mcp-toolbox",
-            "stars": 16249
+            "stars": 16250
           }
         }
       ],
@@ -2228,17 +2228,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ArcadeData/arcadedb",
           "description": "(👨‍💻 52 · 🔀 130 · 📥 13K · 📦 2 · 📋 2.6K - 3% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 396867188,
             "language": "Java",
-            "last_commit": "2026-08-24T13:57:17Z",
+            "last_commit": "2026-08-25T06:12:31Z",
             "owner": "ArcadeData",
             "repo": "arcadedb",
-            "stars": 1099
+            "stars": 1102
           }
         }
       ],
@@ -2249,14 +2249,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "planetscale/cli",
           "description": "(👨‍💻 68 · 🔀 63 · 📥 330K · 📋 140 - 2% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 317614271,
             "language": "Go",
-            "last_commit": "2026-08-24T13:56:58Z",
+            "last_commit": "2026-08-24T20:07:31Z",
             "owner": "planetscale",
             "repo": "cli",
             "stars": 664
@@ -2270,17 +2270,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "baserow/baserow",
           "description": "(👨‍💻 80 · 🔀 680 · 📋 4.6K - 25% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 281073868,
             "language": "Python",
-            "last_commit": "2026-08-24T14:12:59Z",
+            "last_commit": "2026-08-25T06:11:51Z",
             "owner": "baserow",
             "repo": "baserow",
-            "stars": 5682
+            "stars": 5688
           }
         }
       ],
@@ -2291,7 +2291,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "benborla/mcp-server-mysql",
           "description": "(👨‍💻 33 · 🔀 250 · 📦 18 · 📋 86 - 46% open · ⏱️ 27.07.2026)",
           "children": [],
           "repo_info": {
@@ -2301,7 +2301,7 @@
             "last_commit": "2026-07-27T13:36:52Z",
             "owner": "benborla",
             "repo": "mcp-server-mysql",
-            "stars": 2072
+            "stars": 2073
           }
         }
       ],
@@ -2312,7 +2312,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "supabase/mcp",
           "description": "(👨‍💻 23 · 🔀 390 · 📦 8 · 📋 120 - 51% open · ⏱️ 17.08.2026)",
           "children": [],
           "repo_info": {
@@ -2333,7 +2333,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "domdomegg/airtable-mcp-server",
           "description": "(👨‍💻 12 · 🔀 130 · 📥 160K · 📦 7 · 📋 37 - 5% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -2343,7 +2343,7 @@
             "last_commit": "2026-08-11T19:09:42Z",
             "owner": "domdomegg",
             "repo": "airtable-mcp-server",
-            "stars": 456
+            "stars": 455
           }
         }
       ],
@@ -2354,14 +2354,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "confluentinc/mcp-confluent",
           "description": "(👨‍💻 31 · 🔀 57 · 📥 99 · 📦 1 · 📋 270 - 12% open · ⏱️ 10.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 917875449,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:02:12Z",
+            "last_commit": "2026-08-25T06:02:20Z",
             "owner": "confluentinc",
             "repo": "mcp-confluent",
             "stars": 167
@@ -2375,7 +2375,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "designcomputer/mysql_mcp_server",
           "description": "(👨‍💻 11 · 🔀 260 · 📋 62 - 1% open · ⏱️ 02.08.2026)",
           "children": [],
           "repo_info": {
@@ -2385,7 +2385,7 @@
             "last_commit": "2026-08-02T13:36:20Z",
             "owner": "designcomputer",
             "repo": "mysql_mcp_server",
-            "stars": 1365
+            "stars": 1367
           }
         }
       ],
@@ -2396,7 +2396,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "redis/mcp-redis",
           "description": "(👨‍💻 28 · 🔀 100 · 📋 34 - 32% open · ⏱️ 05.08.2026)",
           "children": [],
           "repo_info": {
@@ -2406,7 +2406,7 @@
             "last_commit": "2026-08-05T12:04:27Z",
             "owner": "redis",
             "repo": "mcp-redis",
-            "stars": 600
+            "stars": 601
           }
         }
       ],
@@ -2417,7 +2417,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Canner/wren-engine",
           "description": "(👨‍💻 32 · 🔀 200 · 📥 120 · 📋 300 - 14% open · ⏱️ 06.05.2026)",
           "children": [],
           "repo_info": {
@@ -2438,7 +2438,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pab1it0/prometheus-mcp-server",
           "description": "(👨‍💻 20 · 🔀 99 · 📥 680 · 📋 35 - 2% open · ⏱️ 05.08.2026)",
           "children": [],
           "repo_info": {
@@ -2459,7 +2459,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "neo4j-contrib/mcp-neo4j",
           "description": "(👨‍💻 22 · 🔀 250 · 📥 1.7K · 📋 79 - 20% open · ⏱️ 10.04.2026)",
           "children": [],
           "repo_info": {
@@ -2480,7 +2480,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ClickHouse/mcp-clickhouse",
           "description": "(👨‍💻 23 · 🔀 180 · 📋 59 - 40% open · ⏱️ 23.07.2026)",
           "children": [],
           "repo_info": {
@@ -2501,7 +2501,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tuannvm/mcp-trino",
           "description": "(👨‍💻 17 · 🔀 52 · 📥 18K · 📋 35 - 48% open · ⏱️ 16.04.2026)",
           "children": [],
           "repo_info": {
@@ -2522,7 +2522,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "crystaldba/postgres-mcp",
           "description": "(👨‍💻 10 · 🔀 350 · 📥 320 · 📦 10 · 📋 56 - 73% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -2532,7 +2532,7 @@
             "last_commit": "2026-08-17T05:06:35Z",
             "owner": "crystaldba",
             "repo": "postgres-mcp",
-            "stars": 3214
+            "stars": 3217
           }
         }
       ],
@@ -2543,7 +2543,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "qdrant/mcp-server-qdrant",
           "description": "(👨‍💻 12 · 🔀 290 · 📦 7 · 📋 46 - 54% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -2553,7 +2553,7 @@
             "last_commit": "2026-08-14T00:13:56Z",
             "owner": "qdrant",
             "repo": "mcp-server-qdrant",
-            "stars": 1513
+            "stars": 1514
           }
         }
       ],
@@ -2564,14 +2564,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "FreePeak/db-mcp-server",
           "description": "(👨‍💻 8 · 🔀 65 · 📋 28 - 7% open · ⏱️ 28.07.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 950227197,
             "language": "Go",
-            "last_commit": "2026-08-24T14:37:32Z",
+            "last_commit": "2026-08-24T20:59:06Z",
             "owner": "FreePeak",
             "repo": "db-mcp-server",
             "stars": 413
@@ -2585,7 +2585,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cr7258/elasticsearch-mcp-server",
           "description": "(👨‍💻 13 · 🔀 64 · 📋 23 - 34% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -2606,7 +2606,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kiliczsh/mcp-mongo-server",
           "description": "(👨‍💻 7 · 🔀 55 · 📦 3 · ⏱️ 29.07.2026)",
           "children": [],
           "repo_info": {
@@ -2627,7 +2627,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "xing5/mcp-google-sheets",
           "description": "(👨‍💻 17 · 🔀 230 · 📦 1 · 📋 43 - 41% open · ⏱️ 14.05.2026)",
           "children": [],
           "repo_info": {
@@ -2648,14 +2648,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "neondatabase/mcp-server-neon",
           "description": "(👨‍💻 21 · 🔀 120 · 📋 44 - 22% open · ⏱️ 17.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 896203400,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:08:38Z",
+            "last_commit": "2026-08-25T04:32:39Z",
             "owner": "neondatabase",
             "repo": "mcp-server-neon",
             "stars": 624
@@ -2669,7 +2669,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Snowflake-Labs/mcp",
           "description": "(👨‍💻 16 · 🔀 100 · 📋 66 - 28% open · ⏱️ 15.05.2026)",
           "children": [],
           "repo_info": {
@@ -2690,7 +2690,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "chroma-core/chroma-mcp",
           "description": "(👨‍💻 6 · 🔀 120 · 📥 190 · 📋 29 - 48% open · ⏱️ 17.09.2025)",
           "children": [],
           "repo_info": {
@@ -2711,7 +2711,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wenb1n-dev/mysql_mcp_server_pro",
           "description": "(👨‍💻 2 · 🔀 44 · 📋 43 - 32% open · ⏱️ 28.08.2025)",
           "children": [],
           "repo_info": {
@@ -2732,7 +2732,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "runekaagaard/mcp-alchemy",
           "description": "(👨‍💻 6 · 🔀 62 · ⏱️ 31.07.2026)",
           "children": [],
           "repo_info": {
@@ -2753,7 +2753,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "XGenerationLab/xiyan_mcp_server",
           "description": "(👨‍💻 9 · 🔀 49 · 📥 46 · 📋 14 - 64% open · ⏱️ 11.02.2026)",
           "children": [],
           "repo_info": {
@@ -2774,7 +2774,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zilliztech/mcp-server-milvus",
           "description": "(👨‍💻 13 · 🔀 70 · 📋 26 - 15% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -2795,7 +2795,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "isaacwasserman/mcp-snowflake-server",
           "description": "(👨‍💻 11 · 🔀 75 · 📋 21 - 52% open · ⏱️ 07.10.2025)",
           "children": [],
           "repo_info": {
@@ -2816,7 +2816,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "LucasHild/mcp-server-bigquery",
           "description": "(👨‍💻 5 · 🔀 40 · 📋 10 - 30% open · ⏱️ 07.02.2026)",
           "children": [],
           "repo_info": {
@@ -2837,7 +2837,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "alexander-zuev/supabase-mcp-server",
           "description": "(👨‍💻 2 · 🔀 99 · ⏱️ 05.08.2025)",
           "children": [],
           "repo_info": {
@@ -2847,7 +2847,7 @@
             "last_commit": "2026-08-21T20:27:19Z",
             "owner": "alexander-zuev",
             "repo": "supabase-mcp-server",
-            "stars": 830
+            "stars": 829
           }
         }
       ],
@@ -2858,7 +2858,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aliyun/alibabacloud-tablestore-mcp-server",
           "description": "(👨‍💻 3 · 🔀 43 · 📋 6 - 16% open · ⏱️ 19.03.2026)",
           "children": [],
           "repo_info": {
@@ -2879,7 +2879,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ergut/mcp-bigquery-server",
           "description": "(👨‍💻 4 · 🔀 33 · 📦 6 · 📋 7 - 14% open · ⏱️ 22.05.2026)",
           "children": [],
           "repo_info": {
@@ -2900,7 +2900,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rashidazarang/airtable-mcp",
           "description": "(👨‍💻 2 · 🔀 28 · ⏱️ 05.08.2026)",
           "children": [],
           "repo_info": {
@@ -2921,7 +2921,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pab1it0/adx-mcp-server",
           "description": "(👨‍💻 5 · 🔀 24 · 📥 120 · ⏱️ 25.03.2026)",
           "children": [],
           "repo_info": {
@@ -2942,7 +2942,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "f4ww4z/mcp-mysql-server",
           "description": "(👨‍💻 9 · 🔀 37 · 📋 14 - 71% open · ⏱️ 14.11.2025)",
           "children": [],
           "repo_info": {
@@ -2963,7 +2963,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jparkerweb/mcp-sqlite",
           "description": "(👨‍💻 2 · 🔀 16 · 📦 7 · ⏱️ 04.04.2026)",
           "children": [],
           "repo_info": {
@@ -2984,7 +2984,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ChristianHinge/dicom-mcp",
           "description": "(👨‍💻 4 · 🔀 29 · 📋 4 - 50% open · ⏱️ 12.06.2026)",
           "children": [],
           "repo_info": {
@@ -3005,7 +3005,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "subnetmarco/pgmcp",
           "description": "(👨‍💻 2 · 🔀 61 · 📥 320 · 📋 5 - 20% open · ⏱️ 26.05.2026)",
           "children": [],
           "repo_info": {
@@ -3026,7 +3026,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wenb1n-dev/SmartDB_MCP",
           "description": "(👨‍💻 4 · 🔀 19 · 📋 16 - 75% open · ⏱️ 14.09.2025)",
           "children": [],
           "repo_info": {
@@ -3047,7 +3047,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "weaviate/mcp-server-weaviate",
           "description": "(👨‍💻 2 · 🔀 44 · ⏱️ 26.05.2026)",
           "children": [],
           "repo_info": {
@@ -3164,14 +3164,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "dbt-labs/dbt-mcp",
           "description": "(👨‍💻 44 · 🔀 130 · 📥 1.2K · 📦 3 · 📋 140 - 18% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 947516890,
             "language": "Python",
-            "last_commit": "2026-08-21T01:27:13Z",
+            "last_commit": "2026-08-25T03:34:32Z",
             "owner": "dbt-labs",
             "repo": "dbt-mcp",
             "stars": 598
@@ -3185,14 +3185,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "keboola/mcp-server",
           "description": "(👨‍💻 34 · 🔀 25 · 📋 30 - 60% open · ⏱️ 13.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 915789942,
             "language": "Python",
-            "last_commit": "2026-08-24T12:59:20Z",
+            "last_commit": "2026-08-24T21:36:29Z",
             "owner": "keboola",
             "repo": "mcp-server",
             "stars": 86
@@ -3206,17 +3206,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mckinsey/vizro",
           "description": "(👨‍💻 45 · 🔀 280 · 📦 90 · 📋 290 - 11% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 686983834,
             "language": "Python",
-            "last_commit": "2026-08-24T13:42:54Z",
+            "last_commit": "2026-08-24T23:05:34Z",
             "owner": "mckinsey",
             "repo": "vizro",
-            "stars": 3780
+            "stars": 3781
           }
         }
       ],
@@ -3227,17 +3227,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "datalayer/jupyter-mcp-server",
           "description": "(👨‍💻 41 · 🔀 190 · 📋 150 - 20% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 931366703,
             "language": "Python",
-            "last_commit": "2026-08-23T14:32:44Z",
+            "last_commit": "2026-08-24T17:19:47Z",
             "owner": "datalayer",
             "repo": "jupyter-mcp-server",
-            "stars": 1256
+            "stars": 1257
           }
         }
       ],
@@ -3248,7 +3248,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MigoXLab/dingo",
           "description": "(👨‍💻 22 · 🔀 75 · 📋 33 - 9% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -3258,7 +3258,7 @@
             "last_commit": "2026-08-24T06:29:59Z",
             "owner": "MigoXLab",
             "repo": "dingo",
-            "stars": 743
+            "stars": 744
           }
         }
       ],
@@ -3269,7 +3269,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zcaceres/markdownify-mcp",
           "description": "(👨‍💻 9 · 🔀 240 · 📋 35 - 20% open · ⏱️ 01.05.2026)",
           "children": [],
           "repo_info": {
@@ -3279,7 +3279,7 @@
             "last_commit": "2026-08-11T05:23:40Z",
             "owner": "zcaceres",
             "repo": "markdownify-mcp",
-            "stars": 2980
+            "stars": 2981
           }
         }
       ],
@@ -3290,7 +3290,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "optuna/optuna-mcp",
           "description": "(👨‍💻 10 · 🔀 25 · ⏱️ 05.08.2026)",
           "children": [],
           "repo_info": {
@@ -3311,7 +3311,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kdqed/zaturn",
           "description": "(👨‍💻 2 · 🔀 10 · ⏱️ 12.11.2025)",
           "children": [],
           "repo_info": {
@@ -3353,17 +3353,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "DeusData/codebase-memory-mcp",
           "description": "(👨‍💻 130 · 🔀 3.2K · 📥 770K · 📦 7 · 📋 800 - 45% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1166102148,
             "language": "C",
-            "last_commit": "2026-08-24T12:33:10Z",
+            "last_commit": "2026-08-24T16:02:51Z",
             "owner": "DeusData",
             "repo": "codebase-memory-mcp",
-            "stars": 40299
+            "stars": 40463
           }
         }
       ],
@@ -3374,14 +3374,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "public-ui/kolibri",
           "description": "(👨‍💻 43 · 🔀 53 · 📦 130 · 📋 2.3K - 8% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 550054675,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:41:49Z",
+            "last_commit": "2026-08-25T06:28:33Z",
             "owner": "public-ui",
             "repo": "kolibri",
             "stars": 277
@@ -3395,7 +3395,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "GLips/Figma-Context-MCP",
           "description": "(👨‍💻 30 · 🔀 1.2K · 📋 180 - 3% open · ⏱️ 24.06.2026)",
           "children": [],
           "repo_info": {
@@ -3405,7 +3405,7 @@
             "last_commit": "2026-08-07T04:58:42Z",
             "owner": "GLips",
             "repo": "Figma-Context-MCP",
-            "stars": 15709
+            "stars": 15708
           }
         }
       ],
@@ -3416,7 +3416,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "eyaltoledano/claude-task-master",
           "description": "(👨‍💻 57 · 🔀 2.6K · 📦 12 · 📋 650 - 25% open · ⏱️ 23.04.2026)",
           "children": [],
           "repo_info": {
@@ -3426,7 +3426,7 @@
             "last_commit": "2026-04-28T13:27:12Z",
             "owner": "eyaltoledano",
             "repo": "claude-task-master",
-            "stars": 28017
+            "stars": 28018
           }
         }
       ],
@@ -3437,7 +3437,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mobile-next/mobile-mcp",
           "description": "(👨‍💻 28 · 🔀 510 · 📦 8 · 📋 150 - 26% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -3447,7 +3447,7 @@
             "last_commit": "2026-08-18T08:23:07Z",
             "owner": "mobile-next",
             "repo": "mobile-mcp",
-            "stars": 5988
+            "stars": 5996
           }
         }
       ],
@@ -3458,14 +3458,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OpenZeppelin/contracts-wizard",
           "description": "(👨‍💻 51 · 🔀 180 · 📦 240 · 📋 140 - 10% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 337567816,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T15:46:55Z",
+            "last_commit": "2026-08-25T04:11:27Z",
             "owner": "OpenZeppelin",
             "repo": "contracts-wizard",
             "stars": 293
@@ -3479,14 +3479,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "flytohub/flyto-core",
           "description": "(👨‍💻 11 · 🔀 84 · 📦 8 · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1109762984,
             "language": "Python",
-            "last_commit": "2026-08-24T14:07:06Z",
+            "last_commit": "2026-08-25T05:58:14Z",
             "owner": "flytohub",
             "repo": "flyto-core",
             "stars": 480
@@ -3500,7 +3500,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hechtcarmel/jetbrains-index-mcp-plugin",
           "description": "(👨‍💻 25 · 🔀 66 · 📥 30 · 📋 80 - 3% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -3521,7 +3521,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "storybookjs/mcp",
           "description": "(👨‍💻 18 · 🔀 42 · 📋 55 - 52% open · ⏱️ 15.08.2026)",
           "children": [],
           "repo_info": {
@@ -3542,7 +3542,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "robotmcp/ros-mcp-server",
           "description": "(👨‍💻 19 · 🔀 190 · 📥 6 · 📋 99 - 22% open · ⏱️ 18.06.2026)",
           "children": [],
           "repo_info": {
@@ -3563,14 +3563,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "comet-ml/opik-mcp",
           "description": "(👨‍💻 16 · 🔀 36 · 📋 32 - 9% open · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 946763772,
             "language": "Python",
-            "last_commit": "2026-08-21T15:24:22Z",
+            "last_commit": "2026-08-24T20:56:31Z",
             "owner": "comet-ml",
             "repo": "opik-mcp",
             "stars": 217
@@ -3584,7 +3584,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "haris-musa/excel-mcp-server",
           "description": "(👨‍💻 10 · 🔀 450 · 📋 79 - 65% open · ⏱️ 12.04.2026)",
           "children": [],
           "repo_info": {
@@ -3594,7 +3594,7 @@
             "last_commit": "2026-04-12T06:14:45Z",
             "owner": "haris-musa",
             "repo": "excel-mcp-server",
-            "stars": 4132
+            "stars": 4135
           }
         }
       ],
@@ -3605,7 +3605,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "utensils/mcp-nixos",
           "description": "(👨‍💻 14 · 🔀 43 · 📋 53 - 1% open · ⏱️ 12.08.2026)",
           "children": [],
           "repo_info": {
@@ -3615,7 +3615,7 @@
             "last_commit": "2026-08-12T17:12:41Z",
             "owner": "utensils",
             "repo": "mcp-nixos",
-            "stars": 804
+            "stars": 806
           }
         }
       ],
@@ -3626,7 +3626,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "idosal/git-mcp",
           "description": "(👨‍💻 16 · 🔀 740 · 📋 81 - 69% open · ⏱️ 08.05.2026)",
           "children": [],
           "repo_info": {
@@ -3636,7 +3636,7 @@
             "last_commit": "2026-05-08T14:21:24Z",
             "owner": "idosal",
             "repo": "git-mcp",
-            "stars": 8344
+            "stars": 8345
           }
         }
       ],
@@ -3647,7 +3647,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "joshuayoes/ios-simulator-mcp",
           "description": "(👨‍💻 18 · 🔀 93 · 📦 4 · 📋 33 - 48% open · ⏱️ 13.08.2026)",
           "children": [],
           "repo_info": {
@@ -3668,7 +3668,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "janreges/ai-distiller",
           "description": "(🔀 23 · 📥 2.9K · 📋 10 - 10% open · ⏱️ 25.05.2026)",
           "children": [],
           "repo_info": {
@@ -3689,7 +3689,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "21st-dev/magic-mcp",
           "description": "(👨‍💻 7 · 🔀 440 · 📦 14 · 📋 46 - 2% open · ⏱️ 31.07.2026)",
           "children": [],
           "repo_info": {
@@ -3699,7 +3699,7 @@
             "last_commit": "2026-07-31T23:27:33Z",
             "owner": "21st-dev",
             "repo": "magic-mcp",
-            "stars": 5721
+            "stars": 5727
           }
         }
       ],
@@ -3710,7 +3710,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cjo4m06/mcp-shrimp-task-manager",
           "description": "(👨‍💻 9 · 🔀 240 · 📦 3 · 📋 80 - 42% open · ⏱️ 21.08.2025)",
           "children": [],
           "repo_info": {
@@ -3731,7 +3731,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bgauryy/octocode",
           "description": "(🔀 77 · 📥 140 · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -3741,7 +3741,7 @@
             "last_commit": "2026-08-18T15:18:42Z",
             "owner": "bgauryy",
             "repo": "octocode",
-            "stars": 920
+            "stars": 921
           }
         }
       ],
@@ -3752,7 +3752,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vivekVells/mcp-pandoc",
           "description": "(👨‍💻 11 · 🔀 62 · 📋 35 - 42% open · ⏱️ 15.08.2026)",
           "children": [],
           "repo_info": {
@@ -3773,7 +3773,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Jpisnice/shadcn-ui-mcp-server",
           "description": "(👨‍💻 19 · 🔀 300 · 📋 21 - 4% open · ⏱️ 16.05.2026)",
           "children": [],
           "repo_info": {
@@ -3794,7 +3794,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "natsukium/mcp-servers-nix",
           "description": "(👨‍💻 13 · 🔀 36 · 📋 23 - 26% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -3815,7 +3815,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tumf/mcp-text-editor",
           "description": "(👨‍💻 12 · 🔀 25 · 📦 3 · 📋 9 - 11% open · ⏱️ 17.03.2026)",
           "children": [],
           "repo_info": {
@@ -3836,7 +3836,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kadykov/mcp-openapi-schema-explorer",
           "description": "(👨‍💻 6 · 🔀 15 · 📦 1 · ⏱️ 10.08.2026)",
           "children": [],
           "repo_info": {
@@ -3857,7 +3857,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "JetBrains/mcp-jetbrains",
           "description": "(👨‍💻 6 · 🔀 70 · 📥 130 · 📋 76 - 50% open · ⏱️ 18.08.2025)",
           "children": [],
           "repo_info": {
@@ -3878,7 +3878,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "etsd-tech/mcp-pointer",
           "description": "(👨‍💻 4 · 🔀 58 · 📥 150 · ⏱️ 12.11.2025)",
           "children": [],
           "repo_info": {
@@ -3899,7 +3899,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jasonjmcghee/claude-debugs-for-you",
           "description": "(👨‍💻 5 · 🔀 51 · 📥 280 · 📋 21 - 38% open · ⏱️ 20.12.2025)",
           "children": [],
           "repo_info": {
@@ -3920,7 +3920,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hyperb1iss/droidmind",
           "description": "(🔀 57 · 📋 12 - 50% open · ⏱️ 07.01.2026)",
           "children": [],
           "repo_info": {
@@ -3941,7 +3941,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "InditexTech/mcp-server-simulator-ios-idb",
           "description": "(👨‍💻 8 · 🔀 25 · 📋 8 - 37% open · ⏱️ 02.09.2025)",
           "children": [],
           "repo_info": {
@@ -3962,7 +3962,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SDGLBL/mcp-claude-code",
           "description": "(👨‍💻 4 · 🔀 38 · 📥 350 · 📋 19 - 10% open · ⏱️ 29.08.2025)",
           "children": [],
           "repo_info": {
@@ -3983,7 +3983,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Govcraft/rust-docs-mcp-server",
           "description": "(👨‍💻 4 · 🔀 36 · 📥 640 · 📋 14 - 42% open · ⏱️ 24.11.2025)",
           "children": [],
           "repo_info": {
@@ -4004,7 +4004,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "yangkyeongmo/mcp-server-apache-airflow",
           "description": "(👨‍💻 12 · 🔀 45 · 📋 21 - 23% open · ⏱️ 03.03.2026)",
           "children": [],
           "repo_info": {
@@ -4025,7 +4025,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aashari/mcp-server-atlassian-bitbucket",
           "description": "(👨‍💻 8 · 🔀 60 · 📦 1 · 📋 32 - 28% open · ⏱️ 06.03.2026)",
           "children": [],
           "repo_info": {
@@ -4046,7 +4046,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PostHog/mcp",
           "description": "(👨‍💻 14 · 🔀 27 · 📋 33 - 48% open · ⏱️ 19.01.2026)",
           "children": [],
           "repo_info": {
@@ -4056,7 +4056,7 @@
             "last_commit": "2026-01-19T16:47:34Z",
             "owner": "PostHog",
             "repo": "mcp",
-            "stars": 150
+            "stars": 151
           }
         }
       ],
@@ -4067,7 +4067,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CircleCI-Public/mcp-server-circleci",
           "description": "(👨‍💻 27 · 🔀 62 · 📦 5 · ⏱️ 06.08.2026)",
           "children": [],
           "repo_info": {
@@ -4088,7 +4088,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ckreiling/mcp-server-docker",
           "description": "(👨‍💻 4 · 🔀 98 · 📋 17 - 82% open · ⏱️ 07.08.2026)",
           "children": [],
           "repo_info": {
@@ -4109,7 +4109,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "TencentEdgeOne/edgeone-makers-mcp",
           "description": "(🔀 60 · 📦 6 · 📋 17 - 52% open · ⏱️ 07.07.2026)",
           "children": [],
           "repo_info": {
@@ -4130,7 +4130,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "admica/FileScopeMCP",
           "description": "(👨‍💻 8 · 🔀 32 · ⏱️ 10.05.2026)",
           "children": [],
           "repo_info": {
@@ -4151,7 +4151,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mhmzdev/figma-flutter-mcp",
           "description": "(👨‍💻 3 · 🔀 25 · 📋 8 - 87% open · ⏱️ 27.02.2026)",
           "children": [],
           "repo_info": {
@@ -4172,7 +4172,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hloiseau/mcp-gopls",
           "description": "(👨‍💻 6 · 🔀 11 · ⏱️ 22.06.2026)",
           "children": [],
           "repo_info": {
@@ -4193,7 +4193,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wise-vision/ros2_mcp",
           "description": "(👨‍💻 3 · 🔀 12 · 📋 11 - 27% open · ⏱️ 16.07.2026)",
           "children": [],
           "repo_info": {
@@ -4214,7 +4214,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zillow/auto-mobile",
           "description": "(👨‍💻 11 · 🔀 8 · 📥 430 · 📋 9 - 66% open · ⏱️ 10.03.2026)",
           "children": [],
           "repo_info": {
@@ -4235,7 +4235,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "janwilmake/openapi-mcp-server",
           "description": "(👨‍💻 6 · 🔀 93 · 📋 19 - 10% open · ⏱️ 07.07.2026)",
           "children": [],
           "repo_info": {
@@ -4256,7 +4256,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "r-huijts/xcode-mcp-server",
           "description": "(👨‍💻 3 · 🔀 28 · 📋 7 - 14% open · ⏱️ 02.02.2026)",
           "children": [],
           "repo_info": {
@@ -4277,7 +4277,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "JoshuaRileyDev/app-store-connect-mcp-server",
           "description": "(👨‍💻 3 · 🔀 57 · 📋 9 - 55% open · ⏱️ 02.09.2025)",
           "children": [],
           "repo_info": {
@@ -4298,7 +4298,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "traceloop/opentelemetry-mcp-server",
           "description": "(👨‍💻 5 · 🔀 23 · 📋 8 - 87% open · ⏱️ 21.06.2026)",
           "children": [],
           "repo_info": {
@@ -4319,7 +4319,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ckanthony/gin-mcp",
           "description": "(👨‍💻 6 · 🔀 22 · 📦 4 · 📋 8 - 50% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -4340,7 +4340,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zcaceres/fetch-mcp",
           "description": "(👨‍💻 5 · 🔀 120 · 📋 21 - 4% open · ⏱️ 09.03.2026)",
           "children": [],
           "repo_info": {
@@ -4350,7 +4350,7 @@
             "last_commit": "2026-03-12T17:17:24Z",
             "owner": "zcaceres",
             "repo": "fetch-mcp",
-            "stars": 814
+            "stars": 815
           }
         }
       ],
@@ -4361,7 +4361,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "biegehydra/BifrostMCP",
           "description": "(👨‍💻 5 · 🔀 35 · 📋 21 - 38% open · ⏱️ 27.03.2026)",
           "children": [],
           "repo_info": {
@@ -4382,7 +4382,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "abrinsmead/mindpilot-mcp",
           "description": "(👨‍💻 3 · 🔀 9 · 📋 13 - 61% open · ⏱️ 05.07.2026)",
           "children": [],
           "repo_info": {
@@ -4403,7 +4403,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "docker/hub-mcp",
           "description": "(👨‍💻 6 · 🔀 98 · ⏱️ 30.07.2026)",
           "children": [],
           "repo_info": {
@@ -4413,7 +4413,7 @@
             "last_commit": "2026-08-20T09:43:08Z",
             "owner": "docker",
             "repo": "hub-mcp",
-            "stars": 161
+            "stars": 162
           }
         }
       ],
@@ -4424,7 +4424,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "augmnt/augments-mcp-server",
           "description": "(👨‍💻 2 · 🔀 20 · 📥 12 · 📋 5 - 20% open · ⏱️ 13.03.2026)",
           "children": [],
           "repo_info": {
@@ -4445,7 +4445,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "st3v3nmw/sourcerer-mcp",
           "description": "(🔀 12 · 📋 4 - 25% open · ⏱️ 10.11.2025)",
           "children": [],
           "repo_info": {
@@ -4466,7 +4466,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sapientpants/sonarqube-mcp-server",
           "description": "(👨‍💻 2 · 🔀 16 · 📥 270 · 📦 3 · ⏱️ 14.11.2025)",
           "children": [],
           "repo_info": {
@@ -4487,7 +4487,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "xzq-xu/jvm-mcp-server",
           "description": "(👨‍💻 8 · 🔀 19 · 📋 6 - 50% open · ⏱️ 30.03.2026)",
           "children": [],
           "repo_info": {
@@ -4508,7 +4508,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lamemind/mcp-server-multiverse",
           "description": "(👨‍💻 2 · 🔀 18 · 📋 7 - 42% open · ⏱️ 30.03.2026)",
           "children": [],
           "repo_info": {
@@ -4529,7 +4529,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ShenghaiWang/xcodebuild",
           "description": "(👨‍💻 4 · 🔀 9 · ⏱️ 15.08.2025)",
           "children": [],
           "repo_info": {
@@ -4550,7 +4550,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lpigeon/unitree-go2-mcp-server",
           "description": "(👨‍💻 2 · 🔀 12 · ⏱️ 10.06.2026)",
           "children": [],
           "repo_info": {
@@ -4697,17 +4697,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stack-chan/stack-chan",
           "description": "(👨‍💻 22 · 🔀 210 · 📥 110 · 📋 170 - 34% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 374381865,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T02:34:13Z",
+            "last_commit": "2026-08-25T05:28:01Z",
             "owner": "stack-chan",
             "repo": "stack-chan",
-            "stars": 1667
+            "stars": 1668
           }
         }
       ],
@@ -4718,7 +4718,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "horw/esp-mcp",
           "description": "(👨‍💻 5 · 🔀 19 · 📋 36 - 88% open · ⏱️ 27.12.2025)",
           "children": [],
           "repo_info": {
@@ -4739,7 +4739,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "microsoft/markitdown",
           "description": "(👨‍💻 83 · 🔀 13K · 📦 3.8K · 📋 570 - 68% open · ⏱️ 29.07.2026)",
           "children": [],
           "repo_info": {
@@ -4749,7 +4749,7 @@
             "last_commit": "2026-08-19T19:36:22Z",
             "owner": "microsoft",
             "repo": "markitdown",
-            "stars": 175942
+            "stars": 176083
           }
         }
       ],
@@ -4760,17 +4760,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mickael-kerjean/filestash",
           "description": "(👨‍💻 82 · 🔀 980 · 📦 4 · 📋 720 - 12% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 94173064,
             "language": "Go",
-            "last_commit": "2026-08-21T16:34:36Z",
+            "last_commit": "2026-08-25T03:43:40Z",
             "owner": "mickael-kerjean",
             "repo": "filestash",
-            "stars": 14539
+            "stars": 14543
           }
         }
       ],
@@ -4781,7 +4781,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "8b-is/smart-tree",
           "description": "(👨‍💻 11 · 🔀 26 · 📥 2.1K · ⏱️ 11.07.2026)",
           "children": [],
           "repo_info": {
@@ -4802,7 +4802,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mark3labs/mcp-filesystem-server",
           "description": "(👨‍💻 8 · 🔀 110 · 📥 2.2K · 📦 40 · 📋 33 - 57% open · ⏱️ 23.11.2025)",
           "children": [],
           "repo_info": {
@@ -4823,7 +4823,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cyberchitta/llm-context.py",
           "description": "(👨‍💻 3 · 🔀 23 · 📋 7 - 57% open · ⏱️ 02.08.2026)",
           "children": [],
           "repo_info": {
@@ -4865,7 +4865,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "xpaysh/awesome-x402",
           "description": "(👨‍💻 530 · 🔀 840 · 📋 42 - 38% open · ⏱️ 28.07.2026)",
           "children": [],
           "repo_info": {
@@ -4875,7 +4875,7 @@
             "last_commit": "2026-07-28T05:17:23Z",
             "owner": "xpaysh",
             "repo": "awesome-x402",
-            "stars": 284
+            "stars": 285
           }
         }
       ],
@@ -4886,14 +4886,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "longbridge/openapi",
           "description": "(👨‍💻 19 · 🔀 67 · 📥 2.5K · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 490303600,
             "language": "Rust",
-            "last_commit": "2026-08-24T03:37:20Z",
+            "last_commit": "2026-08-25T03:33:05Z",
             "owner": "longbridge",
             "repo": "openapi",
             "stars": 450
@@ -4907,7 +4907,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "narumiruna/yfinance-mcp",
           "description": "(👨‍💻 9 · 🔀 65 · 📥 36 · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -4928,7 +4928,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "massive-com/mcp_massive",
           "description": "(👨‍💻 10 · 🔀 110 · 📥 200 · 📋 46 - 10% open · ⏱️ 05.05.2026)",
           "children": [],
           "repo_info": {
@@ -4949,7 +4949,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "base/base-mcp-legacy",
           "description": "(👨‍💻 8 · 🔀 130 · ⏱️ 13.05.2026)",
           "children": [],
           "repo_info": {
@@ -4970,7 +4970,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "aaronjmars/web3-research-mcp",
           "description": "(👨‍💻 4 · 🔀 52 · 📦 2 · ⏱️ 13.08.2026)",
           "children": [],
           "repo_info": {
@@ -4991,7 +4991,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ariadng/metatrader-mcp-server",
           "description": "(👨‍💻 2 · 🔀 250 · 📥 140 · 📋 23 - 60% open · ⏱️ 28.03.2026)",
           "children": [],
           "repo_info": {
@@ -5001,7 +5001,7 @@
             "last_commit": "2026-03-28T18:39:29Z",
             "owner": "ariadng",
             "repo": "metatrader-mcp-server",
-            "stars": 769
+            "stars": 771
           }
         }
       ],
@@ -5012,7 +5012,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mcpdotdirect/evm-mcp-server",
           "description": "(👨‍💻 11 · 🔀 90 · 📋 14 - 42% open · ⏱️ 04.06.2026)",
           "children": [],
           "repo_info": {
@@ -5033,7 +5033,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "XeroAPI/xero-mcp-server",
           "description": "(👨‍💻 19 · 🔀 170 · 📋 60 - 83% open · ⏱️ 05.06.2026)",
           "children": [],
           "repo_info": {
@@ -5054,7 +5054,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ferdousbhai/investor-agent",
           "description": "(👨‍💻 6 · 🔀 53 · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
@@ -5075,7 +5075,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "alchemyplatform/alchemy-mcp-server",
           "description": "(👨‍💻 8 · 🔀 32 · 📋 10 - 80% open · ⏱️ 29.06.2026)",
           "children": [],
           "repo_info": {
@@ -5096,7 +5096,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "QuantConnect/mcp-server",
           "description": "(👨‍💻 5 · 🔀 31 · 📋 29 - 41% open · ⏱️ 07.05.2026)",
           "children": [],
           "repo_info": {
@@ -5117,7 +5117,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OctagonAI/octagon-mcp-server",
           "description": "(👨‍💻 4 · 🔀 24 · ⏱️ 09.07.2026)",
           "children": [],
           "repo_info": {
@@ -5138,7 +5138,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "berlinbra/alpha-vantage-mcp",
           "description": "(👨‍💻 6 · 🔀 41 · ⏱️ 22.10.2025)",
           "children": [],
           "repo_info": {
@@ -5159,7 +5159,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "heurist-network/heurist-mesh-mcp-server",
           "description": "(👨‍💻 6 · 🔀 15 · 📋 4 - 25% open · ⏱️ 25.03.2026)",
           "children": [],
           "repo_info": {
@@ -5180,7 +5180,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kukapay/freqtrade-mcp",
           "description": "(🔀 42 · 📋 5 - 80% open · ⏱️ 06.12.2025)",
           "children": [],
           "repo_info": {
@@ -5201,7 +5201,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kukapay/crypto-indicators-mcp",
           "description": "(🔀 45 · 📋 6 - 83% open · ⏱️ 06.12.2025)",
           "children": [],
           "repo_info": {
@@ -5222,7 +5222,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kukapay/cryptopanic-mcp-server",
           "description": "(👨‍💻 2 · 🔀 22 · ⏱️ 09.12.2025)",
           "children": [],
           "repo_info": {
@@ -5279,17 +5279,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IvanMurzak/Unity-MCP",
           "description": "(👨‍💻 28 · 🔀 360 · 📥 130K · 📋 400 - 11% open · ⏱️ 17.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 959123498,
             "language": "C#",
-            "last_commit": "2026-08-24T02:38:25Z",
+            "last_commit": "2026-08-24T23:55:08Z",
             "owner": "IvanMurzak",
             "repo": "Unity-MCP",
-            "stars": 3974
+            "stars": 3977
           }
         }
       ],
@@ -5300,7 +5300,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CoderGamester/mcp-unity",
           "description": "(👨‍💻 32 · 🔀 240 · 📥 1.8K · 📋 83 - 2% open · ⏱️ 10.08.2026)",
           "children": [],
           "repo_info": {
@@ -5321,7 +5321,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tumourlove/monolith",
           "description": "(👨‍💻 14 · 🔀 74 · 📥 3.1K · 📋 55 - 12% open · ⏱️ 01.08.2026)",
           "children": [],
           "repo_info": {
@@ -5331,7 +5331,7 @@
             "last_commit": "2026-08-01T12:26:15Z",
             "owner": "tumourlove",
             "repo": "monolith",
-            "stars": 276
+            "stars": 279
           }
         }
       ],
@@ -5342,7 +5342,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Coding-Solo/godot-mcp",
           "description": "(👨‍💻 8 · 🔀 460 · 📋 64 - 54% open · ⏱️ 16.04.2026)",
           "children": [],
           "repo_info": {
@@ -5352,7 +5352,7 @@
             "last_commit": "2026-04-16T23:37:00Z",
             "owner": "Coding-Solo",
             "repo": "godot-mcp",
-            "stars": 5349
+            "stars": 5357
           }
         }
       ],
@@ -5363,7 +5363,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "rishijatia/fantasy-pl-mcp",
           "description": "(👨‍💻 3 · 🔀 24 · 📦 3 · 📋 8 - 12% open · ⏱️ 03.08.2026)",
           "children": [],
           "repo_info": {
@@ -5384,7 +5384,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "opgginc/opgg-mcp",
           "description": "(👨‍💻 4 · ⏱️ 13.05.2026)",
           "children": [],
           "repo_info": {
@@ -5405,7 +5405,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pab1it0/chess-mcp",
           "description": "(👨‍💻 2 · 🔀 21 · ⏱️ 26.06.2026)",
           "children": [],
           "repo_info": {
@@ -5426,7 +5426,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mahdin75/gis-mcp",
           "description": "(👨‍💻 12 · 🔀 50 · 📋 14 - 7% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -5447,7 +5447,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jjsantos01/qgis_mcp",
           "description": "(👨‍💻 4 · 🔀 170 · 📋 25 - 48% open · ⏱️ 01.10.2025)",
           "children": [],
           "repo_info": {
@@ -5489,17 +5489,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "headroomlabs-ai/headroom",
           "description": "(👨‍💻 250 · 🔀 5.1K · 📥 8.2K · 📋 930 - 26% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 1129940957,
             "language": "Python",
-            "last_commit": "2026-08-24T11:04:33Z",
+            "last_commit": "2026-08-25T06:11:48Z",
             "owner": "headroomlabs-ai",
             "repo": "headroom",
-            "stars": 67367
+            "stars": 67473
           }
         }
       ],
@@ -5510,17 +5510,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "topoteretes/cognee",
           "description": "(👨‍💻 280 · 🔀 2.9K · 📦 210 · 📋 920 - 10% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 679343504,
             "language": "Python",
-            "last_commit": "2026-08-24T14:13:04Z",
+            "last_commit": "2026-08-24T17:28:39Z",
             "owner": "topoteretes",
             "repo": "cognee",
-            "stars": 30223
+            "stars": 30248
           }
         }
       ],
@@ -5531,7 +5531,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "upstash/context7",
           "description": "(👨‍💻 130 · 🔀 2.9K · 📥 1.1K · 📋 2.2K - 0% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -5541,7 +5541,7 @@
             "last_commit": "2026-08-24T12:32:53Z",
             "owner": "upstash",
             "repo": "context7",
-            "stars": 61149
+            "stars": 61175
           }
         }
       ],
@@ -5552,7 +5552,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "varun29ankuS/shodh-memory",
           "description": "(👨‍💻 11 · 🔀 37 · 📥 4.9K · 📋 110 - 11% open · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
@@ -5562,7 +5562,7 @@
             "last_commit": "2026-08-24T03:15:14Z",
             "owner": "varun29ankuS",
             "repo": "shodh-memory",
-            "stars": 275
+            "stars": 276
           }
         }
       ],
@@ -5573,7 +5573,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "omega-memory/omega-memory",
           "description": "(👨‍💻 9 · 🔀 28 · 📥 280 · 📋 36 - 13% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -5594,7 +5594,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "shinpr/mcp-local-rag",
           "description": "(👨‍💻 6 · 🔀 68 · 📦 5 · 📋 40 - 2% open · ⏱️ 12.08.2026)",
           "children": [],
           "repo_info": {
@@ -5615,7 +5615,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "bitbonsai/mcpvault",
           "description": "(👨‍💻 16 · 🔀 120 · 📋 74 - 9% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -5625,7 +5625,7 @@
             "last_commit": "2026-08-24T12:06:25Z",
             "owner": "bitbonsai",
             "repo": "mcpvault",
-            "stars": 1631
+            "stars": 1633
           }
         }
       ],
@@ -5636,7 +5636,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "apecloud/ApeRAG",
           "description": "(👨‍💻 19 · 🔀 140 · 📋 420 - 8% open · ⏱️ 15.04.2026)",
           "children": [],
           "repo_info": {
@@ -5657,7 +5657,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "graphlit/graphlit-mcp-server",
           "description": "(👨‍💻 4 · 🔀 53 · 📦 5 · ⏱️ 12.01.2026)",
           "children": [],
           "repo_info": {
@@ -5678,7 +5678,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jinzcdev/markmap-mcp-server",
           "description": "(👨‍💻 2 · 🔀 35 · 📦 3 · ⏱️ 04.08.2026)",
           "children": [],
           "repo_info": {
@@ -5688,7 +5688,7 @@
             "last_commit": "2026-08-04T10:36:42Z",
             "owner": "jinzcdev",
             "repo": "markmap-mcp-server",
-            "stars": 277
+            "stars": 278
           }
         }
       ],
@@ -5699,7 +5699,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lostintangent/gistpad-mcp",
           "description": "(👨‍💻 3 · 🔀 35 · 📦 3 · 📋 21 - 4% open · ⏱️ 16.01.2026)",
           "children": [],
           "repo_info": {
@@ -5720,7 +5720,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mem0ai/mem0-mcp",
           "description": "(👨‍💻 6 · 🔀 150 · ⏱️ 24.03.2026)",
           "children": [],
           "repo_info": {
@@ -5741,7 +5741,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "CheMiguel23/MemoryMesh",
           "description": "(👨‍💻 4 · 🔀 50 · 📋 9 - 11% open · ⏱️ 17.01.2026)",
           "children": [],
           "repo_info": {
@@ -5762,7 +5762,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pi22by7/In-Memoria",
           "description": "(👨‍💻 3 · 🔀 30 · 📦 1 · 📋 25 - 8% open · ⏱️ 23.12.2025)",
           "children": [],
           "repo_info": {
@@ -5783,7 +5783,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ragieai/ragie-mcp-server",
           "description": "(👨‍💻 3 · 🔀 21 · ⏱️ 04.02.2026)",
           "children": [],
           "repo_info": {
@@ -5804,7 +5804,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "redleaves/context-keeper",
           "description": "(👨‍💻 2 · 🔀 9 · ⏱️ 13.01.2026)",
           "children": [],
           "repo_info": {
@@ -5861,7 +5861,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pipeboard-co/meta-ads-mcp",
           "description": "(👨‍💻 8 · 🔀 270 · 📋 33 - 33% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -5871,7 +5871,7 @@
             "last_commit": "2026-08-19T01:08:31Z",
             "owner": "pipeboard-co",
             "repo": "meta-ads-mcp",
-            "stars": 1196
+            "stars": 1197
           }
         }
       ],
@@ -5882,17 +5882,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "stape-io/google-tag-manager-mcp-server",
           "description": "(👨‍💻 10 · 🔀 59 · 📋 4 - 75% open · ⏱️ 17.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 967399420,
             "language": "TypeScript",
-            "last_commit": "2026-08-21T17:10:33Z",
+            "last_commit": "2026-08-24T21:13:28Z",
             "owner": "stape-io",
             "repo": "google-tag-manager-mcp-server",
-            "stars": 203
+            "stars": 204
           }
         }
       ],
@@ -5903,7 +5903,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gomarble-ai/facebook-ads-mcp-server",
           "description": "(👨‍💻 7 · 🔀 87 · 📋 4 - 50% open · ⏱️ 05.08.2026)",
           "children": [],
           "repo_info": {
@@ -5924,7 +5924,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gomarble-ai/google-ads-mcp-server",
           "description": "(👨‍💻 3 · 🔀 48 · ⏱️ 05.08.2026)",
           "children": [],
           "repo_info": {
@@ -5966,17 +5966,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "netdata/netdata",
           "description": "(👨‍💻 690 · 🔀 6.4K · 📥 1.6M · 📋 8.3K - 2% open · ⏱️ 19.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 10744183,
             "language": "Go",
-            "last_commit": "2026-08-24T13:50:26Z",
+            "last_commit": "2026-08-25T06:23:52Z",
             "owner": "netdata",
             "repo": "netdata",
-            "stars": 80276
+            "stars": 80285
           }
         }
       ],
@@ -5987,17 +5987,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "grafana/mcp-grafana",
           "description": "(👨‍💻 110 · 🔀 420 · 📥 210K · 📦 5 · 📋 290 - 25% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 907869862,
             "language": "Go",
-            "last_commit": "2026-08-24T14:17:34Z",
+            "last_commit": "2026-08-25T05:16:09Z",
             "owner": "grafana",
             "repo": "mcp-grafana",
-            "stars": 3383
+            "stars": 3385
           }
         }
       ],
@@ -6008,17 +6008,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "getsentry/sentry-mcp",
           "description": "(👨‍💻 66 · 🔀 130 · 📥 240 · 📋 290 - 23% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 957245447,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T07:20:48Z",
+            "last_commit": "2026-08-24T20:29:33Z",
             "owner": "getsentry",
             "repo": "sentry-mcp",
-            "stars": 827
+            "stars": 828
           }
         }
       ],
@@ -6029,7 +6029,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "VictoriaMetrics/mcp-victoriametrics",
           "description": "(👨‍💻 11 · 🔀 27 · 📥 8.4K · 📋 27 - 14% open · ⏱️ 08.06.2026)",
           "children": [],
           "repo_info": {
@@ -6050,7 +6050,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "pydantic/logfire-mcp",
           "description": "(👨‍💻 10 · 🔀 28 · 📦 3 · ⏱️ 13.07.2026)",
           "children": [],
           "repo_info": {
@@ -6071,7 +6071,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mpeirone/zabbix-mcp-server",
           "description": "(👨‍💻 6 · 🔀 75 · 📋 14 - 14% open · ⏱️ 10.05.2026)",
           "children": [],
           "repo_info": {
@@ -6092,7 +6092,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "seekrays/mcp-monitor",
           "description": "(👨‍💻 5 · 🔀 17 · 📥 170 · ⏱️ 02.08.2025)",
           "children": [],
           "repo_info": {
@@ -6134,7 +6134,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sunriseapps/imagesorcery-mcp",
           "description": "(👨‍💻 2 · 🔀 49 · ⏱️ 19.05.2026)",
           "children": [],
           "repo_info": {
@@ -6155,7 +6155,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "video-creator/ffmpeg-mcp",
           "description": "(👨‍💻 2 · 🔀 25 · ⏱️ 20.05.2026)",
           "children": [],
           "repo_info": {
@@ -6176,17 +6176,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ihor-sokoliuk/mcp-searxng",
           "description": "(👨‍💻 23 · 🔀 150 · 📦 6 · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 907172461,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T05:31:14Z",
+            "last_commit": "2026-08-25T03:09:35Z",
             "owner": "ihor-sokoliuk",
             "repo": "mcp-searxng",
-            "stars": 1157
+            "stars": 1158
           }
         }
       ],
@@ -6197,7 +6197,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "blazickjp/arxiv-mcp-server",
           "description": "(👨‍💻 17 · 🔀 240 · 📥 270 · 📦 23 · 📋 64 - 17% open · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
@@ -6207,7 +6207,7 @@
             "last_commit": "2026-08-24T00:00:41Z",
             "owner": "blazickjp",
             "repo": "arxiv-mcp-server",
-            "stars": 3070
+            "stars": 3071
           }
         }
       ],
@@ -6218,7 +6218,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "brightdata/brightdata-mcp",
           "description": "(👨‍💻 18 · 🔀 320 · 📦 18 · 📋 52 - 19% open · ⏱️ 12.08.2026)",
           "children": [],
           "repo_info": {
@@ -6239,7 +6239,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "brave/brave-search-mcp-server",
           "description": "(👨‍💻 17 · 🔀 190 · 📦 40 · 📋 50 - 42% open · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -6249,7 +6249,7 @@
             "last_commit": "2026-08-20T16:12:05Z",
             "owner": "brave",
             "repo": "brave-search-mcp-server",
-            "stars": 1400
+            "stars": 1401
           }
         }
       ],
@@ -6260,7 +6260,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "exa-labs/exa-mcp-server",
           "description": "(👨‍💻 30 · 🔀 370 · 📦 15 · 📋 110 - 14% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -6270,7 +6270,7 @@
             "last_commit": "2026-08-21T04:44:51Z",
             "owner": "exa-labs",
             "repo": "exa-mcp-server",
-            "stars": 4920
+            "stars": 4923
           }
         }
       ],
@@ -6281,7 +6281,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nickclyde/duckduckgo-mcp-server",
           "description": "(👨‍💻 11 · 🔀 180 · 📦 22 · 📋 32 - 12% open · ⏱️ 28.07.2026)",
           "children": [],
           "repo_info": {
@@ -6291,7 +6291,7 @@
             "last_commit": "2026-07-28T14:23:09Z",
             "owner": "nickclyde",
             "repo": "duckduckgo-mcp-server",
-            "stars": 1433
+            "stars": 1436
           }
         }
       ],
@@ -6302,7 +6302,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Aas-ee/open-webSearch",
           "description": "(👨‍💻 9 · 🔀 180 · 📋 51 - 27% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -6312,7 +6312,7 @@
             "last_commit": "2026-08-24T04:08:23Z",
             "owner": "Aas-ee",
             "repo": "open-webSearch",
-            "stars": 1738
+            "stars": 1744
           }
         }
       ],
@@ -6323,7 +6323,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "lfnovo/content-core",
           "description": "(👨‍💻 5 · 🔀 40 · 📦 54 · 📋 32 - 50% open · ⏱️ 30.07.2026)",
           "children": [],
           "repo_info": {
@@ -6344,7 +6344,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tinyfish-io/agentql-mcp",
           "description": "(👨‍💻 6 · 🔀 43 · 📦 5 · ⏱️ 17.08.2026)",
           "children": [],
           "repo_info": {
@@ -6365,7 +6365,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "superagents-lab/search1api-mcp",
           "description": "(👨‍💻 2 · 🔀 38 · 📦 4 · ⏱️ 11.08.2026)",
           "children": [],
           "repo_info": {
@@ -6386,7 +6386,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kagisearch/kagimcp",
           "description": "(👨‍💻 8 · 🔀 47 · 📋 15 - 13% open · ⏱️ 07.07.2026)",
           "children": [],
           "repo_info": {
@@ -6396,7 +6396,7 @@
             "last_commit": "2026-07-07T15:26:36Z",
             "owner": "kagisearch",
             "repo": "kagimcp",
-            "stars": 501
+            "stars": 500
           }
         }
       ],
@@ -6407,7 +6407,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "andybrandt/mcp-simple-arxiv",
           "description": "(👨‍💻 6 · 🔀 26 · 📦 66 · ⏱️ 19.02.2026)",
           "children": [],
           "repo_info": {
@@ -6428,7 +6428,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mikechao/brave-search-mcp",
           "description": "(👨‍💻 5 · 🔀 21 · 📥 160 · 📦 6 · ⏱️ 28.05.2026)",
           "children": [],
           "repo_info": {
@@ -6449,7 +6449,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "apify/mcp-server-rag-web-browser",
           "description": "(👨‍💻 4 · 🔀 31 · ⏱️ 19.05.2026)",
           "children": [],
           "repo_info": {
@@ -6470,7 +6470,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "serpapi/serpapi-mcp",
           "description": "(👨‍💻 9 · 🔀 37 · 📋 14 - 28% open · ⏱️ 15.08.2026)",
           "children": [],
           "repo_info": {
@@ -6491,7 +6491,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "takashiishida/arxiv-latex-mcp",
           "description": "(👨‍💻 4 · 🔀 17 · 📥 180 · 📋 7 - 42% open · ⏱️ 30.07.2026)",
           "children": [],
           "repo_info": {
@@ -6512,7 +6512,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nkapila6/mcp-local-rag",
           "description": "(👨‍💻 5 · 🔀 22 · 📋 10 - 60% open · ⏱️ 10.06.2026)",
           "children": [],
           "repo_info": {
@@ -6533,7 +6533,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "just-every/mcp-read-website-fast",
           "description": "(👨‍💻 5 · 🔀 26 · 📋 7 - 14% open · ⏱️ 04.08.2026)",
           "children": [],
           "repo_info": {
@@ -6554,7 +6554,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "jae-jae/fetcher-mcp",
           "description": "(👨‍💻 5 · 🔀 100 · 📋 20 - 30% open · ⏱️ 14.01.2026)",
           "children": [],
           "repo_info": {
@@ -6575,7 +6575,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vectorize-io/vectorize-mcp-server",
           "description": "(👨‍💻 7 · 🔀 26 · ⏱️ 19.06.2026)",
           "children": [],
           "repo_info": {
@@ -6596,7 +6596,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "hellokaton/unsplash-mcp-server",
           "description": "(👨‍💻 5 · 🔀 22 · 📋 8 - 25% open · ⏱️ 23.04.2026)",
           "children": [],
           "repo_info": {
@@ -6617,7 +6617,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "andybrandt/mcp-simple-pubmed",
           "description": "(👨‍💻 7 · 🔀 33 · 📋 8 - 12% open · ⏱️ 19.03.2026)",
           "children": [],
           "repo_info": {
@@ -6638,7 +6638,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "scrapeless-ai/scrapeless-mcp-server",
           "description": "(👨‍💻 4 · 🔀 29 · 📦 3 · 📋 2 - 50% open · ⏱️ 23.09.2025)",
           "children": [],
           "repo_info": {
@@ -6659,7 +6659,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "just-every/mcp-screenshot-website-fast",
           "description": "(👨‍💻 4 · 🔀 11 · ⏱️ 04.08.2026)",
           "children": [],
           "repo_info": {
@@ -6680,7 +6680,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "deadletterq/mcp-opennutrition",
           "description": "(👨‍💻 4 · 🔀 28 · ⏱️ 28.07.2026)",
           "children": [],
           "repo_info": {
@@ -6690,7 +6690,7 @@
             "last_commit": "2026-07-28T15:15:58Z",
             "owner": "deadletterq",
             "repo": "mcp-opennutrition",
-            "stars": 201
+            "stars": 202
           }
         }
       ],
@@ -6701,7 +6701,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ChanMeng666/server-google-news",
           "description": "(👨‍💻 10 · 🔀 20 · 📋 4 - 75% open · ⏱️ 16.06.2026)",
           "children": [],
           "repo_info": {
@@ -6722,7 +6722,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "OctagonAI/octagon-deep-research-mcp",
           "description": "(👨‍💻 2 · 🔀 16 · 📦 3 · ⏱️ 09.02.2026)",
           "children": [],
           "repo_info": {
@@ -6743,7 +6743,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ConechoAI/openai-websearch-mcp",
           "description": "(👨‍💻 3 · 🔀 18 · ⏱️ 12.09.2025)",
           "children": [],
           "repo_info": {
@@ -6830,7 +6830,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mrexodia/ida-pro-mcp",
           "description": "(👨‍💻 76 · 🔀 1.3K · 📦 2 · 📋 250 - 13% open · ⏱️ 17.08.2026)",
           "children": [],
           "repo_info": {
@@ -6840,7 +6840,7 @@
             "last_commit": "2026-08-17T13:34:03Z",
             "owner": "mrexodia",
             "repo": "ida-pro-mcp",
-            "stars": 11542
+            "stars": 11561
           }
         }
       ],
@@ -6851,14 +6851,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "safedep/vet",
           "description": "(👨‍💻 36 · 🔀 110 · 📥 200K · 📦 2 · 📋 230 - 34% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 583528771,
             "language": "Go",
-            "last_commit": "2026-08-24T13:44:15Z",
+            "last_commit": "2026-08-25T06:03:57Z",
             "owner": "safedep",
             "repo": "vet",
             "stars": 1102
@@ -6872,7 +6872,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "duriantaco/skylos",
           "description": "(👨‍💻 9 · 🔀 29 · 📦 26 · 📋 140 - 6% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -6893,7 +6893,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zinja-coder/jadx-ai-mcp",
           "description": "(👨‍💻 6 · 🔀 240 · 📥 73K · 📋 58 - 6% open · ⏱️ 06.08.2026)",
           "children": [],
           "repo_info": {
@@ -6903,7 +6903,7 @@
             "last_commit": "2026-08-06T15:56:52Z",
             "owner": "zinja-coder",
             "repo": "jadx-ai-mcp",
-            "stars": 2698
+            "stars": 2702
           }
         }
       ],
@@ -6914,7 +6914,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "beelzebub-labs/beelzebub",
           "description": "(👨‍💻 19 · 🔀 200 · 📋 41 - 4% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -6924,7 +6924,7 @@
             "last_commit": "2026-08-24T06:41:15Z",
             "owner": "beelzebub-labs",
             "repo": "beelzebub",
-            "stars": 2161
+            "stars": 2164
           }
         }
       ],
@@ -6935,7 +6935,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "symgraph/GhidrAssistMCP",
           "description": "(👨‍💻 13 · 🔀 64 · 📥 10K · 📋 34 - 20% open · ⏱️ 02.08.2026)",
           "children": [],
           "repo_info": {
@@ -6945,7 +6945,7 @@
             "last_commit": "2026-08-03T12:39:26Z",
             "owner": "symgraph",
             "repo": "GhidrAssistMCP",
-            "stars": 727
+            "stars": 728
           }
         }
       ],
@@ -6956,7 +6956,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "radareorg/radare2-mcp",
           "description": "(👨‍💻 12 · 🔀 38 · 📥 1.3K · 📋 23 - 34% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
@@ -6977,7 +6977,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "gbrigandi/mcp-server-wazuh",
           "description": "(🔀 60 · 📥 2.4K · 📋 20 - 20% open · ⏱️ 08.12.2025)",
           "children": [],
           "repo_info": {
@@ -6998,7 +6998,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "13bm/GhidraMCP",
           "description": "(👨‍💻 2 · 🔀 21 · 📥 1.7K · 📋 5 - 20% open · ⏱️ 27.03.2026)",
           "children": [],
           "repo_info": {
@@ -7019,7 +7019,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "semgrep/mcp",
           "description": "(👨‍💻 19 · 🔀 58 · 📋 29 - 41% open · ⏱️ 28.10.2025)",
           "children": [],
           "repo_info": {
@@ -7040,7 +7040,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "zinja-coder/apktool-mcp-server",
           "description": "(👨‍💻 4 · 🔀 67 · 📥 2K · 📋 3 - 66% open · ⏱️ 02.07.2026)",
           "children": [],
           "repo_info": {
@@ -7050,7 +7050,7 @@
             "last_commit": "2026-07-02T14:20:56Z",
             "owner": "zinja-coder",
             "repo": "apktool-mcp-server",
-            "stars": 637
+            "stars": 638
           }
         }
       ],
@@ -7061,7 +7061,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "fosdickio/binary_ninja_mcp",
           "description": "(👨‍💻 8 · 🔀 87 · 📋 43 - 55% open · ⏱️ 05.04.2026)",
           "children": [],
           "repo_info": {
@@ -7071,7 +7071,7 @@
             "last_commit": "2026-04-05T19:38:07Z",
             "owner": "fosdickio",
             "repo": "binary_ninja_mcp",
-            "stars": 424
+            "stars": 425
           }
         }
       ],
@@ -7082,7 +7082,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "w0h1v/mcp-shodan",
           "description": "(👨‍💻 5 · 🔀 24 · 📦 3 · ⏱️ 31.03.2026)",
           "children": [],
           "repo_info": {
@@ -7103,7 +7103,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "w0h1v/mcp-maigret",
           "description": "(👨‍💻 6 · 🔀 38 · 📦 3 · 📋 4 - 75% open · ⏱️ 27.01.2026)",
           "children": [],
           "repo_info": {
@@ -7124,7 +7124,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "securityfortech/secops-mcp",
           "description": "(👨‍💻 5 · 🔀 33 · ⏱️ 17.09.2025)",
           "children": [],
           "repo_info": {
@@ -7145,7 +7145,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "w0h1v/mcp-virustotal",
           "description": "(👨‍💻 7 · 🔀 21 · 📦 3 · 📋 2 - 50% open · ⏱️ 24.05.2026)",
           "children": [],
           "repo_info": {
@@ -7176,7 +7176,7 @@
             "last_commit": "2025-06-23T04:18:18Z",
             "owner": "LaurieWired",
             "repo": "GhidraMCP",
-            "stars": 9852
+            "stars": 9859
           }
         },
         {
@@ -7202,7 +7202,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "karanb192/reddit-mcp-buddy",
           "description": "(👨‍💻 2 · 🔀 97 · 📥 2.4K · 📋 11 - 63% open · ⏱️ 04.08.2026)",
           "children": [],
           "repo_info": {
@@ -7212,7 +7212,7 @@
             "last_commit": "2026-08-17T09:42:37Z",
             "owner": "karanb192",
             "repo": "reddit-mcp-buddy",
-            "stars": 802
+            "stars": 801
           }
         }
       ],
@@ -7223,7 +7223,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "HagaiHen/facebook-mcp-server",
           "description": "(👨‍💻 3 · 🔀 73 · ⏱️ 23.04.2026)",
           "children": [],
           "repo_info": {
@@ -7244,17 +7244,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "sooperset/mcp-atlassian",
           "description": "(👨‍💻 170 · 🔀 1.3K · 📦 12 · 📋 540 - 24% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 897809208,
             "language": "Python",
-            "last_commit": "2026-08-20T21:45:27Z",
+            "last_commit": "2026-08-24T23:37:27Z",
             "owner": "sooperset",
             "repo": "mcp-atlassian",
-            "stars": 5789
+            "stars": 5790
           }
         }
       ],
@@ -7265,7 +7265,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "nguyenvanduocit/jira-mcp",
           "description": "(👨‍💻 8 · 🔀 25 · 📥 590 · 📋 14 - 21% open · ⏱️ 18.04.2026)",
           "children": [],
           "repo_info": {
@@ -7286,7 +7286,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mbailey/voicemode",
           "description": "(👨‍💻 25 · 🔀 180 · 📋 120 - 12% open · ⏱️ 21.07.2026)",
           "children": [],
           "repo_info": {
@@ -7307,7 +7307,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mberg/kokoro-tts-mcp",
           "description": "(👨‍💻 3 · 🔀 20 · ⏱️ 12.09.2025)",
           "children": [],
           "repo_info": {
@@ -7328,7 +7328,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "openbnb-org/mcp-server-airbnb",
           "description": "(👨‍💻 5 · 🔀 120 · 📥 1.6K · 📋 32 - 43% open · ⏱️ 06.08.2026)",
           "children": [],
           "repo_info": {
@@ -7338,7 +7338,7 @@
             "last_commit": "2026-08-06T05:21:57Z",
             "owner": "openbnb-org",
             "repo": "mcp-server-airbnb",
-            "stars": 515
+            "stars": 516
           }
         }
       ],
@@ -7349,7 +7349,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "cobanov/teslamate-mcp",
           "description": "(👨‍💻 6 · 🔀 19 · 📋 2 - 50% open · ⏱️ 15.08.2026)",
           "children": [],
           "repo_info": {
@@ -7370,17 +7370,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "github/github-mcp-server",
           "description": "(👨‍💻 150 · 🔀 4.7K · 📥 730K · 📋 1K - 17% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 942771284,
             "language": "Go",
-            "last_commit": "2026-08-24T14:26:46Z",
+            "last_commit": "2026-08-25T02:59:57Z",
             "owner": "github",
             "repo": "github-mcp-server",
-            "stars": 32466
+            "stars": 32479
           }
         }
       ],
@@ -7391,7 +7391,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Tiberriver256/mcp-server-azure-devops",
           "description": "(👨‍💻 14 · 🔀 130 · 📋 75 - 25% open · ⏱️ 23.06.2026)",
           "children": [],
           "repo_info": {
@@ -7401,7 +7401,7 @@
             "last_commit": "2026-07-07T13:58:26Z",
             "owner": "Tiberriver256",
             "repo": "mcp-server-azure-devops",
-            "stars": 382
+            "stars": 383
           }
         }
       ],
@@ -7412,7 +7412,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "kopfrechner/gitlab-mr-mcp",
           "description": "(👨‍💻 10 · 🔀 31 · 📋 8 - 37% open · ⏱️ 27.07.2026)",
           "children": [],
           "repo_info": {
@@ -7433,17 +7433,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "taylorwilsdon/google_workspace_mcp",
           "description": "(👨‍💻 160 · 🔀 930 · 📥 7.4K · 📋 370 - 22% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 973788136,
             "language": "Python",
-            "last_commit": "2026-08-18T14:08:55Z",
+            "last_commit": "2026-08-25T04:22:50Z",
             "owner": "taylorwilsdon",
             "repo": "google_workspace_mcp",
-            "stars": 3058
+            "stars": 3060
           }
         }
       ],
@@ -7454,7 +7454,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "vasylenko/bear-notes-mcp",
           "description": "(👨‍💻 5 · 🔀 21 · 📥 1.5K · 📋 40 - 2% open · ⏱️ 28.06.2026)",
           "children": [],
           "repo_info": {
@@ -7475,7 +7475,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "takumi0706/google-calendar-mcp",
           "description": "(👨‍💻 3 · 🔀 10 · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -7517,17 +7517,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PrefectHQ/fastmcp",
           "description": "(👨‍💻 290 · 🔀 2.2K · 📦 20K · 📋 1.8K - 13% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 896296825,
             "language": "Python",
-            "last_commit": "2026-08-22T20:10:01Z",
+            "last_commit": "2026-08-25T03:15:38Z",
             "owner": "PrefectHQ",
             "repo": "fastmcp",
-            "stars": 27357
+            "stars": 27367
           }
         }
       ],
@@ -7538,17 +7538,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "screenpipe/screenpipe",
           "description": "(👨‍💻 160 · 🔀 2.1K · 📥 590 · 📦 7 · 📋 2.2K - 1% open · ⏱️ 19.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 817326197,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:34:51Z",
+            "last_commit": "2026-08-25T02:14:18Z",
             "owner": "screenpipe",
             "repo": "screenpipe",
-            "stars": 21202
+            "stars": 21208
           }
         }
       ],
@@ -7559,7 +7559,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "modelcontextprotocol/servers",
           "description": "(👨‍💻 1K · 🔀 11K · 📋 1.2K - 20% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
@@ -7569,7 +7569,7 @@
             "last_commit": "2026-08-20T01:12:36Z",
             "owner": "modelcontextprotocol",
             "repo": "servers",
-            "stars": 89830
+            "stars": 89834
           }
         }
       ],
@@ -7580,17 +7580,17 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "apify/apify-mcp-server",
           "description": "(👨‍💻 41 · 🔀 230 · 📥 9.6K · 📦 11 · 📋 500 - 24% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 911256711,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T14:06:54Z",
+            "last_commit": "2026-08-24T20:36:12Z",
             "owner": "apify",
             "repo": "apify-mcp-server",
-            "stars": 4777
+            "stars": 4834
           }
         }
       ],
@@ -7601,7 +7601,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "punkpeye/fastmcp",
           "description": "(👨‍💻 86 · 🔀 290 · 📦 2.5K · 📋 140 - 12% open · ⏱️ 19.08.2026)",
           "children": [],
           "repo_info": {
@@ -7611,7 +7611,7 @@
             "last_commit": "2026-08-21T04:40:50Z",
             "owner": "punkpeye",
             "repo": "fastmcp",
-            "stars": 3253
+            "stars": 3254
           }
         }
       ],
@@ -7622,14 +7622,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wanaku-ai/wanaku",
           "description": "(👨‍💻 27 · 🔀 49 · 📥 2.3K · 📋 590 - 4% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 925674818,
             "language": "Rust",
-            "last_commit": "2026-08-24T09:18:31Z",
+            "last_commit": "2026-08-24T18:07:21Z",
             "owner": "wanaku-ai",
             "repo": "wanaku",
             "stars": 133
@@ -7643,7 +7643,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "IBM/mcp-cli",
           "description": "(👨‍💻 22 · 🔀 310 · 📋 89 - 20% open · ⏱️ 30.07.2026)",
           "children": [],
           "repo_info": {
@@ -7664,7 +7664,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Azure/azure-mcp",
           "description": "(👨‍💻 70 · 🔀 350 · 📥 13K · 📋 410 - 0% open · ⏱️ 21.01.2026)",
           "children": [],
           "repo_info": {
@@ -7685,7 +7685,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Klavis-AI/klavis",
           "description": "(👨‍💻 40 · 🔀 550 · 📋 55 - 49% open · ⏱️ 01.06.2026)",
           "children": [],
           "repo_info": {
@@ -7706,7 +7706,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "suekou/mcp-notion-server",
           "description": "(👨‍💻 12 · 🔀 170 · 📦 10 · 📋 33 - 12% open · ⏱️ 12.07.2026)",
           "children": [],
           "repo_info": {
@@ -7727,7 +7727,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ivnvxd/mcp-server-odoo",
           "description": "(👨‍💻 5 · 🔀 170 · 📦 1 · 📋 29 - 13% open · ⏱️ 12.06.2026)",
           "children": [],
           "repo_info": {
@@ -7737,7 +7737,7 @@
             "last_commit": "2026-08-23T08:23:11Z",
             "owner": "ivnvxd",
             "repo": "mcp-server-odoo",
-            "stars": 373
+            "stars": 375
           }
         }
       ],
@@ -7748,14 +7748,14 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "metorial/metorial",
           "description": "(👨‍💻 8 · 🔀 360 · 📋 13 - 15% open · ⏱️ 18.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
             "id": 965998145,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T10:21:38Z",
+            "last_commit": "2026-08-24T17:32:08Z",
             "owner": "metorial",
             "repo": "metorial",
             "stars": 3349
@@ -7769,7 +7769,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "caol64/wenyan-mcp",
           "description": "(👨‍💻 6 · 🔀 140 · 📋 47 - 10% open · ⏱️ 29.04.2026)",
           "children": [],
           "repo_info": {
@@ -7790,7 +7790,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "PV-Bhat/vibe-check-mcp-server",
           "description": "(👨‍💻 11 · 🔀 67 · ⏱️ 25.07.2026)",
           "children": [],
           "repo_info": {
@@ -7811,7 +7811,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tacticlaunch/mcp-linear",
           "description": "(👨‍💻 11 · 🔀 35 · ⏱️ 28.07.2026)",
           "children": [],
           "repo_info": {
@@ -7832,7 +7832,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "MarkusPfundstein/mcp-obsidian",
           "description": "(👨‍💻 18 · 🔀 480 · 📦 1 · 📋 79 - 83% open · ⏱️ 15.05.2026)",
           "children": [],
           "repo_info": {
@@ -7842,7 +7842,7 @@
             "last_commit": "2026-08-20T12:52:03Z",
             "owner": "MarkusPfundstein",
             "repo": "mcp-obsidian",
-            "stars": 4333
+            "stars": 4334
           }
         }
       ],
@@ -7853,7 +7853,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "wong2/mcp-cli",
           "description": "(👨‍💻 6 · 🔀 41 · 📦 100 · 📋 16 - 37% open · ⏱️ 08.06.2026)",
           "children": [],
           "repo_info": {
@@ -7874,7 +7874,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "marcelmarais/spotify-mcp-server",
           "description": "(👨‍💻 21 · 🔀 140 · 📋 13 - 46% open · ⏱️ 31.07.2026)",
           "children": [],
           "repo_info": {
@@ -7895,7 +7895,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ttommyth/interactive-mcp",
           "description": "(👨‍💻 5 · 🔀 29 · 📋 17 - 41% open · ⏱️ 09.09.2025)",
           "children": [],
           "repo_info": {
@@ -7916,7 +7916,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "awkoy/replicate-flux-mcp",
           "description": "(👨‍💻 7 · 🔀 18 · 📦 3 · ⏱️ 14.06.2026)",
           "children": [],
           "repo_info": {
@@ -7937,7 +7937,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "thingsboard/thingsboard-mcp",
           "description": "(👨‍💻 5 · 🔀 26 · 📥 230 · 📋 21 - 9% open · ⏱️ 26.02.2026)",
           "children": [],
           "repo_info": {
@@ -7958,7 +7958,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "tevonsb/homeassistant-mcp",
           "description": "(👨‍💻 3 · 🔀 54 · 📋 17 - 82% open · ⏱️ 25.01.2026)",
           "children": [],
           "repo_info": {
@@ -7979,7 +7979,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "roychri/mcp-server-asana",
           "description": "(👨‍💻 12 · 🔀 64 · 📋 26 - 19% open · ⏱️ 23.04.2026)",
           "children": [],
           "repo_info": {
@@ -8000,7 +8000,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "mrjoshuak/godoc-mcp",
           "description": "(🔀 18 · ⏱️ 06.03.2026)",
           "children": [],
           "repo_info": {
@@ -8021,7 +8021,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "ivo-toby/contentful-mcp",
           "description": "(👨‍💻 6 · 🔀 15 · 📋 19 - 47% open · ⏱️ 17.01.2026)",
           "children": [],
           "repo_info": {
@@ -8042,7 +8042,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Seym0n/tiktok-mcp",
           "description": "(👨‍💻 2 · 🔀 27 · 📥 200 · ⏱️ 27.02.2026)",
           "children": [],
           "repo_info": {
@@ -8052,7 +8052,7 @@
             "last_commit": "2026-08-19T22:28:27Z",
             "owner": "Seym0n",
             "repo": "tiktok-mcp",
-            "stars": 193
+            "stars": 192
           }
         }
       ],
@@ -8063,7 +8063,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "apinetwork/piapi-mcp-server",
           "description": "(👨‍💻 7 · 🔀 23 · ⏱️ 10.08.2026)",
           "children": [],
           "repo_info": {
@@ -8084,7 +8084,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "integromat/make-mcp-server",
           "description": "(👨‍💻 5 · 🔀 42 · 📋 3 - 33% open · ⏱️ 10.06.2026)",
           "children": [],
           "repo_info": {
@@ -8105,7 +8105,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "githejie/mcp-server-calculator",
           "description": "(🔀 28 · 📋 4 - 75% open · ⏱️ 08.08.2026)",
           "children": [],
           "repo_info": {
@@ -8126,7 +8126,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "AbdelStark/bitcoin-mcp",
           "description": "(👨‍💻 5 · 🔀 23 · ⏱️ 01.08.2025)",
           "children": [],
           "repo_info": {
@@ -8147,7 +8147,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "johannesbrandenburger/typst-mcp",
           "description": "(👨‍💻 5 · 🔀 18 · 📋 3 - 66% open · ⏱️ 18.04.2026)",
           "children": [],
           "repo_info": {
@@ -8168,7 +8168,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "SecretiveShell/MCP-wolfram-alpha",
           "description": "(👨‍💻 4 · 🔀 20 · 📋 3 - 33% open · ⏱️ 18.08.2025)",
           "children": [],
           "repo_info": {
@@ -8189,7 +8189,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "GitHub",
+          "title": "Rai220/think-mcp",
           "description": "(👨‍💻 2 · 🔀 13 · ⏱️ 07.03.2026)",
           "children": [],
           "repo_info": {
@@ -8301,7 +8301,7 @@
             "last_commit": "2026-08-17T21:28:42Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-servers",
-            "stars": 92740
+            "stars": 92764
           }
         },
         {
@@ -8316,7 +8316,7 @@
             "last_commit": "2026-06-07T18:57:48Z",
             "owner": "punkpeye",
             "repo": "awesome-mcp-clients",
-            "stars": 6553
+            "stars": 6554
           }
         }
       ],
@@ -8360,7 +8360,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:41:51.100Z",
+    "last_updated": "2026-08-25T06:29:13.822Z",
     "original_repository": "tolkonepiu/best-of-mcp-servers",
     "original_repository_id": 1030543732,
     "original_repository_sha": "cb963ae1b12d493a817dd809f34794a385b3601e",

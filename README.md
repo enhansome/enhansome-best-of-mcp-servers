@@ -22,7 +22,7 @@
     <a href="https://github.com/tolkonepiu/best-of-mcp-servers/releases" title="Best-of Updates"><img src="https://img.shields.io/github/release-date/tolkonepiu/best-of-mcp-servers?color=green&label=updated"></a>
 </p>
 
-This curated list contains 400 awesome MCP (Model Context Protocol) servers with a total of 1.3M stars grouped into 34 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/tolkonepiu/best-of-mcp-servers/issues/new/choose) ⭐ 141 | 🐛 24 | 📅 2026-08-26, submit a [pull request](https://github.com/tolkonepiu/best-of-mcp-servers/pulls) ⭐ 141 | 🐛 24 | 📅 2026-08-26, or directly edit the [projects.yaml](https://github.com/tolkonepiu/best-of-mcp-servers/edit/main/projects.yaml) ⭐ 141 | 🐛 24 | 📅 2026-08-26. Contributions are very welcome!
+This curated list contains 400 awesome MCP (Model Context Protocol) servers with a total of 1.3M stars grouped into 34 categories. All projects are ranked by a project-quality score, which is calculated based on various metrics automatically collected from GitHub and different package managers. If you like to add or update projects, feel free to open an [issue](https://github.com/tolkonepiu/best-of-mcp-servers/issues/new/choose) ⭐ 141 | 🐛 26 | 📅 2026-08-26, submit a [pull request](https://github.com/tolkonepiu/best-of-mcp-servers/pulls) ⭐ 141 | 🐛 26 | 📅 2026-08-26, or directly edit the [projects.yaml](https://github.com/tolkonepiu/best-of-mcp-servers/edit/main/projects.yaml) ⭐ 141 | 🐛 26 | 📅 2026-08-26. Contributions are very welcome!
 
 > 🧙‍♂️  Discover other [best-of lists](https://best-of.org) or [create your own](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20.
 
@@ -95,12 +95,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/PipedreamHQ/pipedream">PipedreamHQ/pipedream</a></b> (🥇29 ·  ⭐ 12K) - Connect with 2,500 APIs with 8,000+ prebuilt tools, and manage servers for your users, in your own app. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/PipedreamHQ/pipedream) ⭐ 11,651 | 🐛 4,363 | 🌐 JavaScript | 📅 2026-08-27 (👨‍💻 330 · 🔀 5.7K · 📦 14 · 📋 14K - 31% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/PipedreamHQ/pipedream) ⭐ 11,651 | 🐛 4,358 | 🌐 JavaScript | 📅 2026-08-27 (👨‍💻 330 · 🔀 5.7K · 📦 14 · 📋 14K - 31% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/juspay/neurolink">juspay/neurolink</a></b> (🥈23 ·  ⭐ 120) - Making enterprise AI infrastructure universally accessible. Edge-first platform unifying 12 providers and 100+ models.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/juspay/neurolink) ⭐ 125 | 🐛 77 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 74 · 🔀 120 · 📦 20 · 📋 390 - 13% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/juspay/neurolink) ⭐ 125 | 🐛 78 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 74 · 🔀 120 · 📦 20 · 📋 390 - 13% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/julien040/anyquery">julien040/anyquery</a></b> (🥈22 ·  ⭐ 1.8K) - Query more than 40 apps with one binary using SQL. It can also connect to your PostgreSQL, MySQL, or SQLite compatible.. <code>❗Unlicensed</code></summary>
@@ -110,7 +110,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/metatool-ai/metamcp">metatool-ai/metamcp</a></b> (🥈20 ·  ⭐ 2.6K) - MetaMCP is the one unified middleware MCP server that manages your MCP connections with GUI. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/metatool-ai/metamcp) ⭐ 2,629 | 🐛 105 | 🌐 TypeScript | 📅 2026-06-22 (👨‍💻 34 · 🔀 410 · 📋 200 - 46% open · ⏱️ 22.06.2026)
+* [GitHub](https://github.com/metatool-ai/metamcp) ⭐ 2,630 | 🐛 105 | 🌐 TypeScript | 📅 2026-06-22 (👨‍💻 34 · 🔀 410 · 📋 200 - 46% open · ⏱️ 22.06.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/mcpjungle/MCPJungle">mcpjungle/MCPJungle</a></b> (🥈20 ·  ⭐ 1.2K) - Self-hosted MCP Server registry for enterprise AI Agents. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
@@ -120,7 +120,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/1mcp-app/agent">1mcp-app/agent</a></b> (🥉19 ·  ⭐ 490) - A unified Model Context Protocol server implementation that aggregates multiple MCP servers into one. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/1mcp-app/agent) ⭐ 492 | 🐛 30 | 🌐 TypeScript | 📅 2026-08-26 (👨‍💻 14 · 🔀 59 · 📥 3.2K · 📦 1 · 📋 100 - 29% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/1mcp-app/agent) ⭐ 492 | 🐛 29 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 14 · 🔀 59 · 📥 3.2K · 📦 1 · 📋 100 - 29% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/TheLunarCompany/lunar">TheLunarCompany/lunar</a></b> (🥉18 ·  ⭐ 480) - MCPX is a production-ready, open-source gateway to manage MCP servers at scalecentralize tool discovery, access.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -160,7 +160,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary>Show 1 hidden projects...</summary>
 
-* <b>[SureScaleAI/openai-gpt-image-mcp](https://github.com/SureScaleAI/openai-gpt-image-mcp) ⭐ 109 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-31</b> (🥉4 ·  ⭐ 110 · 💀) - OpenAI GPT image generation/editing MCP server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[SureScaleAI/openai-gpt-image-mcp](https://github.com/SureScaleAI/openai-gpt-image-mcp) ⭐ 110 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-31</b> (🥉4 ·  ⭐ 110 · 💀) - OpenAI GPT image generation/editing MCP server. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
 <br>
@@ -173,17 +173,17 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/samuelgursky/davinci-resolve-mcp">samuelgursky/davinci-resolve-mcp</a></b> (🥇23 ·  ⭐ 2.3K) - MCP server integration for DaVinci Resolve providing powerful tools for video editing, color grading, media.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/samuelgursky/davinci-resolve-mcp) ⭐ 2,305 | 🐛 3 | 🌐 Python | 📅 2026-08-25 (👨‍💻 30 · 🔀 250 · 📋 74 - 2% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/samuelgursky/davinci-resolve-mcp) ⭐ 2,308 | 🐛 3 | 🌐 Python | 📅 2026-08-25 (👨‍💻 30 · 🔀 250 · 📋 74 - 2% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/ahujasid/blender-mcp">ahujasid/blender-mcp</a></b> (🥈22 ·  ⭐ 26K) - MCP server for working with Blender. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ahujasid/blender-mcp) ⭐ 26,372 | 🐛 18 | 🌐 Python | 📅 2026-08-26 (👨‍💻 34 · 🔀 2.5K · 📋 160 - 4% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/ahujasid/blender-mcp) ⭐ 26,381 | 🐛 19 | 🌐 Python | 📅 2026-08-26 (👨‍💻 34 · 🔀 2.5K · 📋 160 - 4% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/jau123/MeiGen-AI-Design-MCP">jau123/MeiGen-AI-Design-MCP</a></b> (🥈17 ·  ⭐ 1.7K · 🐣) - AI image generation & editing MCP server with 1,500+ curated prompt library, smart prompt enhancement, and multi-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/jau123/MeiGen-AI-Design-MCP) ⭐ 1,720 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-05 (🔀 220 · 📋 8 - 37% open · ⏱️ 05.08.2026)
+* [GitHub](https://github.com/jau123/MeiGen-AI-Design-MCP) ⭐ 1,721 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-05 (🔀 220 · 📋 8 - 37% open · ⏱️ 05.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/cswkim/discogs-mcp-server">cswkim/discogs-mcp-server</a></b> (🥈14 ·  ⭐ 120) - MCP server to interact with the Discogs API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -198,7 +198,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/diivi/aseprite-mcp">diivi/aseprite-mcp</a></b> (🥉11 ·  ⭐ 450) - MCP server using the Aseprite API to create pixel art. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/diivi/aseprite-mcp) ⭐ 458 | 🐛 1 | 🌐 Python | 📅 2026-07-29 (👨‍💻 9 · 🔀 44 · 📋 8 - 12% open · ⏱️ 29.07.2026)
+* [GitHub](https://github.com/diivi/aseprite-mcp) ⭐ 461 | 🐛 1 | 🌐 Python | 📅 2026-07-29 (👨‍💻 9 · 🔀 44 · 📋 8 - 12% open · ⏱️ 29.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/cantian-ai/bazi-mcp">cantian-ai/bazi-mcp</a></b> (🥉10 ·  ⭐ 420 · 💤) - Provides comprehensive and accurate Bazi (Chinese Astrology) charting and analysis. <code><a href="http://bit.ly/3hkKRql">ISC</a></code></summary>
@@ -227,22 +227,22 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/bytedance/UI-TARS-desktop">bytedance/UI-TARS-desktop</a></b> (🥇30 ·  ⭐ 39K) - Browser automation capabilities using Puppeteer, both support local and remote browser connection. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/bytedance/UI-TARS-desktop) ⭐ 38,723 | 🐛 425 | 🌐 TypeScript | 📅 2026-08-05 (👨‍💻 49 · 🔀 3.9K · 📥 370K · 📦 70 · 📋 540 - 59% open · ⏱️ 01.07.2026)
+* [GitHub](https://github.com/bytedance/UI-TARS-desktop) ⭐ 38,728 | 🐛 425 | 🌐 TypeScript | 📅 2026-08-05 (👨‍💻 49 · 🔀 3.9K · 📥 370K · 📦 70 · 📋 540 - 59% open · ⏱️ 01.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Skyvern-AI/skyvern">Skyvern-AI/skyvern</a></b> (🥇30 ·  ⭐ 23K) - Automates browser-based workflows using LLMs and computer vision navigate pages, fill forms, extract data, handle.. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/Skyvern-AI/skyvern) ⭐ 22,858 | 🐛 220 | 🌐 Python | 📅 2026-08-27 (👨‍💻 95 · 🔀 2.1K · 📦 49 · 📋 390 - 9% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/Skyvern-AI/skyvern) ⭐ 22,865 | 🐛 220 | 🌐 Python | 📅 2026-08-27 (👨‍💻 95 · 🔀 2.1K · 📦 49 · 📋 390 - 9% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/microsoft/playwright-mcp">microsoft/playwright-mcp</a></b> (🥈27 ·  ⭐ 36K) - Official Microsoft Playwright MCP server, enabling LLMs to interact with web pages through structured accessibility.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/playwright-mcp) ⭐ 36,521 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 71 · 🔀 3K · 📥 82K · 📋 880 - 0% open · ⏱️ 19.08.2026)
+* [GitHub](https://github.com/microsoft/playwright-mcp) ⭐ 36,542 | 🐛 4 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 71 · 🔀 3K · 📥 82K · 📋 880 - 0% open · ⏱️ 19.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/eat-pray-ai/yutu">eat-pray-ai/yutu</a></b> (🥈19 ·  ⭐ 620) - A fully functional MCP server and CLI for YouTube to automate YouTube operation. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/eat-pray-ai/yutu) ⭐ 622 | 🐛 3 | 🌐 Go | 📅 2026-08-23 (👨‍💻 6 · 🔀 69 · 📥 13K · 📋 17 - 17% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/eat-pray-ai/yutu) ⭐ 622 | 🐛 3 | 🌐 Go | 📅 2026-08-27 (👨‍💻 6 · 🔀 69 · 📥 13K · 📋 17 - 17% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/browserbase/mcp-server-browserbase">browserbase/mcp-server-browserbase</a></b> (🥈18 ·  ⭐ 3.4K) - Automate browser interactions in the cloud (e.g. web navigation, data extraction, form filling, and more). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -297,17 +297,17 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/genomoncology/biomcp">genomoncology/biomcp</a></b> (🥇23 ·  ⭐ 610) - Biomedical research MCP server providing access to PubMed, ClinicalTrials.gov, and MyVariant.info. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/genomoncology/biomcp) ⭐ 610 | 🐛 2 | 🌐 Rust | 📅 2026-08-27 (👨‍💻 10 · 🔀 110 · 📥 12K · 📋 44 - 4% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/genomoncology/biomcp) ⭐ 611 | 🐛 2 | 🌐 Rust | 📅 2026-08-27 (👨‍💻 10 · 🔀 110 · 📥 12K · 📋 44 - 4% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/the-momentum/apple-health-mcp-server">the-momentum/apple-health-mcp-server</a></b> (🥉11 ·  ⭐ 260) - An MCP server that provides access to exported data from Apple Health. Data analytics included. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/the-momentum/apple-health-mcp-server) ⭐ 257 | 🐛 7 | 🌐 Python | 📅 2026-07-09 (👨‍💻 5 · 🔀 23 · 📋 16 - 37% open · ⏱️ 09.07.2026)
+* [GitHub](https://github.com/the-momentum/apple-health-mcp-server) ⭐ 258 | 🐛 7 | 🌐 Python | 📅 2026-07-09 (👨‍💻 5 · 🔀 23 · 📋 16 - 37% open · ⏱️ 09.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/wso2/fhir-mcp-server">wso2/fhir-mcp-server</a></b> (🥉11 ·  ⭐ 130) - Model Context Protocol server for Fast Healthcare Interoperability Resources (FHIR) APIs. Provides seamless.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/wso2/fhir-mcp-server) ⭐ 133 | 🐛 4 | 🌐 Python | 📅 2026-07-14 (👨‍💻 10 · 🔀 49 · 📥 25 · ⏱️ 14.07.2026)
+* [GitHub](https://github.com/wso2/fhir-mcp-server) ⭐ 134 | 🐛 4 | 🌐 Python | 📅 2026-07-14 (👨‍💻 10 · 🔀 49 · 📥 25 · ⏱️ 14.07.2026)
 
 </details>
 <br>
@@ -320,12 +320,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/awslabs/mcp">awslabs/mcp</a></b> (🥇28 ·  ⭐ 9.6K) - AWS MCP servers for seamless integration with AWS services and resources. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/awslabs/mcp) ⭐ 9,642 | 🐛 263 | 🌐 Python | 📅 2026-08-27 (👨‍💻 320 · 🔀 1.7K · 📦 4 · 📋 680 - 26% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/awslabs/mcp) ⭐ 9,640 | 🐛 263 | 🌐 Python | 📅 2026-08-27 (👨‍💻 320 · 🔀 1.7K · 📦 4 · 📋 680 - 26% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/kubestellar/console">kubestellar/console</a></b> (🥇27 ·  ⭐ 130) - Multi-cluster Kubernetes dashboard with built-in MCP server (kc-agent) for AI-assisted operations, real-time.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/kubestellar/console) ⭐ 128 | 🐛 50 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 91 · 🔀 130 · 📥 2.4K · 📋 11K - 0% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/kubestellar/console) ⭐ 129 | 🐛 51 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 91 · 🔀 130 · 📥 2.4K · 📋 11K - 0% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/txn2/kubefwd">txn2/kubefwd</a></b> (🥈26 ·  ⭐ 4.2K) - Kubernetes bulk port forwarding with service discovery, /etc/hosts management, traffic monitoring, and pod log.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -335,7 +335,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/containers/kubernetes-mcp-server">containers/kubernetes-mcp-server</a></b> (🥈25 ·  ⭐ 2K) - powerful Kubernetes MCP server with additional support for OpenShift. Besides providing CRUD operations for **any**.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/containers/kubernetes-mcp-server) ⭐ 2,031 | 🐛 92 | 🌐 Go | 📅 2026-08-27 (👨‍💻 73 · 🔀 360 · 📥 87K · 📦 2 · 📋 240 - 21% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/containers/kubernetes-mcp-server) ⭐ 2,032 | 🐛 92 | 🌐 Go | 📅 2026-08-27 (👨‍💻 73 · 🔀 360 · 📥 87K · 📦 2 · 📋 240 - 21% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Flux159/mcp-server-kubernetes">Flux159/mcp-server-kubernetes</a></b> (🥈24 ·  ⭐ 1.6K) - Typescript implementation of Kubernetes cluster operations for pods, deployments, services. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -345,7 +345,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/cloudflare/mcp-server-cloudflare">cloudflare/mcp-server-cloudflare</a></b> (🥈22 ·  ⭐ 4.1K) - Integration with Cloudflare services including Workers, KV, R2, and D1. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cloudflare/mcp-server-cloudflare) ⭐ 4,120 | 🐛 55 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 42 · 🔀 480 · 📦 14 · 📋 140 - 19% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/cloudflare/mcp-server-cloudflare) ⭐ 4,121 | 🐛 56 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 42 · 🔀 480 · 📦 14 · 📋 140 - 19% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/TencentCloudBase/CloudBase-AI-Toolkit">TencentCloudBase/CloudBase-AI-ToolKit</a></b> (🥈22 ·  ⭐ 1.1K) - One-stop backend services for WeChat Mini-Programs and full-stack apps. Provides specialized MCP tools for serverless.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -355,7 +355,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/hashicorp/terraform-mcp-server">hashicorp/terraform-mcp-server</a></b> (🥈21 ·  ⭐ 1.5K) - The official Terraform MCP Server seamlessly integrates with the Terraform ecosystem, enabling provider discovery,.. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
 
-* [GitHub](https://github.com/hashicorp/terraform-mcp-server) ⭐ 1,513 | 🐛 49 | 🌐 Go | 📅 2026-08-26 (👨‍💻 32 · 🔀 190 · 📦 1 · 📋 78 - 15% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/hashicorp/terraform-mcp-server) ⭐ 1,513 | 🐛 49 | 🌐 Go | 📅 2026-08-27 (👨‍💻 32 · 🔀 190 · 📦 1 · 📋 78 - 15% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/weibaohui/k8m">weibaohui/k8m</a></b> (🥈21 ·  ⭐ 870) - Provides MCP multi-cluster Kubernetes management and operations, featuring a management interface, logging, and nearly.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -380,7 +380,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/nwiizo/tfmcp">nwiizo/tfmcp</a></b> (🥉15 ·  ⭐ 370) - A Terraform MCP server allowing AI assistants to manage and operate Terraform environments, enabling reading.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nwiizo/tfmcp) ⭐ 371 | 🐛 1 | 🌐 Rust | 📅 2026-08-20 (👨‍💻 3 · 🔀 30 · ⏱️ 13.08.2026)
+* [GitHub](https://github.com/nwiizo/tfmcp) ⭐ 371 | 🐛 3 | 🌐 Rust | 📅 2026-08-27 (👨‍💻 3 · 🔀 30 · ⏱️ 13.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/weibaohui/kom">weibaohui/kom</a></b> (🥉15 ·  ⭐ 150) - Provides MCP multi-cluster Kubernetes management and operations. It can be integrated as an SDK into your own project.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -428,7 +428,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/pydantic/pydantic-ai">pydantic/pydantic-ai</a></b> (🥇35 ·  ⭐ 19K) - Run Python code in a secure sandbox via MCP tool calls. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/pydantic/pydantic-ai) ⭐ 19,528 | 🐛 744 | 🌐 Python | 📅 2026-08-27 (👨‍💻 560 · 🔀 2.6K · 📦 5.4K · 📋 3K - 17% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/pydantic/pydantic-ai) ⭐ 19,537 | 🐛 748 | 🌐 Python | 📅 2026-08-27 (👨‍💻 560 · 🔀 2.6K · 📦 5.4K · 📋 3K - 17% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/dagger/container-use">dagger/container-use</a></b> (🥈21 ·  ⭐ 4K) - Containerized environments for coding agents. Multiple agents can work independently, isolated in fresh containers and.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -461,12 +461,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/oraios/serena">oraios/serena</a></b> (🥇29 ·  ⭐ 28K) - A fully-featured coding agent that relies on symbolic code operations by using language servers. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/oraios/serena) ⭐ 28,533 | 🐛 152 | 🌐 Python | 📅 2026-08-20 (👨‍💻 220 · 🔀 1.9K · 📥 1.7K · 📋 840 - 8% open · ⏱️ 20.08.2026)
+* [GitHub](https://github.com/oraios/serena) ⭐ 28,542 | 🐛 153 | 🌐 Python | 📅 2026-08-20 (👨‍💻 220 · 🔀 1.9K · 📥 1.7K · 📋 840 - 8% open · ⏱️ 20.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/CodeGraphContext/CodeGraphContext">CodeGraphContext/CodeGraphContext</a></b> (🥇29 ·  ⭐ 4.1K) - An MCP server that indexes local code into a graph database to provide context to AI assistants with a graphical code.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/CodeGraphContext/CodeGraphContext) ⭐ 4,130 | 🐛 100 | 🌐 Python | 📅 2026-08-26 (👨‍💻 220 · 🔀 820 · 📥 1.7K · 📦 8 · 📋 800 - 12% open · ⏱️ 19.08.2026)
+* [GitHub](https://github.com/CodeGraphContext/CodeGraphContext) ⭐ 4,132 | 🐛 102 | 🌐 Python | 📅 2026-08-26 (👨‍💻 220 · 🔀 820 · 📥 1.7K · 📦 8 · 📋 800 - 12% open · ⏱️ 19.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/cocoindex-io/cocoindex-code">cocoindex-io/cocoindex-code</a></b> (🥈23 ·  ⭐ 2.7K · 🐣) - AST/tree-sitter code search MCP server that indexes a codebase and returns compact, relevant snippets to reduce.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -481,7 +481,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/stippi/code-assistant">stippi/code-assistant</a></b> (🥈20 ·  ⭐ 180) - Coding agent with basic list, read, replace_in_file, write, execute_command and web search tools. Supports multiple.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/stippi/code-assistant) ⭐ 179 | 🐛 5 | 🌐 Rust | 📅 2026-08-26 (👨‍💻 14 · 🔀 32 · 📥 740 · 📋 15 - 20% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/stippi/code-assistant) ⭐ 179 | 🐛 4 | 🌐 Rust | 📅 2026-08-27 (👨‍💻 14 · 🔀 32 · 📥 740 · 📋 15 - 20% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nesquikm/mcp-rubber-duck">nesquikm/mcp-rubber-duck</a></b> (🥉18 ·  ⭐ 180) - An MCP server that bridges to multiple OpenAI-compatible LLMs - your AI rubber duck debugging panel for explaining.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -496,7 +496,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/rinadelph/Agent-MCP">rinadelph/Agent-MCP</a></b> (🥉13 ·  ⭐ 1.3K · 💤) - A framework for creating multi-agent systems using MCP for coordinated AI collaboration, featuring task management,.. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/rinadelph/Agent-MCP) ⭐ 1,276 | 🐛 21 | 🌐 TypeScript | 📅 2026-03-28 (👨‍💻 7 · 🔀 170 · 📋 35 - 48% open · ⏱️ 09.10.2025)
+* [GitHub](https://github.com/rinadelph/Agent-MCP) ⭐ 1,276 | 🐛 20 | 🌐 TypeScript | 📅 2026-03-28 (👨‍💻 7 · 🔀 170 · 📋 35 - 48% open · ⏱️ 09.10.2025)
 
 </details>
 <details><summary><b><a href="https://github.com/jinzcdev/leetcode-mcp-server">jinzcdev/leetcode-mcp-server</a></b> (🥉13 ·  ⭐ 140) - MCP server enabling automated access to LeetCodes programming problems, solutions, submissions and public data with.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -539,12 +539,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/wonderwhy-er/DesktopCommanderMCP">wonderwhy-er/DesktopCommanderMCP</a></b> (🥈24 ·  ⭐ 9.4K) - A swiss-army-knife that can manage/execute programs and read/write/search/edit code and text files. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,412 | 🐛 227 | 🌐 TypeScript | 📅 2026-08-26 (👨‍💻 35 · 🔀 1.1K · 📋 260 - 57% open · ⏱️ 04.08.2026)
+* [GitHub](https://github.com/wonderwhy-er/DesktopCommanderMCP) ⭐ 9,416 | 🐛 228 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 35 · 🔀 1.1K · 📋 260 - 57% open · ⏱️ 04.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/tufantunc/ssh-mcp">tufantunc/ssh-mcp</a></b> (🥈17 ·  ⭐ 660) - MCP server exposing SSH control for Linux and Windows servers via Model Context Protocol. Securely execute remote.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tufantunc/ssh-mcp) ⭐ 658 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-26 (👨‍💻 6 · 🔀 98 · 📦 2 · 📋 27 - 3% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/tufantunc/ssh-mcp) ⭐ 659 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-26 (👨‍💻 6 · 🔀 98 · 📦 2 · 📋 27 - 3% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/tumf/mcp-shell-server">tumf/mcp-shell-server</a></b> (🥉16 ·  ⭐ 190) - A secure shell command execution server implementing the Model Context Protocol (MCP). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -577,7 +577,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/elie222/inbox-zero">elie222/inbox-zero</a></b> (🥇26 ·  ⭐ 12K) - An MCP server for Inbox Zero. Adds functionality on top of Gmail like finding out which emails you need to reply to or.. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/elie222/inbox-zero) ⭐ 12,094 | 🐛 176 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 77 · 🔀 1.5K · 📥 660 · 📋 250 - 35% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/elie222/inbox-zero) ⭐ 12,098 | 🐛 179 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 77 · 🔀 1.5K · 📥 660 · 📋 250 - 35% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/korotovsky/slack-mcp-server">korotovsky/slack-mcp-server</a></b> (🥇23 ·  ⭐ 1.8K) - The most powerful MCP server for Slack Workspaces. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -587,7 +587,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/chigwell/telegram-mcp">chigwell/telegram-mcp</a></b> (🥈21 ·  ⭐ 1.5K) - Telegram API integration for accessing user data, managing dialogs (chats, channels, groups), retrieving messages,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/chigwell/telegram-mcp) ⭐ 1,515 | 🐛 37 | 🌐 Python | 📅 2026-08-23 (👨‍💻 59 · 🔀 390 · 📋 43 - 37% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/chigwell/telegram-mcp) ⭐ 1,516 | 🐛 37 | 🌐 Python | 📅 2026-08-23 (👨‍💻 59 · 🔀 390 · 📋 43 - 37% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Softeria/ms-365-mcp-server">Softeria/ms-365-mcp-server</a></b> (🥈21 ·  ⭐ 930) - MCP server that connects to Microsoft Office and the whole Microsoft 365 suite using Graph API (including Outlook,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -597,7 +597,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/line/line-bot-mcp-server">line/line-bot-mcp-server</a></b> (🥈18 ·  ⭐ 770) - MCP Server for Integrating LINE Official Account. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/line/line-bot-mcp-server) ⭐ 770 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-26 (👨‍💻 15 · 🔀 150 · 📋 57 - 10% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/line/line-bot-mcp-server) ⭐ 771 | 🐛 10 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 15 · 🔀 150 · 📋 57 - 10% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/InditexTech/mcp-teams-server">InditexTech/mcp-teams-server</a></b> (🥈17 ·  ⭐ 390 · 📈) - MCP server that integrates Microsoft Teams messaging (read, post, mention, list members and threads). <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -622,7 +622,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/carterlasalle/mac_messages_mcp">carterlasalle/mac_messages_mcp</a></b> (🥉12 ·  ⭐ 320) - An MCP server that securely interfaces with your iMessage database via the Model Context Protocol (MCP), allowing LLMs.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/carterlasalle/mac_messages_mcp) ⭐ 318 | 🐛 0 | 🌐 Python | 📅 2026-07-21 (👨‍💻 17 · 🔀 49 · ⏱️ 21.07.2026)
+* [GitHub](https://github.com/carterlasalle/mac_messages_mcp) ⭐ 319 | 🐛 0 | 🌐 Python | 📅 2026-07-21 (👨‍💻 17 · 🔀 49 · ⏱️ 21.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/zcaceres/gtasks-mcp">zcaceres/gtasks-mcp</a></b> (🥉7 ·  ⭐ 160) - An MCP server to Manage Google Tasks. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -642,7 +642,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-* <b>[lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) ⭐ 6,200 | 🐛 233 | 🌐 Go | 📅 2025-07-13</b> (🥉16 ·  ⭐ 6.2K · 💀) - An MCP server for searching your personal WhatsApp messages, contacts and sending messages to individuals or groups. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
+* <b>[lharries/whatsapp-mcp](https://github.com/lharries/whatsapp-mcp) ⭐ 6,200 | 🐛 231 | 🌐 Go | 📅 2025-07-13</b> (🥉16 ·  ⭐ 6.2K · 💀) - An MCP server for searching your personal WhatsApp messages, contacts and sending messages to individuals or groups. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 * <b>[areweai/tsgram-mcp](https://github.com/areweai/tsgram-mcp) ⭐ 89 | 🐛 2 | 🌐 JavaScript | 📅 2025-06-26</b> (🥉8 ·  ⭐ 89 · 💀) - TSgram: Telegram + Claude with local workspace access on your phone in typescript. Read, write, and vibe code on the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
@@ -684,12 +684,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/googleapis/mcp-toolbox">googleapis/genai-toolbox</a></b> (🥇28 ·  ⭐ 16K) - Open source MCP server specializing in easy, fast, and secure tools for Databases. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/googleapis/mcp-toolbox) ⭐ 16,261 | 🐛 242 | 🌐 Go | 📅 2026-08-27 (👨‍💻 160 · 🔀 1.7K · 📦 2 · 📋 700 - 18% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/googleapis/mcp-toolbox) ⭐ 16,266 | 🐛 245 | 🌐 Go | 📅 2026-08-27 (👨‍💻 160 · 🔀 1.7K · 📦 2 · 📋 700 - 18% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/ArcadeData/arcadedb">ArcadeData/arcadedb</a></b> (🥇28 ·  ⭐ 1.1K · 📈) - Built-in MCP server for ArcadeDB, a multi-model database (graph, document, key-value, time-series, vector) with SQL,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/ArcadeData/arcadedb) ⭐ 1,109 | 🐛 58 | 🌐 Java | 📅 2026-08-27 (👨‍💻 53 · 🔀 130 · 📥 13K · 📦 2 · 📋 2.7K - 2% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/ArcadeData/arcadedb) ⭐ 1,109 | 🐛 109 | 🌐 Java | 📅 2026-08-27 (👨‍💻 53 · 🔀 130 · 📥 13K · 📦 2 · 📋 2.7K - 2% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/planetscale/cli">planetscale/cli</a></b> (🥇26 ·  ⭐ 660) - The CLI for PlanetScale Database. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -699,7 +699,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/baserow/baserow">baserow/baserow</a></b> (🥇24 ·  ⭐ 5.7K) - Baserow database integration with table search, list, and row create, read, update, and delete capabilities. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/baserow/baserow) ⭐ 5,734 | 🐛 1,224 | 🌐 Python | 📅 2026-08-27 (👨‍💻 80 · 🔀 690 · 📋 4.6K - 25% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/baserow/baserow) ⭐ 5,737 | 🐛 1,223 | 🌐 Python | 📅 2026-08-27 (👨‍💻 80 · 🔀 690 · 📋 4.6K - 25% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/benborla/mcp-server-mysql">benborla/mcp-server-mysql</a></b> (🥈22 ·  ⭐ 2.1K) - MySQL database integration in NodeJS with configurable access controls and schema inspection. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -709,7 +709,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/supabase/mcp">supabase-community/supabase-mcp</a></b> (🥈21 ·  ⭐ 2.9K) - Official Supabase MCP server to connect AI assistants directly with your Supabase project and allows them to perform.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/supabase/mcp) ⭐ 2,873 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 24 · 🔀 390 · 📦 8 · 📋 130 - 52% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/supabase/mcp) ⭐ 2,874 | 🐛 113 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 24 · 🔀 390 · 📦 8 · 📋 130 - 52% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/domdomegg/airtable-mcp-server">domdomegg/airtable-mcp-server</a></b> (🥈21 ·  ⭐ 460) - Airtable database integration with schema inspection, read and write capabilities. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -729,7 +729,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/ClickHouse/mcp-clickhouse">ClickHouse/mcp-clickhouse</a></b> (🥈18 ·  ⭐ 860) - ClickHouse database integration with schema inspection and query capabilities. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/ClickHouse/mcp-clickhouse) ⭐ 859 | 🐛 36 | 🌐 Python | 📅 2026-08-21 (👨‍💻 24 · 🔀 180 · 📋 61 - 26% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/ClickHouse/mcp-clickhouse) ⭐ 858 | 🐛 36 | 🌐 Python | 📅 2026-08-27 (👨‍💻 24 · 🔀 180 · 📋 61 - 26% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Canner/wren-engine">Canner/wren-engine</a></b> (🥈18 ·  ⭐ 660) - The Semantic Engine for Model Context Protocol(MCP) Clients and AI Agents. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -749,7 +749,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/crystaldba/postgres-mcp">crystaldba/postgres-mcp</a></b> (🥈16 ·  ⭐ 3.2K) - All-in-one MCP server for Postgres development and operations, with tools for performance analysis, tuning, and health.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/crystaldba/postgres-mcp) ⭐ 3,229 | 🐛 85 | 🌐 Python | 📅 2026-08-17 (👨‍💻 10 · 🔀 360 · 📥 330 · 📦 10 · 📋 61 - 75% open · ⏱️ 16.08.2026)
+* [GitHub](https://github.com/crystaldba/postgres-mcp) ⭐ 3,231 | 🐛 88 | 🌐 Python | 📅 2026-08-17 (👨‍💻 10 · 🔀 360 · 📥 330 · 📦 10 · 📋 61 - 75% open · ⏱️ 16.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/kiliczsh/mcp-mongo-server">kiliczsh/mcp-mongo-server</a></b> (🥈16 ·  ⭐ 280) - A Model Context Protocol Server for MongoDB. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -764,7 +764,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/neondatabase/mcp-server-neon">neondatabase/mcp-server-neon</a></b> (🥈15 ·  ⭐ 620) - MCP server for interacting with Neon Management API and databases. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/neondatabase/mcp-server-neon) ⭐ 624 | 🐛 36 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 22 · 🔀 120 · 📋 44 - 22% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/neondatabase/mcp-server-neon) ⭐ 624 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 22 · 🔀 120 · 📋 44 - 22% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/cr7258/elasticsearch-mcp-server">cr7258/elasticsearch-mcp-server</a></b> (🥈15 ·  ⭐ 300) - MCP Server implementation that provides Elasticsearch interaction. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -885,12 +885,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/mckinsey/vizro">mckinsey/vizro</a></b> (🥇26 ·  ⭐ 3.8K) - Tools and templates to create validated and maintainable data charts and dashboards. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/mckinsey/vizro) ⭐ 3,781 | 🐛 42 | 🌐 Python | 📅 2026-08-27 (👨‍💻 46 · 🔀 290 · 📦 91 · 📋 290 - 11% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/mckinsey/vizro) ⭐ 3,781 | 🐛 43 | 🌐 Python | 📅 2026-08-27 (👨‍💻 46 · 🔀 290 · 📦 91 · 📋 290 - 11% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/datalayer/jupyter-mcp-server">datalayer/jupyter-mcp-server</a></b> (🥈21 ·  ⭐ 1.3K) - Model Context Protocol (MCP) Server for Jupyter. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/datalayer/jupyter-mcp-server) ⭐ 1,262 | 🐛 29 | 🌐 Python | 📅 2026-08-27 (👨‍💻 42 · 🔀 190 · 📋 160 - 19% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/datalayer/jupyter-mcp-server) ⭐ 1,263 | 🐛 30 | 🌐 Python | 📅 2026-08-27 (👨‍💻 42 · 🔀 190 · 📋 160 - 19% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/MigoXLab/dingo">MigoXLab/dingo</a></b> (🥈19 ·  ⭐ 750) - MCP server for the Dingo: a comprehensive data quality evaluation tool. Server Enables interaction with Dingos rule-.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -928,7 +928,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/DeusData/codebase-memory-mcp">DeusData/codebase-memory-mcp</a></b> (🥇35 ·  ⭐ 41K · 🐣) - High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph average repo in.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/DeusData/codebase-memory-mcp) ⭐ 40,834 | 🐛 521 | 🌐 C | 📅 2026-08-27 (👨‍💻 140 · 🔀 3.3K · 📥 870K · 📦 7 · 📋 860 - 47% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/DeusData/codebase-memory-mcp) ⭐ 40,882 | 🐛 517 | 🌐 C | 📅 2026-08-27 (👨‍💻 140 · 🔀 3.3K · 📥 870K · 📦 7 · 📋 860 - 47% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/public-ui/kolibri">public-ui/kolibri</a></b> (🥇26 ·  ⭐ 280) - Streaming KoliBri MCP server (NPM: @public-ui/mcp) delivering 200+ guaranteed accessible web component samples, specs,.. <code><a href="https://tldrlegal.com/search?q=EUPL-1.2">❗️EUPL-1.2</a></code></summary>
@@ -958,17 +958,17 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/hechtcarmel/jetbrains-index-mcp-plugin">hechtcarmel/jetbrains-index-mcp-plugin</a></b> (🥇19 ·  ⭐ 320) - A JetBrains IDE plugin that exposes an MCP server, enabling AI coding assistants to leverage the IDEs indexing and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin) ⭐ 322 | 🐛 17 | 🌐 Kotlin | 📅 2026-08-25 (👨‍💻 26 · 🔀 67 · 📥 64 · 📋 85 - 2% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/hechtcarmel/jetbrains-index-mcp-plugin) ⭐ 322 | 🐛 18 | 🌐 Kotlin | 📅 2026-08-27 (👨‍💻 26 · 🔀 67 · 📥 64 · 📋 85 - 2% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/storybookjs/mcp">storybookjs/mcp</a></b> (🥇19 ·  ⭐ 270) - Help agents automatically write and test stories for your UI components. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/storybookjs/mcp) ⭐ 268 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 18 · 🔀 43 · 📋 57 - 52% open · ⏱️ 15.08.2026)
+* [GitHub](https://github.com/storybookjs/mcp) ⭐ 269 | 🐛 48 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 18 · 🔀 43 · 📋 57 - 52% open · ⏱️ 15.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/robotmcp/ros-mcp-server">robotmcp/ros-mcp-server</a></b> (🥈18 ·  ⭐ 1.4K) - The ROS MCP Server supports robot control by converting user-issued natural language commands into ROS or ROS2 control.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,414 | 🐛 61 | 🌐 Python | 📅 2026-08-26 (👨‍💻 19 · 🔀 200 · 📥 6 · 📋 99 - 22% open · ⏱️ 18.06.2026)
+* [GitHub](https://github.com/robotmcp/ros-mcp-server) ⭐ 1,415 | 🐛 61 | 🌐 Python | 📅 2026-08-27 (👨‍💻 19 · 🔀 200 · 📥 6 · 📋 99 - 22% open · ⏱️ 18.06.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/flytohub/flyto-core">flytohub/flyto-core</a></b> (🥈18 ·  ⭐ 480) - Deterministic execution engine for AI agents with 412 modules across 78 categories (browser, file, Docker, data,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -978,12 +978,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/haris-musa/excel-mcp-server">haris-musa/excel-mcp-server</a></b> (🥈17 ·  ⭐ 4.1K) - An Excel manipulation server providing workbook creation, data operations, formatting, and advanced features (charts,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/haris-musa/excel-mcp-server) ⭐ 4,143 | 🐛 68 | 🌐 Python | 📅 2026-04-12 (👨‍💻 10 · 🔀 450 · 📋 80 - 66% open · ⏱️ 12.04.2026)
+* [GitHub](https://github.com/haris-musa/excel-mcp-server) ⭐ 4,144 | 🐛 68 | 🌐 Python | 📅 2026-04-12 (👨‍💻 10 · 🔀 450 · 📋 80 - 66% open · ⏱️ 12.04.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/utensils/mcp-nixos">utensils/mcp-nixos</a></b> (🥈17 ·  ⭐ 810) - MCP server providing accurate information about NixOS packages, system options, Home Manager configurations, and nix-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/utensils/mcp-nixos) ⭐ 809 | 🐛 2 | 🌐 Python | 📅 2026-08-12 (👨‍💻 14 · 🔀 43 · 📋 54 - 3% open · ⏱️ 12.08.2026)
+* [GitHub](https://github.com/utensils/mcp-nixos) ⭐ 810 | 🐛 2 | 🌐 Python | 📅 2026-08-12 (👨‍💻 14 · 🔀 43 · 📋 54 - 3% open · ⏱️ 12.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/comet-ml/opik-mcp">comet-ml/opik-mcp</a></b> (🥈17 ·  ⭐ 220) - Use natural language to explore LLM observability, traces, and monitoring data captured by Opik. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1003,7 +1003,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/21st-dev/magic-mcp">21st-dev/magic-mcp</a></b> (🥈15 ·  ⭐ 5.7K) - Create crafted UI components inspired by the best 21st.dev design engineers. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/21st-dev/magic-mcp) ⭐ 5,734 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-31 (👨‍💻 7 · 🔀 440 · 📦 14 · 📋 46 - 2% open · ⏱️ 31.07.2026)
+* [GitHub](https://github.com/21st-dev/magic-mcp) ⭐ 5,736 | 🐛 1 | 🌐 JavaScript | 📅 2026-07-31 (👨‍💻 7 · 🔀 440 · 📦 14 · 📋 46 - 2% open · ⏱️ 31.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/cjo4m06/mcp-shrimp-task-manager">cjo4m06/mcp-shrimp-task-manager</a></b> (🥈15 ·  ⭐ 2.1K · 💤) - A programming-focused task management system that boosts coding agents like Cursor AI with advanced task memory, self-.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1028,7 +1028,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/Jpisnice/shadcn-ui-mcp-server">Jpisnice/shadcn-ui-mcp-server</a></b> (🥈14 ·  ⭐ 3K) - MCP server that gives AI assistants seamless access to shadcn/ui v4 components, blocks, demos, and metadata. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Jpisnice/shadcn-ui-mcp-server) ⭐ 2,961 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-16 (👨‍💻 19 · 🔀 300 · 📋 22 - 9% open · ⏱️ 16.05.2026)
+* [GitHub](https://github.com/Jpisnice/shadcn-ui-mcp-server) ⭐ 2,962 | 🐛 3 | 🌐 TypeScript | 📅 2026-05-16 (👨‍💻 19 · 🔀 300 · 📋 22 - 9% open · ⏱️ 16.05.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/SDGLBL/mcp-claude-code">SDGLBL/mcp-claude-code</a></b> (🥈13 ·  ⭐ 300 · 💤) - An implementation of Claude Code capabilities using MCP, enabling AI code understanding, modification, and project.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1038,7 +1038,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/natsukium/mcp-servers-nix">natsukium/mcp-servers-nix</a></b> (🥈13 ·  ⭐ 290) - A Nix-based configuration framework for Model Context Protocol (MCP) servers with ready-to-use packages. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/natsukium/mcp-servers-nix) ⭐ 290 | 🐛 17 | 🌐 Nix | 📅 2026-08-26 (👨‍💻 13 · 🔀 36 · 📋 24 - 29% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/natsukium/mcp-servers-nix) ⭐ 290 | 🐛 17 | 🌐 Nix | 📅 2026-08-27 (👨‍💻 13 · 🔀 36 · 📋 24 - 29% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/tumf/mcp-text-editor">tumf/mcp-text-editor</a></b> (🥈13 ·  ⭐ 200) - A line-oriented text file editor. Optimized for LLM tools with efficient partial file access to minimize token usage. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1053,7 +1053,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/JetBrains/mcp-jetbrains">JetBrains/mcp-jetbrains</a></b> (🥉12 ·  ⭐ 970 · 💤) - Connect to JetBrains IDE. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/JetBrains/mcp-jetbrains) ⭐ 966 | 🐛 39 | 🌐 JavaScript | 📅 2026-01-07 (👨‍💻 6 · 🔀 70 · 📥 140 · 📋 76 - 48% open · ⏱️ 18.08.2025)
+* [GitHub](https://github.com/JetBrains/mcp-jetbrains) ⭐ 965 | 🐛 39 | 🌐 JavaScript | 📅 2026-01-07 (👨‍💻 6 · 🔀 70 · 📥 140 · 📋 76 - 48% open · ⏱️ 18.08.2025)
 
 </details>
 <details><summary><b><a href="https://github.com/etsd-tech/mcp-pointer">etsd-tech/mcp-pointer</a></b> (🥉12 ·  ⭐ 600 · 💤) - Visual DOM element selector for agentic coding tools. Chrome extension + MCP server bridge for Claude Code, Cursor,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1213,7 +1213,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/lpigeon/unitree-go2-mcp-server">lpigeon/unitree-go2-mcp-server</a></b> (🥉5 ·  ⭐ 86) - The Unitree Go2 MCP Server is a server built on the MCP that enables users to control the Unitree Go2 robot using.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/lpigeon/unitree-go2-mcp-server) ⭐ 86 | 🐛 0 | 🌐 Python | 📅 2026-06-10 (👨‍💻 2 · 🔀 12 · ⏱️ 10.06.2026)
+* [GitHub](https://github.com/lpigeon/unitree-go2-mcp-server) ⭐ 86 | 🐛 1 | 🌐 Python | 📅 2026-06-10 (👨‍💻 2 · 🔀 12 · ⏱️ 10.06.2026)
 
 </details>
 <details><summary>Show 8 hidden projects...</summary>
@@ -1256,12 +1256,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/microsoft/markitdown">microsoft/markitdown</a></b> (🥇32 ·  ⭐ 180K) - MCP tool access to MarkItDown -- a library that converts many file formats (local or remote) to Markdown for LLM.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/microsoft/markitdown) ⭐ 176,568 | 🐛 900 | 🌐 Python | 📅 2026-08-19 (👨‍💻 84 · 🔀 13K · 📦 3.9K · 📋 580 - 68% open · ⏱️ 19.08.2026)
+* [GitHub](https://github.com/microsoft/markitdown) ⭐ 176,639 | 🐛 900 | 🌐 Python | 📅 2026-08-19 (👨‍💻 84 · 🔀 13K · 📦 3.9K · 📋 580 - 68% open · ⏱️ 19.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/mickael-kerjean/filestash">mickael-kerjean/filestash</a></b> (🥈22 ·  ⭐ 15K) - Remote Storage Access: SFTP, S3, FTP, SMB, NFS, WebDAV, GIT, FTPS, gcloud, azure blob, sharepoint, etc. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/mickael-kerjean/filestash) ⭐ 14,555 | 🐛 121 | 🌐 Go | 📅 2026-08-27 (👨‍💻 82 · 🔀 980 · 📦 4 · 📋 720 - 12% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/mickael-kerjean/filestash) ⭐ 14,556 | 🐛 121 | 🌐 Go | 📅 2026-08-27 (👨‍💻 82 · 🔀 980 · 📦 4 · 📋 720 - 12% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/8b-is/smart-tree">8b-is/smart-tree</a></b> (🥈16 ·  ⭐ 270) - AI-native directory visualization with semantic analysis, ultra-compressed formats for AI consumption, and 10x token.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1294,7 +1294,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/xpaysh/awesome-x402">xpaysh/awesome-x402</a></b> (🥇20 ·  ⭐ 290) - Curated directory of x402 payment protocol resources, MCP servers, and tools for HTTP 402-based USDC payments on Base,.. <code><a href="https://tldrlegal.com/search?q=CC0-1.0">❗️CC0-1.0</a></code></summary>
 
-* [GitHub](https://github.com/xpaysh/awesome-x402) ⭐ 285 | 🐛 384 | 📅 2026-07-28 (👨‍💻 530 · 🔀 890 · 📋 47 - 44% open · ⏱️ 28.07.2026)
+* [GitHub](https://github.com/xpaysh/awesome-x402) ⭐ 285 | 🐛 387 | 📅 2026-07-28 (👨‍💻 530 · 🔀 890 · 📋 47 - 44% open · ⏱️ 28.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/longbridge/openapi">longbridge/openapi</a></b> (🥇19 ·  ⭐ 450) - LongPort OpenAPI provides real-time stock market data, provides AI access analysis and trading capabilities through MCP. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1398,7 +1398,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/IvanMurzak/Unity-MCP">IvanMurzak/Unity-MCP</a></b> (🥇28 ·  ⭐ 4K) - MCP Server for Unity Editor and for a game made with Unity. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/IvanMurzak/Unity-MCP) ⭐ 3,996 | 🐛 48 | 🌐 C# | 📅 2026-08-24 (👨‍💻 28 · 🔀 360 · 📥 130K · 📋 400 - 9% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/IvanMurzak/Unity-MCP) ⭐ 3,999 | 🐛 49 | 🌐 C# | 📅 2026-08-24 (👨‍💻 28 · 🔀 360 · 📥 130K · 📋 400 - 9% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/CoderGamester/mcp-unity">CoderGamester/mcp-unity</a></b> (🥈21 ·  ⭐ 1.9K) - MCP Server for Unity3d Game Engine integration for game development. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1408,12 +1408,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/tumourlove/monolith">tumourlove/monolith</a></b> (🥈20 ·  ⭐ 280 · 🐣) - Unreal Engine 5.7 editor plugin that gives AI assistants full read/write access to Blueprints, Materials, Animation,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tumourlove/monolith) ⭐ 284 | 🐛 22 | 🌐 C++ | 📅 2026-08-01 (👨‍💻 14 · 🔀 79 · 📥 3.2K · 📋 55 - 12% open · ⏱️ 01.08.2026)
+* [GitHub](https://github.com/tumourlove/monolith) ⭐ 285 | 🐛 22 | 🌐 C++ | 📅 2026-08-01 (👨‍💻 14 · 🔀 79 · 📥 3.2K · 📋 55 - 12% open · ⏱️ 01.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Coding-Solo/godot-mcp">Coding-Solo/godot-mcp</a></b> (🥉14 ·  ⭐ 5.4K) - A MCP server for interacting with the Godot game engine, providing tools for editing, running, debugging, and managing.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Coding-Solo/godot-mcp) ⭐ 5,386 | 🐛 70 | 🌐 JavaScript | 📅 2026-04-16 (👨‍💻 8 · 🔀 460 · 📋 66 - 56% open · ⏱️ 16.04.2026)
+* [GitHub](https://github.com/Coding-Solo/godot-mcp) ⭐ 5,397 | 🐛 70 | 🌐 JavaScript | 📅 2026-04-16 (👨‍💻 8 · 🔀 460 · 📋 66 - 56% open · ⏱️ 16.04.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/rishijatia/fantasy-pl-mcp">rishijatia/fantasy-pl-mcp</a></b> (🥉14 ·  ⭐ 78) - An MCP server for real-time Fantasy Premier League data and analysis tools. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1446,7 +1446,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/jjsantos01/qgis_mcp">jjsantos01/qgis_mcp</a></b> (🥉8 ·  ⭐ 1.1K · 💤) - connects QGIS Desktop to Claude AI through the MCP. This integration enables prompt-assisted project creation, layer.. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/jjsantos01/qgis_mcp) ⭐ 1,072 | 🐛 16 | 🌐 Python | 📅 2025-10-01 (👨‍💻 4 · 🔀 170 · 📋 25 - 48% open · ⏱️ 01.10.2025)
+* [GitHub](https://github.com/jjsantos01/qgis_mcp) ⭐ 1,073 | 🐛 16 | 🌐 Python | 📅 2025-10-01 (👨‍💻 4 · 🔀 170 · 📋 25 - 48% open · ⏱️ 01.10.2025)
 
 </details>
 <details><summary>Show 1 hidden projects...</summary>
@@ -1464,17 +1464,17 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/headroomlabs-ai/headroom">chopratejas/headroom</a></b> (🥇34 ·  ⭐ 68K) - Context compression layer for AI agents. Compresses tool outputs, logs, RAG chunks, files, and conversation history.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/headroomlabs-ai/headroom) ⭐ 67,763 | 🐛 561 | 🌐 Python | 📅 2026-08-27 (👨‍💻 250 · 🔀 5.2K · 📥 8.7K · 📋 960 - 26% open · ⏱️ 26.08.2026)
+* [GitHub](https://github.com/headroomlabs-ai/headroom) ⭐ 67,810 | 🐛 563 | 🌐 Python | 📅 2026-08-27 (👨‍💻 250 · 🔀 5.2K · 📥 8.7K · 📋 960 - 26% open · ⏱️ 26.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/topoteretes/cognee">topoteretes/cognee</a></b> (🥇34 ·  ⭐ 30K) - Memory manager for AI apps and Agents using various graph and vector stores and allowing ingestion from 30+ data.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/topoteretes/cognee) ⭐ 30,291 | 🐛 348 | 🌐 Python | 📅 2026-08-27 (👨‍💻 280 · 🔀 3K · 📦 210 · 📋 930 - 9% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/topoteretes/cognee) ⭐ 30,298 | 🐛 348 | 🌐 Python | 📅 2026-08-27 (👨‍💻 280 · 🔀 3K · 📦 210 · 📋 930 - 9% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/upstash/context7">upstash/context7</a></b> (🥈28 ·  ⭐ 61K) - Up-to-date code documentation for LLMs and AI code editors. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/upstash/context7) ⭐ 61,288 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 130 · 🔀 2.9K · 📥 1.1K · 📋 2.3K - 1% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/upstash/context7) ⭐ 61,303 | 🐛 61 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 130 · 🔀 2.9K · 📥 1.1K · 📋 2.3K - 1% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/varun29ankuS/shodh-memory">varun29ankuS/shodh-memory</a></b> (🥈21 ·  ⭐ 280) - Cognitive memory for AI agents with Hebbian learning, 3-tier architecture, and knowledge graphs. Single ~15MB binary,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1500,7 +1500,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/apecloud/ApeRAG">apecloud/ApeRAG</a></b> (🥈17 ·  ⭐ 1.3K) - Production-ready RAG platform combining Graph RAG, vector search, and full-text search. Best choice for building your.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/apecloud/ApeRAG) ⭐ 1,305 | 🐛 36 | 🌐 Python | 📅 2026-05-02 (👨‍💻 19 · 🔀 140 · 📋 420 - 8% open · ⏱️ 15.04.2026)
+* [GitHub](https://github.com/apecloud/ApeRAG) ⭐ 1,306 | 🐛 36 | 🌐 Python | 📅 2026-05-02 (👨‍💻 19 · 🔀 140 · 📋 420 - 8% open · ⏱️ 15.04.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/graphlit/graphlit-mcp-server">graphlit/graphlit-mcp-server</a></b> (🥉12 ·  ⭐ 380 · 💤) - Ingest anything from Slack, Discord, websites, Google Drive, Linear or GitHub into a Graphlit project - and then.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1510,7 +1510,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/jinzcdev/markmap-mcp-server">jinzcdev/markmap-mcp-server</a></b> (🥉12 ·  ⭐ 280) - An MCP server built on markmap that converts Markdown to interactive mind maps. Supports multi-format exports.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/jinzcdev/markmap-mcp-server) ⭐ 278 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 (👨‍💻 2 · 🔀 35 · 📦 3 · ⏱️ 04.08.2026)
+* [GitHub](https://github.com/jinzcdev/markmap-mcp-server) ⭐ 279 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-04 (👨‍💻 2 · 🔀 35 · 📦 3 · ⏱️ 04.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/lostintangent/gistpad-mcp">lostintangent/gistpad-mcp</a></b> (🥉11 ·  ⭐ 200 · 💤) - Use GitHub Gists to manage and access your personal knowledge, daily notes, and reusable prompts. This acts as a.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1564,7 +1564,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/stape-io/google-tag-manager-mcp-server">stape-io/google-tag-manager-mcp-server</a></b> (🥈13 ·  ⭐ 200) - This server supports remote MCP connections, includes built-in Google OAuth, and provide an interface to the Google.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/stape-io/google-tag-manager-mcp-server) ⭐ 206 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-26 (👨‍💻 11 · 🔀 61 · 📋 5 - 60% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/stape-io/google-tag-manager-mcp-server) ⭐ 207 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-26 (👨‍💻 11 · 🔀 61 · 📋 5 - 60% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/gomarble-ai/facebook-ads-mcp-server">gomarble-ai/facebook-ads-mcp-server</a></b> (🥉10 ·  ⭐ 360) - MCP server acting as an interface to the Facebook Ads, enabling programmatic access to Facebook Ads data and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1592,17 +1592,17 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/netdata/netdata">netdata/netdata</a></b> (🥇38 ·  ⭐ 80K) - Discovery, exploration, reporting and root cause analysis using all observability data, including metrics, logs,.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/netdata/netdata) ⭐ 80,319 | 🐛 387 | 🌐 Go | 📅 2026-08-27 (👨‍💻 690 · 🔀 6.4K · 📥 1.6M · 📋 8.3K - 2% open · ⏱️ 26.08.2026)
+* [GitHub](https://github.com/netdata/netdata) ⭐ 80,323 | 🐛 387 | 🌐 Go | 📅 2026-08-27 (👨‍💻 690 · 🔀 6.4K · 📥 1.6M · 📋 8.3K - 2% open · ⏱️ 26.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/grafana/mcp-grafana">grafana/mcp-grafana</a></b> (🥈28 ·  ⭐ 3.4K) - Search dashboards, investigate incidents and query datasources in your Grafana instance. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/grafana/mcp-grafana) ⭐ 3,399 | 🐛 110 | 🌐 Go | 📅 2026-08-27 (👨‍💻 120 · 🔀 420 · 📥 220K · 📦 5 · 📋 310 - 23% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/grafana/mcp-grafana) ⭐ 3,398 | 🐛 109 | 🌐 Go | 📅 2026-08-27 (👨‍💻 120 · 🔀 420 · 📥 220K · 📦 5 · 📋 310 - 23% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/getsentry/sentry-mcp">getsentry/sentry-mcp</a></b> (🥈20 ·  ⭐ 830) - Sentry.io integration for error tracking and performance monitoring. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/getsentry/sentry-mcp) ⭐ 830 | 🐛 103 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 68 · 🔀 140 · 📥 240 · 📋 290 - 23% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/getsentry/sentry-mcp) ⭐ 830 | 🐛 104 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 68 · 🔀 140 · 📥 240 · 📋 290 - 23% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/VictoriaMetrics/mcp-victoriametrics">VictoriaMetrics/mcp-victoriametrics</a></b> (🥉18 ·  ⭐ 220) - Provides comprehensive integration with your VictoriaMetrics instance APIs and documentation for monitoring,.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1617,7 +1617,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/mpeirone/zabbix-mcp-server">mpeirone/zabbix-mcp-server</a></b> (🥉11 ·  ⭐ 250) - Zabbix integration for hosts, items, triggers, templates, problems, data and more. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/mpeirone/zabbix-mcp-server) ⭐ 250 | 🐛 7 | 🌐 Python | 📅 2026-05-10 (👨‍💻 6 · 🔀 74 · 📋 14 - 14% open · ⏱️ 10.05.2026)
+* [GitHub](https://github.com/mpeirone/zabbix-mcp-server) ⭐ 251 | 🐛 7 | 🌐 Python | 📅 2026-05-10 (👨‍💻 6 · 🔀 74 · 📋 14 - 14% open · ⏱️ 10.05.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/seekrays/mcp-monitor">seekrays/mcp-monitor</a></b> (🥉8 ·  ⭐ 91 · 💤) - A system monitoring tool that exposes system metrics via the Model Context Protocol (MCP). This tool allows LLMs to.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1658,17 +1658,17 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/blazickjp/arxiv-mcp-server">blazickjp/arxiv-mcp-server</a></b> (🥇23 ·  ⭐ 3.1K) - Search ArXiv research papers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/blazickjp/arxiv-mcp-server) ⭐ 3,082 | 🐛 7 | 🌐 Python | 📅 2026-08-26 (👨‍💻 18 · 🔀 240 · 📥 280 · 📦 23 · 📋 120 - 1% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/blazickjp/arxiv-mcp-server) ⭐ 3,083 | 🐛 7 | 🌐 Python | 📅 2026-08-26 (👨‍💻 18 · 🔀 240 · 📥 280 · 📦 23 · 📋 120 - 1% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/ihor-sokoliuk/mcp-searxng">ihor-sokoliuk/mcp-searxng</a></b> (🥇23 ·  ⭐ 1.2K) - A Model Context Protocol Server for SearXNG. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ihor-sokoliuk/mcp-searxng) ⭐ 1,166 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-25 (👨‍💻 24 · 🔀 150 · 📦 6 · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/ihor-sokoliuk/mcp-searxng) ⭐ 1,169 | 🐛 2 | 🌐 TypeScript | 📅 2026-08-25 (👨‍💻 24 · 🔀 150 · 📦 6 · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/brightdata/brightdata-mcp">brightdata/brightdata-mcp</a></b> (🥇21 ·  ⭐ 2.6K) - Discover, extract, and interact with the web - one interface powering automated access across the public internet. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/brightdata/brightdata-mcp) ⭐ 2,612 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-12 (👨‍💻 18 · 🔀 320 · 📦 18 · 📋 53 - 20% open · ⏱️ 12.08.2026)
+* [GitHub](https://github.com/brightdata/brightdata-mcp) ⭐ 2,613 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-12 (👨‍💻 18 · 🔀 320 · 📦 18 · 📋 53 - 20% open · ⏱️ 12.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/brave/brave-search-mcp-server">brave/brave-search-mcp-server</a></b> (🥇21 ·  ⭐ 1.4K) - Web search capabilities using Braves Search API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1678,12 +1678,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/exa-labs/exa-mcp-server">exa-labs/exa-mcp-server</a></b> (🥈19 ·  ⭐ 4.9K) - A Model Context Protocol (MCP) server lets AI assistants like Claude use the Exa AI Search API for web searches. This.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/exa-labs/exa-mcp-server) ⭐ 4,930 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 30 · 🔀 370 · 📦 15 · 📋 110 - 15% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/exa-labs/exa-mcp-server) ⭐ 4,931 | 🐛 33 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 30 · 🔀 370 · 📦 15 · 📋 110 - 15% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Aas-ee/open-webSearch">Aas-ee/open-webSearch</a></b> (🥈19 ·  ⭐ 1.7K) - Web search using free multi-engine search (NO API KEYS REQUIRED) Supports Bing, Baidu, DuckDuckGo, Brave, Exa, and CSDN. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Aas-ee/open-webSearch) ⭐ 1,753 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 10 · 🔀 180 · 📋 51 - 23% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/Aas-ee/open-webSearch) ⭐ 1,754 | 🐛 16 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 10 · 🔀 180 · 📋 51 - 23% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nickclyde/duckduckgo-mcp-server">nickclyde/duckduckgo-mcp-server</a></b> (🥈19 ·  ⭐ 1.4K) - Web search using DuckDuckGo. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1698,7 +1698,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/tinyfish-io/agentql-mcp">tinyfish-io/agentql-mcp</a></b> (🥈14 ·  ⭐ 180) - MCP server that provides AgentQLs data extraction capabilities. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/tinyfish-io/agentql-mcp) ⭐ 177 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-24 (👨‍💻 6 · 🔀 45 · 📦 5 · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/tinyfish-io/agentql-mcp) ⭐ 178 | 🐛 7 | 🌐 JavaScript | 📅 2026-08-24 (👨‍💻 6 · 🔀 45 · 📦 5 · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/superagents-lab/search1api-mcp">fatwang2/search1api-mcp</a></b> (🥈14 ·  ⭐ 170) - Search via search1api (requires paid API key). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1723,7 +1723,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/takashiishida/arxiv-latex-mcp">takashiishida/arxiv-latex-mcp</a></b> (🥈12 ·  ⭐ 140) - Get the LaTeX source of arXiv papers to handle mathematical content and equations. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/takashiishida/arxiv-latex-mcp) ⭐ 144 | 🐛 6 | 🌐 Python | 📅 2026-08-24 (👨‍💻 4 · 🔀 17 · 📥 180 · 📋 7 - 42% open · ⏱️ 30.07.2026)
+* [GitHub](https://github.com/takashiishida/arxiv-latex-mcp) ⭐ 145 | 🐛 6 | 🌐 Python | 📅 2026-08-24 (👨‍💻 4 · 🔀 17 · 📥 180 · 📋 7 - 42% open · ⏱️ 30.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nkapila6/mcp-local-rag">nkapila6/mcp-local-rag</a></b> (🥈12 ·  ⭐ 130) - primitive RAG-like web search model context protocol (MCP) server that runs locally. No APIs needed. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1758,7 +1758,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/vectorize-io/vectorize-mcp-server">vectorize-io/vectorize-mcp-server</a></b> (🥉10 ·  ⭐ 110) - Vectorize MCP server for advanced retrieval, Private Deep Research, Anything-to-Markdown file extraction and text.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/vectorize-io/vectorize-mcp-server) ⭐ 111 | 🐛 6 | 🌐 JavaScript | 📅 2026-08-26 (👨‍💻 7 · 🔀 26 · ⏱️ 19.06.2026)
+* [GitHub](https://github.com/vectorize-io/vectorize-mcp-server) ⭐ 111 | 🐛 5 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 7 · 🔀 26 · ⏱️ 19.06.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/hellokaton/unsplash-mcp-server">hellokaton/unsplash-mcp-server</a></b> (🥉9 ·  ⭐ 240) - A MCP server for Unsplash image search. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1814,12 +1814,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/mrexodia/ida-pro-mcp">mrexodia/ida-pro-mcp</a></b> (🥇24 ·  ⭐ 12K) - MCP server for IDA Pro, allowing you to perform binary analysis with AI assistants. This plugin implement.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mrexodia/ida-pro-mcp) ⭐ 11,629 | 🐛 45 | 🌐 Python | 📅 2026-08-17 (👨‍💻 76 · 🔀 1.3K · 📦 2 · 📋 250 - 13% open · ⏱️ 17.08.2026)
+* [GitHub](https://github.com/mrexodia/ida-pro-mcp) ⭐ 11,637 | 🐛 45 | 🌐 Python | 📅 2026-08-27 (👨‍💻 76 · 🔀 1.3K · 📦 2 · 📋 250 - 13% open · ⏱️ 17.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/safedep/vet">safedep/vet</a></b> (🥇24 ·  ⭐ 1.1K) - vet-mcp checks open source packageslike those suggested by AI coding toolsfor vulnerabilities and malicious code. It.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/safedep/vet) ⭐ 1,103 | 🐛 95 | 🌐 Go | 📅 2026-08-27 (👨‍💻 38 · 🔀 110 · 📥 210K · 📦 2 · 📋 240 - 32% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/safedep/vet) ⭐ 1,103 | 🐛 94 | 🌐 Go | 📅 2026-08-27 (👨‍💻 38 · 🔀 110 · 📥 210K · 📦 2 · 📋 240 - 32% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/duriantaco/skylos">duriantaco/skylos</a></b> (🥈22 ·  ⭐ 540) - Dead code detection, security scanning, and code quality analysis for Python, TypeScript, and Go. 98% recall with.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1829,7 +1829,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/zinja-coder/jadx-ai-mcp">zinja-coder/jadx-ai-mcp</a></b> (🥈21 ·  ⭐ 2.7K) - JADX-AI-MCP is a plugin and MCP Server for the JADX decompiler that integrates directly with Model Context Protocol.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/zinja-coder/jadx-ai-mcp) ⭐ 2,717 | 🐛 3 | 🌐 Java | 📅 2026-08-06 (👨‍💻 6 · 🔀 240 · 📥 75K · 📋 58 - 5% open · ⏱️ 06.08.2026)
+* [GitHub](https://github.com/zinja-coder/jadx-ai-mcp) ⭐ 2,718 | 🐛 3 | 🌐 Java | 📅 2026-08-06 (👨‍💻 6 · 🔀 240 · 📥 75K · 📋 58 - 5% open · ⏱️ 06.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/beelzebub-labs/beelzebub">beelzebub-labs/beelzebub</a></b> (🥈18 ·  ⭐ 2.2K) - Beelzebub is a honeypot framework that lets you build honeypot tools using MCP. Its purpose is to detect prompt.. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -1839,12 +1839,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/symgraph/GhidrAssistMCP">symgraph/GhidrAssistMCP</a></b> (🥈18 ·  ⭐ 730) - A native Model Context Protocol server for Ghidra. Includes GUI configuration and logging, 31 powerful tools and no.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/symgraph/GhidrAssistMCP) ⭐ 728 | 🐛 8 | 🌐 Java | 📅 2026-08-03 (👨‍💻 13 · 🔀 65 · 📥 10K · 📋 35 - 22% open · ⏱️ 02.08.2026)
+* [GitHub](https://github.com/symgraph/GhidrAssistMCP) ⭐ 729 | 🐛 8 | 🌐 Java | 📅 2026-08-03 (👨‍💻 13 · 🔀 65 · 📥 10K · 📋 35 - 22% open · ⏱️ 02.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/radareorg/radare2-mcp">radareorg/radare2-mcp</a></b> (🥉16 ·  ⭐ 300) - MCP server for Radare2 disassembler. Provides AI with capability to disassemble and look into binaries for reverse.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/radareorg/radare2-mcp) ⭐ 297 | 🐛 10 | 🌐 C | 📅 2026-08-19 (👨‍💻 12 · 🔀 39 · 📥 1.4K · 📋 23 - 34% open · ⏱️ 19.08.2026)
+* [GitHub](https://github.com/radareorg/radare2-mcp) ⭐ 298 | 🐛 10 | 🌐 C | 📅 2026-08-19 (👨‍💻 12 · 🔀 39 · 📥 1.4K · 📋 23 - 34% open · ⏱️ 19.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/gbrigandi/mcp-server-wazuh">gbrigandi/mcp-server-wazuh</a></b> (🥉14 ·  ⭐ 240 · 💤) - A Rust-based MCP server bridging Wazuh SIEM with AI assistants, providing real-time security alerts and event data for.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1894,7 +1894,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary>Show 2 hidden projects...</summary>
 
-* <b>[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,873 | 🐛 82 | 🌐 Java | 📅 2025-06-23</b> (🥈19 ·  ⭐ 9.9K · 💀) - A Model Context Protocol server for Ghidra that enables LLMs to autonomously reverse engineer applications. Provides.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
+* <b>[LaurieWired/GhidraMCP](https://github.com/LaurieWired/GhidraMCP) ⭐ 9,874 | 🐛 82 | 🌐 Java | 📅 2025-06-23</b> (🥈19 ·  ⭐ 9.9K · 💀) - A Model Context Protocol server for Ghidra that enables LLMs to autonomously reverse engineer applications. Provides.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code>
 * <b>[roadwy/cve-search\_mcp](https://github.com/roadwy/cve-search_mcp) ⭐ 103 | 🐛 1 | 🌐 Python | 📅 2025-07-26</b> (🥉5 ·  ⭐ 100 · 💀) - A Model Context Protocol (MCP) server for querying the CVE-Search API. This server provides comprehensive access to.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code>
 
 </details>
@@ -1908,12 +1908,12 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/karanb192/reddit-mcp-buddy">karanb192/reddit-mcp-buddy</a></b> (🥇15 ·  ⭐ 800) - Browse Reddit posts, search content, and analyze user activity without API keys. Works out-of-the-box with Claude.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/karanb192/reddit-mcp-buddy) ⭐ 805 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-17 (👨‍💻 2 · 🔀 96 · 📥 2.5K · 📋 10 - 60% open · ⏱️ 04.08.2026)
+* [GitHub](https://github.com/karanb192/reddit-mcp-buddy) ⭐ 807 | 🐛 12 | 🌐 TypeScript | 📅 2026-08-17 (👨‍💻 2 · 🔀 96 · 📥 2.5K · 📋 10 - 60% open · ⏱️ 04.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/HagaiHen/facebook-mcp-server">HagaiHen/facebook-mcp-server</a></b> (🥉10 ·  ⭐ 210) - Integrates with Facebook Pages to enable direct management of posts, comments, and engagement metrics through the.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/HagaiHen/facebook-mcp-server) ⭐ 214 | 🐛 3 | 🌐 Python | 📅 2026-04-23 (👨‍💻 3 · 🔀 75 · ⏱️ 23.04.2026)
+* [GitHub](https://github.com/HagaiHen/facebook-mcp-server) ⭐ 214 | 🐛 4 | 🌐 Python | 📅 2026-04-23 (👨‍💻 3 · 🔀 75 · ⏱️ 23.04.2026)
 
 </details>
 <br>
@@ -1939,7 +1939,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/sooperset/mcp-atlassian">sooperset/mcp-atlassian</a></b> (🥇27 ·  ⭐ 5.8K) - MCP server for Atlassian products (Confluence and Jira). Supports Confluence Cloud, Jira Cloud, and Jira Server/Data.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/sooperset/mcp-atlassian) ⭐ 5,799 | 🐛 194 | 🌐 Python | 📅 2026-08-26 (👨‍💻 180 · 🔀 1.3K · 📦 12 · 📋 550 - 25% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/sooperset/mcp-atlassian) ⭐ 5,802 | 🐛 195 | 🌐 Python | 📅 2026-08-27 (👨‍💻 180 · 🔀 1.3K · 📦 12 · 📋 550 - 25% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nguyenvanduocit/jira-mcp">nguyenvanduocit/jira-mcp</a></b> (🥉13 ·  ⭐ 96) - A Go-based MCP connector for Jira that enables AI assistants like Claude to interact with Atlassian Jira. This tool.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1957,7 +1957,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/mbailey/voicemode">mbailey/voicemode</a></b> (🥇23 ·  ⭐ 1.3K) - Complete voice interaction server supporting speech-to-text, text-to-speech, and real-time voice conversations through.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/mbailey/voicemode) ⭐ 1,341 | 🐛 32 | 🌐 Python | 📅 2026-08-24 (👨‍💻 25 · 🔀 180 · 📋 120 - 12% open · ⏱️ 21.07.2026)
+* [GitHub](https://github.com/mbailey/voicemode) ⭐ 1,341 | 🐛 33 | 🌐 Python | 📅 2026-08-24 (👨‍💻 25 · 🔀 180 · 📋 120 - 12% open · ⏱️ 21.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/mberg/kokoro-tts-mcp">mberg/kokoro-tts-mcp</a></b> (🥉6 ·  ⭐ 81 · 💤) - MCP Server that uses the open weight Kokoro TTS models to convert text-to-speech. Can convert text to MP3 on a local.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1988,7 +1988,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/openbnb-org/mcp-server-airbnb">openbnb-org/mcp-server-airbnb</a></b> (🥇15 ·  ⭐ 520) - Provides tools to search Airbnb and get listing details. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/openbnb-org/mcp-server-airbnb) ⭐ 516 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-06 (👨‍💻 5 · 🔀 120 · 📥 1.6K · 📋 32 - 43% open · ⏱️ 06.08.2026)
+* [GitHub](https://github.com/openbnb-org/mcp-server-airbnb) ⭐ 517 | 🐛 34 | 🌐 JavaScript | 📅 2026-08-06 (👨‍💻 5 · 🔀 120 · 📥 1.6K · 📋 32 - 43% open · ⏱️ 06.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/cobanov/teslamate-mcp">cobanov/teslamate-mcp</a></b> (🥉11 ·  ⭐ 140) - A Model Context Protocol (MCP) server that provides access to your TeslaMate database, allowing AI assistants to query.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2006,7 +2006,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/github/github-mcp-server">github/github-mcp-server</a></b> (🥇33 ·  ⭐ 33K · 📈) - Official GitHub server for integration with repository management, PRs, issues, and more. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/github/github-mcp-server) ⭐ 32,548 | 🐛 328 | 🌐 Go | 📅 2026-08-27 (👨‍💻 160 · 🔀 4.7K · 📥 770K · 📋 1K - 15% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/github/github-mcp-server) ⭐ 32,560 | 🐛 331 | 🌐 Go | 📅 2026-08-27 (👨‍💻 160 · 🔀 4.7K · 📥 770K · 📋 1K - 15% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Tiberriver256/mcp-server-azure-devops">Tiberriver256/mcp-server-azure-devops</a></b> (🥉15 ·  ⭐ 380) - Azure DevOps integration for repository management, work items, and pipelines. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2029,7 +2029,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/taylorwilsdon/google_workspace_mcp">taylorwilsdon/google_workspace_mcp</a></b> (🥇27 ·  ⭐ 3.1K) - Comprehensive Google Workspace MCP server with full support for Google Calendar, Drive, Gmail, and Docs, Forms, Chats,.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) ⭐ 3,075 | 🐛 187 | 🌐 Python | 📅 2026-08-27 (👨‍💻 160 · 🔀 950 · 📥 7.4K · 📋 370 - 22% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/taylorwilsdon/google_workspace_mcp) ⭐ 3,076 | 🐛 187 | 🌐 Python | 📅 2026-08-27 (👨‍💻 160 · 🔀 950 · 📥 7.4K · 📋 370 - 22% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/vasylenko/bear-notes-mcp">vasylenko/bear-notes-mcp</a></b> (🥈17 ·  ⭐ 210) - Search, read, create, and update Bear Notes directly from Claude. Local-only with complete privacy. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -2057,37 +2057,37 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 <details><summary><b><a href="https://github.com/PrefectHQ/fastmcp">PrefectHQ/fastmcp</a></b> (🥇36 ·  ⭐ 27K) - A high-level framework for building MCP servers in Python. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/PrefectHQ/fastmcp) ⭐ 27,404 | 🐛 292 | 🌐 Python | 📅 2026-08-27 (👨‍💻 290 · 🔀 2.3K · 📦 20K · 📋 1.8K - 14% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/PrefectHQ/fastmcp) ⭐ 27,407 | 🐛 293 | 🌐 Python | 📅 2026-08-27 (👨‍💻 290 · 🔀 2.3K · 📦 20K · 📋 1.8K - 14% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/screenpipe/screenpipe">screenpipe/screenpipe</a></b> (🥇31 ·  ⭐ 21K) - Local-first system capturing screen/audio with timestamped indexing, SQL/embedding storage, semantic search, LLM-.. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/screenpipe/screenpipe) ⭐ 21,251 | 🐛 89 | 🌐 Rust | 📅 2026-08-27 (👨‍💻 160 · 🔀 2.1K · 📥 1K · 📦 7 · 📋 2.2K - 1% open · ⏱️ 26.08.2026)
+* [GitHub](https://github.com/screenpipe/screenpipe) ⭐ 21,264 | 🐛 85 | 🌐 Rust | 📅 2026-08-27 (👨‍💻 160 · 🔀 2.1K · 📥 1K · 📦 7 · 📋 2.2K - 1% open · ⏱️ 26.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/apify/apify-mcp-server">apify/apify-mcp-server</a></b> (🥇29 ·  ⭐ 4.9K · 📈) - Use 3,000+ pre-built cloud tools, known as Actors, to extract data from websites, e-commerce, social media, search.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/apify/apify-mcp-server) ⭐ 5,109 | 🐛 142 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 44 · 🔀 240 · 📥 9.7K · 📦 12 · 📋 510 - 25% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/apify/apify-mcp-server) ⭐ 5,161 | 🐛 143 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 44 · 🔀 240 · 📥 9.7K · 📦 12 · 📋 510 - 25% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/modelcontextprotocol/servers">modelcontextprotocol/servers</a></b> (🥇28 ·  ⭐ 90K) - MCP server that exercises all the features of the MCP protocol. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/modelcontextprotocol/servers) ⭐ 89,903 | 🐛 550 | 🌐 TypeScript | 📅 2026-08-20 (👨‍💻 1K · 🔀 11K · 📋 1.2K - 21% open · ⏱️ 18.08.2026)
+* [GitHub](https://github.com/modelcontextprotocol/servers) ⭐ 89,909 | 🐛 550 | 🌐 TypeScript | 📅 2026-08-20 (👨‍💻 1K · 🔀 11K · 📋 1.2K - 21% open · ⏱️ 18.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/punkpeye/fastmcp">punkpeye/fastmcp</a></b> (🥈26 ·  ⭐ 3.3K) - A high-level framework for building MCP servers in TypeScript. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/punkpeye/fastmcp) ⭐ 3,254 | 🐛 11 | 🌐 TypeScript | 📅 2026-08-26 (👨‍💻 86 · 🔀 300 · 📦 2.5K · 📋 140 - 5% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/punkpeye/fastmcp) ⭐ 3,254 | 🐛 9 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 86 · 🔀 300 · 📦 2.5K · 📋 140 - 5% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/wanaku-ai/wanaku">wanaku-ai/wanaku</a></b> (🥈22 ·  ⭐ 130) - The Wanaku MCP Router is a SSE-based MCP server that provides an extensible routing engine that allows integrating.. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/wanaku-ai/wanaku) ⭐ 133 | 🐛 39 | 🌐 Rust | 📅 2026-08-27 (👨‍💻 27 · 🔀 50 · 📥 2.3K · 📋 620 - 5% open · ⏱️ 25.08.2026)
+* [GitHub](https://github.com/wanaku-ai/wanaku) ⭐ 133 | 🐛 51 | 🌐 Rust | 📅 2026-08-27 (👨‍💻 27 · 🔀 50 · 📥 2.3K · 📋 620 - 5% open · ⏱️ 25.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/IBM/mcp-cli">IBM/mcp-cli</a></b> (🥈21 ·  ⭐ 2K) - Yet another CLI tool for testing MCP servers. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/IBM/mcp-cli) ⭐ 2,020 | 🐛 30 | 🌐 Python | 📅 2026-08-05 (👨‍💻 22 · 🔀 310 · 📋 89 - 20% open · ⏱️ 30.07.2026)
+* [GitHub](https://github.com/IBM/mcp-cli) ⭐ 2,021 | 🐛 30 | 🌐 Python | 📅 2026-08-05 (👨‍💻 22 · 🔀 310 · 📋 89 - 20% open · ⏱️ 30.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Azure/azure-mcp">Azure/azure-mcp</a></b> (🥈20 ·  ⭐ 1.2K · 💤) - Official Microsoft MCP server for Azure services including Storage, Cosmos DB, and Azure Monitor. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2097,7 +2097,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/Klavis-AI/klavis">Klavis-AI/klavis</a></b> (🥈19 ·  ⭐ 5.8K) - Extract and convert YouTube video information. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/Klavis-AI/klavis) ⭐ 5,794 | 🐛 294 | 🌐 Python | 📅 2026-06-01 (👨‍💻 40 · 🔀 550 · 📋 55 - 49% open · ⏱️ 01.06.2026)
+* [GitHub](https://github.com/Klavis-AI/klavis) ⭐ 5,795 | 🐛 294 | 🌐 Python | 📅 2026-06-01 (👨‍💻 40 · 🔀 550 · 📋 55 - 49% open · ⏱️ 01.06.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/suekou/mcp-notion-server">suekou/mcp-notion-server</a></b> (🥈19 ·  ⭐ 920) - Interacting with Notion API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2112,7 +2112,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/metorial/metorial">metorial/metorial</a></b> (🥈15 ·  ⭐ 3.3K) - Connect AI agents to 600+ integrations with a single interface - OAuth, scaling, and monitoring included. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/metorial/metorial) ⭐ 3,350 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 8 · 🔀 350 · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/metorial/metorial) ⭐ 3,350 | 🐛 1 | 🌐 TypeScript | 📅 2026-08-27 (👨‍💻 8 · 🔀 350 · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/caol64/wenyan-mcp">caol64/wenyan-mcp</a></b> (🥈15 ·  ⭐ 1.3K) - Wenyan MCP Server, which lets AI automatically format Markdown articles and publish them to WeChat GZH. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -2132,7 +2132,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/MarkusPfundstein/mcp-obsidian">MarkusPfundstein/mcp-obsidian</a></b> (🥉12 ·  ⭐ 4.3K) - Interacting with Obsidian via REST API. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/MarkusPfundstein/mcp-obsidian) ⭐ 4,345 | 🐛 100 | 🌐 Python | 📅 2026-08-20 (👨‍💻 19 · 🔀 480 · 📦 1 · 📋 79 - 81% open · ⏱️ 20.08.2026)
+* [GitHub](https://github.com/MarkusPfundstein/mcp-obsidian) ⭐ 4,346 | 🐛 100 | 🌐 Python | 📅 2026-08-20 (👨‍💻 19 · 🔀 480 · 📦 1 · 📋 79 - 81% open · ⏱️ 20.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/wong2/mcp-cli">wong2/mcp-cli</a></b> (🥉11 ·  ⭐ 440) - CLI tool for testing MCP servers. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -2142,7 +2142,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/marcelmarais/spotify-mcp-server">marcelmarais/spotify-mcp-server</a></b> (🥉11 ·  ⭐ 440) - Control Spotify playback and manage playlists. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/marcelmarais/spotify-mcp-server) ⭐ 437 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 23 · 🔀 140 · 📋 13 - 46% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/marcelmarais/spotify-mcp-server) ⭐ 438 | 🐛 17 | 🌐 TypeScript | 📅 2026-08-21 (👨‍💻 23 · 🔀 140 · 📋 13 - 46% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/ttommyth/interactive-mcp">ttommyth/interactive-mcp</a></b> (🥉11 ·  ⭐ 350 · 💤) - Enables interactive LLM workflows by adding local user prompts and chat capabilities directly into the MCP loop. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2182,7 +2182,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 </details>
 <details><summary><b><a href="https://github.com/Seym0n/tiktok-mcp">Seym0n/tiktok-mcp</a></b> (🥉9 ·  ⭐ 190) - Interact with TikTok videos. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/Seym0n/tiktok-mcp) ⭐ 192 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 (👨‍💻 2 · 🔀 27 · 📥 220 · ⏱️ 19.08.2026)
+* [GitHub](https://github.com/Seym0n/tiktok-mcp) ⭐ 193 | 🐛 0 | 🌐 JavaScript | 📅 2026-08-19 (👨‍💻 2 · 🔀 27 · 📥 220 · ⏱️ 19.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/apinetwork/piapi-mcp-server">apinetwork/piapi-mcp-server</a></b> (🥉9 ·  ⭐ 74) - PiAPI MCP server makes users able to generate media content with Midjourney/Flux/Kling/Hunyuan/Udio/Trellis directly.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -2234,20 +2234,20 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 ## Related Resources
 
-* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,872 | 🐛 3,624 | 📅 2026-08-26: A curated list of awesome Model Context Protocol (MCP) servers.
-* [**Awesome MCP Clients**](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6,556 | 🐛 80 | 📅 2026-06-07: A curated list of awesome Model Context Protocol (MCP) clients.
+* [**Awesome MCP Servers**](https://github.com/punkpeye/awesome-mcp-servers) ⭐ 92,887 | 🐛 3,645 | 📅 2026-08-26: A curated list of awesome Model Context Protocol (MCP) servers.
+* [**Awesome MCP Clients**](https://github.com/punkpeye/awesome-mcp-clients) ⭐ 6,557 | 🐛 81 | 📅 2026-06-07: A curated list of awesome Model Context Protocol (MCP) clients.
 * [**Best-of lists**](https://best-of.org): Discover other best-of lists with awesome open-source projects on all kinds of topics.
 
 ## Contribution
 
 Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:
 
-* Open an issue by selecting one of the provided categories from the [issue page](https://github.com/tolkonepiu/best-of-mcp-servers/issues/new/choose) ⭐ 141 | 🐛 24 | 📅 2026-08-26 and fill in the requested information.
-* Modify the [projects.yaml](https://github.com/tolkonepiu/best-of-mcp-servers/blob/main/projects.yaml) ⭐ 141 | 🐛 24 | 📅 2026-08-26 with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/tolkonepiu/best-of-mcp-servers/edit/main/projects.yaml) ⭐ 141 | 🐛 24 | 📅 2026-08-26.
+* Open an issue by selecting one of the provided categories from the [issue page](https://github.com/tolkonepiu/best-of-mcp-servers/issues/new/choose) ⭐ 141 | 🐛 26 | 📅 2026-08-26 and fill in the requested information.
+* Modify the [projects.yaml](https://github.com/tolkonepiu/best-of-mcp-servers/blob/main/projects.yaml) ⭐ 141 | 🐛 26 | 📅 2026-08-26 with your additions or changes, and submit a pull request. This can also be done directly via the [Github UI](https://github.com/tolkonepiu/best-of-mcp-servers/edit/main/projects.yaml) ⭐ 141 | 🐛 26 | 📅 2026-08-26.
 
 If you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the [best-of-generator](https://github.com/best-of-lists/best-of-generator) ⭐ 110 | 🐛 15 | 🌐 Python | 📅 2025-08-31 repository. If you like to create your own best-of list, we recommend to follow [this guide](https://github.com/best-of-lists/best-of/blob/main/create-best-of-list.md) ⭐ 1,891 | 🐛 22 | 📅 2026-08-20.
 
-For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/tolkonepiu/best-of-mcp-servers/blob/main/CONTRIBUTING.md) ⭐ 141 | 🐛 24 | 📅 2026-08-26. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/tolkonepiu/best-of-mcp-servers/blob/main/.github/CODE_OF_CONDUCT.md) ⭐ 141 | 🐛 24 | 📅 2026-08-26.
+For more information on how to add or update projects, please read the [contribution guidelines](https://github.com/tolkonepiu/best-of-mcp-servers/blob/main/CONTRIBUTING.md) ⭐ 141 | 🐛 26 | 📅 2026-08-26. By participating in this project, you agree to abide by its [Code of Conduct](https://github.com/tolkonepiu/best-of-mcp-servers/blob/main/.github/CODE_OF_CONDUCT.md) ⭐ 141 | 🐛 26 | 📅 2026-08-26.
 
 ## License
 

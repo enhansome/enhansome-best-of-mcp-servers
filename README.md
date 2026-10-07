@@ -1304,6 +1304,7 @@ This curated list contains 400 awesome MCP (Model Context Protocol) servers with
 
 ## Finance & Fintech
 
+- [Statsnet](https://github.com/usenetstate/statsnet-mcp) - Background check any company in the world: registration, executives, courts and finances. Remote: `https://statsnet.co/mcp` · Registry: `io.github.usenetstate/statsnet`
 <a href="#contents"><img align="right" width="15" height="15" src="https://git.io/JtehR" alt="Back to top"></a>
 
 *MCP servers for finance & fintech*
